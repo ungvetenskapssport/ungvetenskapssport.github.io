@@ -1,0 +1,25 @@
+# Site settings
+title: Ung Vetenskapssport
+description: ""
+url: "https://projectpages.github.io"
+
+
+# Secondary Parameters
+header-img: "img/sven2.jpg"
+headercolor: "#FFFFFF"
+#logo: 
+
+# Tertiary Parameters
+github_username:  ungvetenskapssport
+facebook_username:  ungvetenskapssport
+#project_repository: 
+#disqus_shortname: 
+#g-analytics: 
+altmetric: true
+
+# Build settings
+plugins: [jekyll-paginate]
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
