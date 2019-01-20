@@ -2,8 +2,10 @@
 
 Soon this will be our official website, built with jekyll using project-pages theme. 
 
-Run with `jekyll serve`
+This website runs jekyll which is written in ruby, installation for ubuntu:
 
-Depends on jekyll, installation instructions can be found [here](https://jekyllrb.com/docs/installation/).
+- `sudo apt-get install ruby-dev`
+- `gem install bundler`
+- `bundle install`
 
-
+Run with `bundle exec jekyll serve`

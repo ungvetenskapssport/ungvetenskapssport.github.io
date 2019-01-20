@@ -1,7 +1,7 @@
 # Site settings
 title: Ung Vetenskapssport
 description: ""
-url: "https://projectpages.github.io"
+#url: 
 
 
 # Secondary Parameters
@@ -18,7 +18,8 @@ facebook_username:  ungvetenskapssport
 altmetric: true
 
 # Build settings
-plugins: [jekyll-paginate]
+gems: [jekyll-paginate-v2]
+#plugins: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
