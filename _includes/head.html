@@ -5,12 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
 	{% include ogmeta.html %}
-	
-	{% if site.altmetric == true %}
-
-	{% include altmetric.html %}
-
-	{% endif %}
 
 	<link rel='shortcut icon' type='image/png' href='{{ site.baseurl }}/favicon.png' />
 
@@ -20,6 +14,8 @@
 	
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl | prepend: site.url }}">
+
+    <link rel="stylesheet" href="/css/styrelsen.css">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/clean-blog.css" | prepend: site.baseurl | prepend: site.url }}">

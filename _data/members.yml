@@ -1,0 +1,28 @@
+# Members
+
+- name: Nicole Hedblom
+  role: Ordförande
+  current: true
+- name: Linn Rydberg
+  role: Kassör
+  current: true
+- name: Måns Magnusson
+  role: Ledamot
+  img: https://avatars0.githubusercontent.com/u/2479779?s=460&v=4
+  current: true
+- name: Lars Åström
+  role: Ledamot
+  img: https://avatars2.githubusercontent.com/u/38130731?s=400&v=4
+  current: true
+- name: Björn Magnusson
+  role: Ledamot
+  current: true
+- name: Teodor Bucht
+  role: Ledamot
+  current: true
+- name: Adam Pettersson
+  role: Ledamot
+  current: true
+- name: Tianfang Zhang
+  role: Ledamot
+  current: true
