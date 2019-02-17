@@ -1,0 +1,15 @@
+- name: Bli medlem
+  url: "/medlem"
+  id: "medlem"
+
+- name: Styrelsen
+  url: "/styrelsen"
+  id: "styrelsen"
+
+- name: Evenemang
+  url: "/events"
+  id: "events"
+
+- name: Träningsmaterial
+  url: "/material"
+  id: "material"

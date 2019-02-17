@@ -1,26 +1,4 @@
-# Site settings
-title: Ung Vetenskapssport
-description: ""
-#url: 
-
-
-# Secondary Parameters
-header-img: "img/sven2.jpg"
-headercolor: "#FFFFFF"
-#logo: 
-
-# Tertiary Parameters
-github_username:  ungvetenskapssport
-facebook_username:  ungvetenskapssport
-#project_repository: 
-#disqus_shortname: 
-#g-analytics: 
-altmetric: true
-
-# Build settings
-plugins: [jekyll-paginate-v2]
-#plugins: [jekyll-paginate]
-#markdown: kramdown
-#highlighter: rouge
-permalink: pretty
-paginate: 10
+name: "Ung Vetenskapssport"
+permalink: "/blog/:year/:month/:day/:title/"
+timezone: "Europe/Stockholm"
+encoding: "utf-8"
