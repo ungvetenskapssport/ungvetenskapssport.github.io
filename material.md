@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tränings-material
+title: Träningsmaterial
 id: material
 ---
 

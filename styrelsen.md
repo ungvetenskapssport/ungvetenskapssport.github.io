@@ -1,9 +1,9 @@
 ---
 layout: page
 id: styrelsen
+title: Ung Vetenskapssports styrelse 2019
 ---
 
-# Ung Vetenskapssports styrelse 2019
 
 Nedan finner du ansikten på alla styrelsemedlemmar. Vill du kontakta komma i kontakt med oss kan du skicka ett mail till <a href="mailto:styrelsen@ungvetenskapssport.se">styrelsen@ungvetenskapssport.se</a> 
 <br>
