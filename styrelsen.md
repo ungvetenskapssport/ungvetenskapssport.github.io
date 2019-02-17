@@ -22,9 +22,6 @@ Nedan finner du ansikten på alla styrelsemedlemmar. Vill du kontakta komma i ko
                 {% if member.city %}
                 <p> {{member.city}} </p>
                 {% endif %}
-                {% if member.github %}
-                <p> <a href="https://github.com/{{ member.github }}" target="_blank"> @{{ member.github }} </a> </p>
-                {% endif %}
                 <h2> 
                 {% if member.mail %}
                 <a href="mailto:{{ member.mail }}"><i class="fa fa-envelope-square"></i></a> 
