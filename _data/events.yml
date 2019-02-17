@@ -1,0 +1,17 @@
+- name: Programmeringsläger 18/19
+  startdate: 2019-02-01
+  enddate: 2019-02-03
+  no_participants: 78
+  location: Lund
+
+- name: Matematikläger 18/19
+  startdate: 2018-12-07
+  enddate: 2018-12-09
+  no_participants: 89
+  location: Lund
+
+- name: Programmeringsläger 17/18
+  startdate: 2018-02-23
+  enddate: 2018-02-25
+  no_participants: 79
+  location: Stockholm
