@@ -7,11 +7,13 @@
   mail: nicole.hedblom@ungvetenskapssport.se
   img: /imgs/styrelse/nicole.png
   current: true
+
 - name: Linn Rydberg
   role: Kassör
   city: Malmö
   mail: linn.rydberg@ungvetenskapssport.se
   current: true
+
 - name: Björn Magnusson
   mail: bjorn.magnusson@ungvetenskapssport.se
   role: Vice ordförande
@@ -19,6 +21,7 @@
   city: Lund
   img: https://avatars3.githubusercontent.com/u/14334856?s=460&v=4
   current: true
+
 - name: Måns Magnusson
   mail: mans.magnusson@ungvetenskapssport.se
   website: exoji2e.github.io
@@ -27,6 +30,7 @@
   city: Lund
   img: https://avatars0.githubusercontent.com/u/2479779?s=460&v=4
   current: true
+
 - name: Lars Åström
   mail: lars.astrom@ungvetenskapssport.se
   github: LarsAstrom
@@ -34,17 +38,21 @@
   city: Lund
   img: https://avatars2.githubusercontent.com/u/38130731?s=400&v=4
   current: true
+
 - name: Teodor Bucht
+  img: /imgs/styrelse/teodor.jpg
   mail: teodor.bucht@ungvetenskapssport.se
   role: Ledamot
   city: Lund
   current: true
+
 - name: Adam Pettersson
   mail: adam.petterson@ungvetenskapssport.se
   role: Ledamot
   city: Stockholm
   img: /imgs/styrelse/adam.jpg
   current: true
+
 - name: Tianfang Zhang
   mail: tianfang.zhang@ungvetenskapssport.se
   img: /imgs/styrelse/tian.jpg
