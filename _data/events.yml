@@ -1,21 +1,26 @@
 - name: Lingvistikläger 18/19
+  upcoming: true
+  inbjudan: "/blog/2019/02/18/ling-camp/"
   startdate: 2019-03-29
   enddate: 2019-03-31
   location: Lund
 
 - name: Programmeringsläger 18/19
+  upcoming: false
   startdate: 2019-02-01
   enddate: 2019-02-03
   no_participants: 78
   location: Lund
 
 - name: Matematikläger 18/19
+  upcoming: false
   startdate: 2018-12-07
   enddate: 2018-12-09
   no_participants: 89
   location: Lund
 
 - name: Programmeringsläger 17/18
+  upcoming: false
   startdate: 2018-02-23
   enddate: 2018-02-25
   no_participants: 79
