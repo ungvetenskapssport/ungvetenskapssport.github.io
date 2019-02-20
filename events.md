@@ -13,7 +13,7 @@ id: events
     <p> {{ event.startdate }} - {{ event.enddate }} </p>
     <p> Plats: {{ event.location }} </p>
     {% if event.inbjudan %}
-    <p><a href="{{ event.inbjudan }}" >Inbjudan</a></p>
+    <p><a href="{{ event.inbjudan }}" >Läs mer...</a></p>
     {% endif %}
 </li>
 {% endif %}{% endfor %}
