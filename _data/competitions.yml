@@ -1,0 +1,19 @@
+- subject: Matematik
+  name: Skolornas Matematiktävling
+  url: https://mattetavling.se/
+- subject: Fysik
+  name: Wallenbergs fysikpris
+  url: http://www.fysikersamfundet.se/wallenbergs-fysikpris/
+- subject: Programmering
+  name: Programmeringsolympiaden
+  url: https://www.progolymp.se/
+- subject: Kemi
+  name: Kemiolympiaden
+  url: http://kemisamfundet.se/kemi-i-skolan/kemiolympiaden/
+- subject: Biologi
+  name: Biologiolympiaden
+  url: https://biologilararna.se/internationella-biologiolympiaden-ibo/
+- subject: Lingvistik
+  name: Lingolympiaden
+  url: https://sites.google.com/site/lingolympiaden/
+
