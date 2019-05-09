@@ -6,10 +6,10 @@
   url: "/styrelsen"
   id: "styrelsen"
 
+- name: MaProgTjej
+  url: "/events/maprogtjej19"
+  id: maprogtjej19
+
 - name: Evenemang
   url: "/events"
   id: "events"
-
-- name: Träningsmaterial
-  url: "/material"
-  id: "material"

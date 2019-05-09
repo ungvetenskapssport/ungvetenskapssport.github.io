@@ -28,6 +28,9 @@ id: events
     <p> {{ event.startdate }} - {{ event.enddate }} </p>
     <p> Antal deltagare: {{ event.no_participants }} </p>
     <p> Plats: {{ event.location }} </p>
+    {% if event.inbjudan %}
+    <p><a href="{{ event.inbjudan }}" >Läs mer...</a></p>
+    {% endif %}
 </li>
 {% endif %}{% endfor %}
 </ul>
