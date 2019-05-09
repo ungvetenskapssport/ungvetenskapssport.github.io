@@ -11,4 +11,4 @@ Föreningens viktigaste beståndsdel är dess medlemmar. Det är medlemmarna som
 
 Att bli medlem är helt gratis. Som medlem får du ta del av vår verksamhet, och vi kommer även skicka utskick till dig om våra aktiviteter.
 
-Vi får bidrag för personer som är upp till 25 år gammla. Självfallet är du välkommen som medlem även om du är äldre än 25 år! 
+Vi får bidrag för personer som är upp till 25 år gamla. Självfallet är du välkommen som medlem även om du är äldre än 25 år! 
