@@ -1,9 +1,9 @@
 ---
 layout: page
 id: maprogtjej19
+title: "Matematik och Programmeringsläger för tjejer 2019"
 ---
 
-# Matematik och Programmeringsläger för tjejer
 #### 10 - 12 maj 2019
 
 ## Schema
