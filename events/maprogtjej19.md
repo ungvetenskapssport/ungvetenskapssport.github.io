@@ -39,3 +39,6 @@ Vi kommer använda oss av programmet "IDLE" som kommer med när ni installerar v
 ## Problem-blad:
 
 [Problemlosning-Forelasning-1.pdf](/assets/201905/Problemlosning-Forelasning-1.pdf)
+
+## Discord:
+Discord är ett chattprogram! Ung Vetenskapssport har en egen discord-server, med en ny kanal för lägret. Joina genom [https://discord.gg/bjeQB2t](https://discord.gg/bjeQB2t). Där kan ni få kontakt med varandra :)
