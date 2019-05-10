@@ -32,7 +32,7 @@ title: "Matematik och Programmeringsläger för tjejer 2019"
 
 ## Installera python3:
 Python3 kan ni installera via följande länk:
-[https://www.python.org/downloads/](://www.python.org/downloads//)
+[https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 Vi kommer använda oss av programmet "IDLE" som kommer med när ni installerar via länken.
 
