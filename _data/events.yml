@@ -11,6 +11,7 @@
   startdate: 2019-03-29
   enddate: 2019-03-31
   location: Lund
+  no_participants: 15
 
 - name: Programmeringsläger 18/19
   upcoming: false
