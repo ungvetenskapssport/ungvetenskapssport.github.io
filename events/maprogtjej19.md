@@ -38,3 +38,15 @@ Vi kommer använda oss av programmet "IDLE" som kommer med när ni installerar v
 
 ## Discord:
 Discord är ett chattprogram! Ung Vetenskapssport har en egen discord-server, med en ny kanal för lägret. Joina genom [https://discord.gg/bjeQB2t](https://discord.gg/bjeQB2t). Där kan ni få kontakt med varandra :)
+
+## Coding for Candy
+- Sätt ett alarm 45 minuter innan ert tåg går, så ni hinner gå till stationen.
+- Söndag 11:30 - 14:30
+- [https://open.kattis.com/contests/jeqs8h](https://open.kattis.com/contests/jeqs8h)
+- Lag om 2 till 3 personer, välj ett bra lagnamn!
+- När ni löser ett problem hamnar ni överst på scoreboarden och får gå och hämta varsin godis i korridoren.
+- Scoreboarden uppdateras dock bara en gång i minuten (så det tar en liten stund innan ert lösta problem syns). 
+- Det finns väldigt många problem. Ni kan öva på problemen ni inte hinner lösa efter lägret.
+- Fastnar ni på ett problem, fråga oss!
+- Använd gärna endast en dator så blir det lättare att sammarbeta.
+- Lunch kommer vid 12:30.
