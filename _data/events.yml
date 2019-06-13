@@ -1,9 +1,10 @@
 - name: "Matematik och Programmeringsläger för tjejer 2019"
-  upcoming: true
+  upcoming: false
   inbjudan: "/events/maprogtjej19"
   startdate: 2019-05-10
   enddate: 2019-05-12
   location: Lund
+  no_participants: 40
 
 - name: Lingvistikläger 18/19
   upcoming: false
