@@ -3,13 +3,16 @@
   url: https://mattetavling.se/
 - subject: Fysik
   name: Wallenbergs fysikpris
-  url: http://www.fysikersamfundet.se/wallenbergs-fysikpris/
+  url: https://www.fysikersamfundet.se/wallenbergs-fysikpris/
+- subject: Experimentell Fysik
+  name: IYPT
+  url: http://www.iypt.se/sv/vad-ar-iypt-what-is-iypt/
 - subject: Programmering
   name: Programmeringsolympiaden
   url: https://www.progolymp.se/
 - subject: Kemi
   name: Kemiolympiaden
-  url: http://kemisamfundet.se/kemi-i-skolan/kemiolympiaden/
+  url: https://kemisamfundet.se/kemi-i-skolan/kemiolympiaden/
 - subject: Biologi
   name: Biologiolympiaden
   url: https://biologilararna.se/internationella-biologiolympiaden-ibo/
