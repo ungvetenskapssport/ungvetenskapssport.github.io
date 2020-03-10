@@ -1,61 +1,46 @@
 # Members
 
 - name: Nicole Hedblom
-  github: nicolehedblom
   role: Ordförande
   city: Stockholm
   mail: nicole.hedblom@ungvetenskapssport.se
   img: /imgs/styrelse/nicole.png
   current: true
 
-- name: Linn Rydberg
-  role: Kassör
-  city: Malmö
-  mail: linn.rydberg@ungvetenskapssport.se
-  current: true
-
 - name: Björn Magnusson
   mail: bjorn.magnusson@ungvetenskapssport.se
   role: Vice ordförande
-  github: BjornMagn
   city: Lund
   img: https://avatars3.githubusercontent.com/u/14334856?s=460&v=4
   current: true
 
-- name: Måns Magnusson
-  mail: mans.magnusson@ungvetenskapssport.se
-  website: exoji2e.github.io
-  github: exoji2e
-  role: Ledamot
+- name: Linn Rydberg
+  role: Kassör
   city: Lund
-  img: https://avatars0.githubusercontent.com/u/2479779?s=460&v=4
+  mail: linn.rydberg@ungvetenskapssport.se
   current: true
 
-- name: Lars Åström
-  mail: lars.astrom@ungvetenskapssport.se
-  github: LarsAstrom
+- name: Erik Amirell Eklöf
+  mail: erik.amirell.eklof@ungvetenskapssport.se
   role: Ledamot
   city: Lund
-  img: https://avatars2.githubusercontent.com/u/38130731?s=400&v=4
+  img: https://avatars1.githubusercontent.com/u/23399946?s=460&v=4
   current: true
 
-- name: Teodor Bucht
-  img: /imgs/styrelse/teodor.jpg
-  mail: teodor.bucht@ungvetenskapssport.se
+- name: Hugo Eberhard
   role: Ledamot
   city: Lund
+  mail: hugo.eberhard@ungvetenskapssport.se
   current: true
 
-- name: Adam Pettersson
-  mail: adam.petterson@ungvetenskapssport.se
+- name: Mattias Akke
+  role: Ledamot
+  city: Lund
+  mail: mattias.akke@ungvetenskapssport.se
+  current: true
+
+- name: Ellinor Jönson
   role: Ledamot
   city: Stockholm
-  img: /imgs/styrelse/adam.jpg
-  current: true
-
-- name: Tianfang Zhang
-  mail: tianfang.zhang@ungvetenskapssport.se
-  img: /imgs/styrelse/tian.jpg
-  role: Ledamot
-  city: Stockholm
+  mail: ellinor.jonson@ungvetenskapssport.se
   current: true

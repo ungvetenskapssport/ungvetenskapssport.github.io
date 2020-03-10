@@ -1,3 +1,10 @@
+- name: "Matematikläger 19/20"
+  upcoming: false
+  startdate: 2020-02-24
+  enddate: 2020-02-26
+  location: Lund
+  no_participants: 90
+
 - name: "Matematik och Programmeringsläger för tjejer 2019"
   upcoming: false
   inbjudan: "/events/maprogtjej19"
