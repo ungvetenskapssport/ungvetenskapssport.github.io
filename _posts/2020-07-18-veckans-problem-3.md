@@ -23,6 +23,6 @@ autoNumber: "AMS"
 
 **Vecka 3**
 
-Ekvationen $$\frac{1}{x} + \frac{1}{y} = N$$ har exakt $$2005$$ lösningar. Visa att $$N$$ är en kvadrat!
+Givet är ett positivt heltal $$N$$. Det visar sig att ekvationen $$\frac{1}{x} + \frac{1}{y} = N$$ har exakt $$2005$$ positiva heltalslösningar $$(x,y)$$. Visa att $$N$$ är en kvadrat!
 
 Precis som förra veckan kan man skicka in lösningar till [veckansproblem@ungvetenskapssport.se](mailto:veckansproblem@ungvetenskapssport.se)!
