@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Veckans problem 3"
-date:   2020-07-18
+title:  "Veckans problem 4"
+date:   2020-07-25
 ---
 <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
@@ -21,9 +21,12 @@ autoNumber: "AMS"
 });
 </script>
 
-**Vecka 3**
+**Vecka 4**
 
-Givet är ett positivt heltal $$N$$. Det visar sig att ekvationen $$\frac{1}{x} + \frac{1}{y} = \frac{1}{N}$$ har exakt $$2005$$ positiva heltalslösningar $$(x,y)$$. Visa att $$N$$ är en kvadrat!
+Denna veckan finns två delproblem.
 
+(a) Hitta ett positivt heltal $a$ så att $n^6 + a$ inte är ett primtal för några heltal $n$.
 
-Klicka [här](/veckans_problem_solutions/sol_3) för att se en lösning!
+(b) Hitta ett positivt heltal $a$ så att $n^4 + a$ inte är ett primtal för några heltal $n$.
+
+Precis som förra veckan kan man skicka in lösningar till [veckansproblem@ungvetenskapssport.se](mailto:veckansproblem@ungvetenskapssport.se)!
