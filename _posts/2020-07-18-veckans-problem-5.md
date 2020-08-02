@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Veckans problem 4"
-date:   2020-07-25
+title:  "Veckans problem 5"
+date:   2020-08-01
 ---
 <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
@@ -21,12 +21,11 @@ autoNumber: "AMS"
 });
 </script>
 
-**Vecka 4**
+**Vecka 5**
 
-Denna veckan finns två delproblem.
+En groda som sitter ett steg åt vänster och två steg uppåt i ett $4\times4$-gitter påbörjar en följd hopp. Hoppens riktning väljs slumpvis till nån av grodans fyra närmaste gitterpunkter. Följden slutar när grodan når någon av gittrets yttersta punkter. Vad är sannolikheten att följden slutar på de tre nedersta eller de tre översta gitterpunkterna?
 
-(a) Hitta ett positivt heltal $a$ så att $n^6 + a$ inte är ett primtal för några heltal $n$.
+<img src="/imgs/veckans_problem_5.png" alt="drawing" width="500"/>
 
-(b) Hitta ett positivt heltal $a$ så att $n^4 + a$ inte är ett primtal för några heltal $n$.
-
-Klicka [här](/veckans_problem_solutions/sol_4) för att se en lösning!
+Precis som förra veckan kan man skicka lösningar till
+[veckansproblem@ungvetenskapssport.se](mailto:veckansproblem@ungvetenskapssport.se)!
