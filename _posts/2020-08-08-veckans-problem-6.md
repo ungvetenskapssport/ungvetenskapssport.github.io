@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Veckans problem 5"
-date:   2020-08-01
+title:  "Veckans problem 6"
+date:   2020-08-08
 ---
 <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
@@ -21,11 +21,9 @@ autoNumber: "AMS"
 });
 </script>
 
-**Vecka 5**
+**Vecka 6**
 
-En groda som sitter ett steg åt vänster och två steg uppåt i ett $4\times4$-gitter påbörjar en följd hopp. Hoppens riktning väljs slumpvis till nån av grodans fyra närmaste gitterpunkter. Följden slutar när grodan når någon av gittrets yttersta punkter. Vad är sannolikheten att följden slutar på de tre nedersta eller de tre översta gitterpunkterna?
-
-<img src="/imgs/veckans_problem_5.png" alt="drawing" width="500"/>
+Finns det ett tal som är delbart med $2020$, och som innehåller var och en av de tio siffrorna lika många gånger?
 
 Precis som förra veckan kan man skicka lösningar till
 [veckansproblem@ungvetenskapssport.se](mailto:veckansproblem@ungvetenskapssport.se)!
