@@ -1,3 +1,7 @@
+div .contentWrapper {
+    margin-left: 10px;
+    margin-right: 10px;
+}
 table {
 	font-family: verdana,arial,sans-serif;
 	font-size:11px;
