@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Veckans problem 6"
-date:   2020-08-08
+title:  "Veckans problem 7"
+date:   2020-08-15
 ---
 <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
@@ -21,8 +21,11 @@ autoNumber: "AMS"
 });
 </script>
 
-**Vecka 6**
+**Vecka 7**
 
-Finns det ett tal som är delbart med $2020$, och som innehåller var och en av de tio siffrorna lika många gånger?
+Rektanglarna nedan är kongruenta. Bestäm den markerade vinkeln.
 
-Klicka [här](/veckans_problem_solutions/sol_6) för att se en lösning!
+<img src="/imgs/veckans_problem_7.png" alt="drawing" width="500"/>
+
+Precis som förra veckan kan man skicka lösningar till
+[veckansproblem@ungvetenskapssport.se](mailto:veckansproblem@ungvetenskapssport.se)!
