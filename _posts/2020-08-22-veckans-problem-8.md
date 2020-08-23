@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Veckans problem 7"
-date:   2020-08-15
+title:  "Veckans problem 8"
+date:   2020-08-22
 ---
 <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
@@ -21,10 +21,11 @@ autoNumber: "AMS"
 });
 </script>
 
-**Vecka 7**
+**Vecka 8**
 
-Rektanglarna nedan är kongruenta. Bestäm den markerade vinkeln.
+Visa att om $A_1A_2...A_n$ är en regelbunden $n-$hörning vars omskrivna cirkel har radie $1$ (så $\|A_1O\| = 1$), så är  $\|A_1A_2\| \cdot \|A_1A_3\| \cdot \|A_1A_4\| \cdot ... \cdot \|A_1A_n\| = n$.
 
-<img src="/imgs/veckans_problem_7.png" alt="drawing" width="500"/>
+<img src="/imgs/veckans_problem_8.png" alt="drawing" width="200"/>
 
-Klicka [här](/veckans_problem_solutions/sol_7) för att se en lösning!
+Precis som förra veckan kan man skicka lösningar till
+[veckansproblem@ungvetenskapssport.se](mailto:veckansproblem@ungvetenskapssport.se)!
