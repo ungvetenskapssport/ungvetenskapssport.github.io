@@ -27,5 +27,4 @@ Visa att om $A_1A_2...A_n$ är en regelbunden $n-$hörning vars omskrivna cirkel
 
 <img src="/imgs/veckans_problem_8.png" alt="drawing" width="200"/>
 
-Precis som förra veckan kan man skicka lösningar till
-[veckansproblem@ungvetenskapssport.se](mailto:veckansproblem@ungvetenskapssport.se)!
+Klicka [här](/veckans_problem_solutions/sol_8) för att se en lösning!
