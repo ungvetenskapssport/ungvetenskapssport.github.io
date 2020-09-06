@@ -31,5 +31,4 @@ I bilden nedan bildas till exempel en symmetrilinje om den sjätte personen sät
 
 <img src="/imgs/veckans_problem_9.png" alt="drawing" width="500"/>
 
-Precis som förra veckan kan man skicka lösningar till
-[veckansproblem@ungvetenskapssport.se](mailto:veckansproblem@ungvetenskapssport.se)!
+Klicka [här](/veckans_problem_solutions/sol_9) för att se en lösning!
