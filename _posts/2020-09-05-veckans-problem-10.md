@@ -25,5 +25,4 @@ autoNumber: "AMS"
 
 Visa att alla tal $x \leq 2020!$ kan skrivas som en summa av som mest $2020$ delare till $2020!$.
 
-Precis som förra veckan kan man skicka lösningar till
-[veckansproblem@ungvetenskapssport.se](mailto:veckansproblem@ungvetenskapssport.se)!
+Klicka [här](/veckans_problem_solutions/sol_10) för att se en lösning!
