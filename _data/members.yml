@@ -1,46 +1,46 @@
 # Members
 
-- name: Nicole Hedblom
+- name: Hugo Eberhard
   role: Ordförande
-  city: Stockholm
+  mail: hugo.eberhard@ungvetenskapssport.se
+  current: true
+
+- name: Nicole Hedblom
+  role: Ledamot
   mail: nicole.hedblom@ungvetenskapssport.se
-  img: /imgs/styrelse/nicole.png
   current: true
 
 - name: Björn Magnusson
   mail: bjorn.magnusson@ungvetenskapssport.se
-  role: Vice ordförande
-  city: Lund
-  img: https://avatars3.githubusercontent.com/u/14334856?s=460&v=4
+  role: Ledamot
   current: true
 
 - name: Linn Rydberg
   role: Kassör
-  city: Lund
   mail: linn.rydberg@ungvetenskapssport.se
   current: true
 
 - name: Erik Amirell Eklöf
   mail: erik.amirell.eklof@ungvetenskapssport.se
   role: Ledamot
-  city: Lund
-  img: https://avatars1.githubusercontent.com/u/23399946?s=460&v=4
-  current: true
-
-- name: Hugo Eberhard
-  role: Ledamot
-  city: Lund
-  mail: hugo.eberhard@ungvetenskapssport.se
-  current: true
-
-- name: Mattias Akke
-  role: Ledamot
-  city: Lund
-  mail: mattias.akke@ungvetenskapssport.se
   current: true
 
 - name: Ellinor Jönson
   role: Ledamot
-  city: Stockholm
   mail: ellinor.jonson@ungvetenskapssport.se
+  current: true
+
+- name: Julia Mårtensson
+  role: Ledamot
+  mail: julia.martensson@ungvetenskapssport.se
+  current: true
+
+- name: Marcus Gehrman
+  role: Ledamot
+  mail: marcus.gehrmann@ungvetenskapssport.se
+  current: true
+
+- name: Harun Gürhan
+  role: Ledamot
+  mail: harun.gurhan@ungvetenskapssport.se
   current: true
