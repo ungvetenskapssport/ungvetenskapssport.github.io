@@ -1,3 +1,11 @@
+- name: "Matematikturné 20/21 (online)"
+  upcoming: true
+  inbjudan: "/blog/2021/03/11/math-camp"
+  startdate: 2020-03-20
+  enddate: 2020-04-24
+  location: online
+  no_participants: 0
+
 - name: "Matematikläger 19/20"
   upcoming: false
   startdate: 2020-02-24
