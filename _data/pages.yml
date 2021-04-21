@@ -9,3 +9,7 @@
 - name: Evenemang
   url: "/events"
   id: "events"
+
+- name: Resurser
+  url: "/resurser"
+  id: "resurser"

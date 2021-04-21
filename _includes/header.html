@@ -13,7 +13,7 @@
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      
+
       <ul class="nav navbar-nav">
         {% for nav in site.data.pages %}
         <li {% if page.id==nav.id %} class="active" {% endif %}><a href="{{ nav.url | prepend: site.baseurl }}">{{ nav.name }}</a></li>
