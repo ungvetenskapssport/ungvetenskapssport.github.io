@@ -22,10 +22,10 @@ Under battlen kommer lagen turas om att *utmana* varandra på problem i totalt 1
   Opponenten har då 3 minuter på sig att ställa frågor till presentatören. Ingen annan får ställa frågor under denna tid, och presentatören får lov att tänka i upp till en minut innan en fråga besvaras. Däremot får inte presentatören ändra lösningen avsevärt i svaret på frågorna, utan enbart förtydliga och förklara mer ingående.
 
   När opponenten inte har fler frågor eller när tiden är slut så ger hen sin bedömning av lösningen. Det finns tre möjligheter: lösningen är helt korrekt, lösningen har små fel eller lösningen är inkorrekt.
-  * Om opponenten tycker att lösningen är helt korrekt, eller inte korrekt lyckas peka på några fel, så får hen 0 poäng. Därefter delar juryn ut mellan 0 och 12 poäng till lag B. I detta fall kan poäng delas ut även för en felaktig eller ofullständig lösning, om juryn bedömer att laget tagit ett viktigt steg mot en lösning.
+  * Om opponenten tycker att lösningen är helt korrekt, eller inte lyckas peka på några fel, så får hen 0 poäng. Därefter delar juryn ut mellan 0 och 12 poäng till lag B. I detta fall kan poäng delas ut även för en felaktig eller ofullständig lösning, om juryn bedömer att laget tagit ett viktigt steg mot en lösning.
   * Om opponenten tycker att lösningen är huvudsakligen korrekt men innehåller små fel så måste hen peka på vilka brister hen anser finns. Därefter delar juryn ut mellan 0 och 12 poäng till lag B. Om opponenten lyckats peka ut brister i lösningen så kan lag A i detta fall också tilldelas upp till 6 poäng, så länge den totala poängen som delas ut är max 12.
   * Om opponenten tycker att lösningen är helt fel, och juryn håller med om detta och att opponenten lyckats visa varför, så tilldelas lag A 6 poäng medan lag B får 0 poäng. Därefter får opponenten en chans att visa sitt lags lösning (om de har en, de måste inte visa en lösning). Under en sådan presentation får presentatören från lag B opponera på samma vis som ovan. Juryn kan i detta fall dela ut upp till 6 ytterligare poäng fördelat på lag A och lag B, beroende på om den nya lösning som presenteras är korrekt eller inte samt om opponenten hittade några fel.
-  
+
   Juryn kan välja att dela ut poäng som inte tillfallit något av lagen till sig själva.
 
 
