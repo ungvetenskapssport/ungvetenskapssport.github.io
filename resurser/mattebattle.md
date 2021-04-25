@@ -3,6 +3,8 @@ layout: page
 title: Mattebattle - regler
 ---
 
+*Det finns en kortversion av reglerna (som också kan användas som minnesanteckning under tävlingen) [här](/resurser/mattebattle_kort).*
+
 **Vad är en mattebattle?**\\
 En mattebattle är en problemlösningstävling mellan två lag. Man får ett antal problem som vart och ett är värt upp till 12 poäng, och vinner gör man om man i slutet har minst 4 poäng mer än det andra laget. Annars blir det oavgjort.
 
@@ -13,7 +15,7 @@ Innan battlen börjar så får båda lagen (som brukar bestå av 6-10 personer) 
 Under battlen så kommer det finnas en jury som bestämmer hur många poäng de respektive lagen får för varje uppgift som presenteras. Juryn kan dela ut upp till 12 poäng per uppgift totalt, som fördelas mellan laget som presenterar en lösning och laget som opponerar, enligt nedan. Om mindre än 12 poäng delas ut totalt så kan juryn välja att ge resterande poäng till sig själva. Det juryn säger är alltid det som gäller.
 
 **Battlen**\\
-Under battlen kommer lagen turas om att *utmana* varandra på problem i totalt 10 rundor (eller så många som man kommit överens om innan). Om lag A ska utmana lag B så får de en minut på sig att välja ett problem att utmana på. När de utmanat på ett problem så har lag B två möjligheter: acceptera utmaningen eller avböja den.
+Under battlen kommer lagen turas om att *utmana* varandra på problem i totalt 10 rundor (eller så många som man kommit överens om innan). Om lag A ska utmana lag B så får de en minut på sig att välja ett problem att utmana på. När de utmanat på ett problem så har lag B två möjligheter: acceptera utmaningen eller avböja den. Vad som händer i de olika fallen beskrivs nedan, och finns också sammanfattat i bilden längst ner på sidan.
 
 * *Accepterad utmaning.* Om lag B accepterar utmaningen så väljer de en person som presenterar lösningen, medan lag A väljer en person som opponerar. Dessa två och juryn är därefter de enda som får prata tills rundan är slut (såvida inte en timeout begärts av något av lagen).
 
@@ -47,3 +49,5 @@ När alla rundor är slut vinner ett lag om de har minst 4 poäng mer än det an
 
 
 * När som helst under en presentation eller opponering får lagen begära en timeout. I så fall pausas battlen i 30 sekunder, då (båda) lagen får prata med varandra. Detta kan vara en bra idé till exempel om någon i laget ser ett fel med andra lagets lösning som opponenten inte verkar hitta. Varje lag får begära max 6 timeouts totalt under hela battlen.
+
+<div style="text-align:center"><img src="/imgs/mattebattle.png" alt="drawing" width="800"/>
