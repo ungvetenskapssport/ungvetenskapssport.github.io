@@ -7,6 +7,38 @@
   word-break: break-word;
 }
 
+.navbar-nav {
+  float: none;
+}
+
+.navbar-header {
+  padding-left: 15px;
+}
+.nav-icon {
+  padding: 0;
+  display: flex !important;
+  align-items: center !important;
+}
+.nav-icon img {
+  height: 2em;
+  opacity: 0.85;
+  transition: opacity 100ms;
+}
+.nav-icon:hover img {
+  opacity: 1;
+}
+
+@media (min-width: 768px) {
+  .icons-right {
+    float: right !important;
+  }
+  .icons-right .nav-icon {
+    padding: 0;
+    margin-right: 30px;
+  }
+}
+
+
 #un-img {
   padding-right: 20px;
   padding-bottom: 10px;
