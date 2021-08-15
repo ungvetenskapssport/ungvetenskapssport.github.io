@@ -1,10 +1,10 @@
 - name: "Lingvistikläger 20/21 (online)"
-  upcoming: true
+  upcoming: false
   inbjudan: "/blog/2021/04/24/linglager"
   startdate: 2021-05-22
   enddate: 2021-05-22
   location: online
-  no_participants: 0
+  no_participants: 25
 
 - name: "Matematikturné 20/21 (online)"
   upcoming: false
