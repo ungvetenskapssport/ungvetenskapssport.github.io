@@ -4,7 +4,8 @@ title:  "Matematik- och programmeringsläger för tjejer"
 date:   2021-09-02
 ---
 
-Ung Vetenskapssport bjuder härmed in till ett läger i matematik och programmering för tjejer.
+Ung Vetenskapssport bjuder härmed in till ett läger i matematik och programmering för tjejer
+i samarbete med Girls in STEM och Kodsport, och med finansiellt stöd från Unga Forskare.
 Lägret går av stapeln den 22–24 oktober 2021 på Lunds Tekniska Högskola i Lund.
 Lägret riktar sig mot elever med stort intresse eller begåvning inom
 matematik som är nyfikna på programmering och identifierar sig som tjejer eller icke-binära.
