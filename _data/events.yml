@@ -1,3 +1,11 @@
+- name: "Matematikläger 21/22"
+  upcoming: true
+  inbjudan: 
+  startdate: preliminärt 2022-01-28
+  enddate: 2022-01-30
+  location: Lund
+  no_participants:
+
 - name: "Matematik- och Programmeringsläger för tjejer, hösten 2021"
   upcoming: true
   inbjudan: "/blog/2021/09/02/tjejlager"
