@@ -31,7 +31,9 @@ id: events
     {% if event.inbjudan %}
     <p><a href="{{ event.inbjudan }}" >Läs mer...</a></p>
     {% endif %}
+    {% if event.media %}
+    <p><a href="{{ event.media }}" >Om evenemanget i media...</a></p>
+    {% endif %}
 </li>
 {% endif %}{% endfor %}
 </ul>
-
