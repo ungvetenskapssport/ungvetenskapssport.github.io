@@ -1,10 +1,10 @@
 - name: "Matematik- och Programmeringsläger för tjejer, hösten 2021"
-  upcoming: true
+  upcoming: false
   inbjudan: "/blog/2021/09/02/tjejlager"
   startdate: 2021-10-22
   enddate: 2021-10-24
   location: Lund
-  no_participants:
+  no_participants: 95
 
 - name: "Lingvistikhelg, hösten 2021 (online)"
   upcoming: true
@@ -17,8 +17,8 @@
 - name: "Matematikläger för högstadiet"
   upcoming: true
   inbjudan:
-  startdate: preliminärt 2021-12-10
-  enddate: 2021-12-13
+  startdate: 2021-12-17
+  enddate: 2021-12-20
   location: inte bestämt
   no_participants:
 
