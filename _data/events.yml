@@ -8,10 +8,10 @@
 
 - name: "Matematikläger för högstadiet"
   upcoming: true
-  inbjudan:
+  inbjudan: "/blog/2021/11/02/hogstadielagar/"
   startdate: 2021-12-17
   enddate: 2021-12-20
-  location: inte bestämt
+  location: Gullbrannagården utanför Halmstad
   no_participants:
 
 - name: "Matematikläger 21/22"
