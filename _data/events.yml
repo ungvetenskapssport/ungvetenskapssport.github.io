@@ -1,6 +1,6 @@
 - name: "Lingvistikhelg, hösten 2021 (online)"
   upcoming: true
-  inbjudan:
+  inbjudan: "/blog/2021/11/05/lingdag"
   startdate: 2021-11-20
   enddate: 2021-11-20
   location: online
