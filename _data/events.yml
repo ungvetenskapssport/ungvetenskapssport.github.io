@@ -1,11 +1,3 @@
-- name: "Lingvistikhelg, hösten 2021 (online)"
-  upcoming: true
-  inbjudan: "/blog/2021/11/05/lingdag"
-  startdate: 2021-11-20
-  enddate: 2021-11-20
-  location: online
-  no_participants: 0
-
 - name: "Matematikläger för högstadiet"
   upcoming: true
   inbjudan: "/blog/2021/11/02/hogstadielagar/"
@@ -17,10 +9,18 @@
 - name: "Matematikläger 21/22"
   upcoming: true
   inbjudan:
-  startdate: preliminärt 2022-02-18
+  startdate: 2022-02-18
   enddate: 2022-02-20
   location: Lund
   no_participants:
+
+- name: "Lingvistikhelg, hösten 2021 (online)"
+  upcoming: false
+  inbjudan: "/blog/2021/11/05/lingdag"
+  startdate: 2021-11-20
+  enddate: 2021-11-20
+  location: online
+  no_participants: 20
 
 - name: "Matematik- och Programmeringsläger för tjejer, hösten 2021"
   upcoming: false
