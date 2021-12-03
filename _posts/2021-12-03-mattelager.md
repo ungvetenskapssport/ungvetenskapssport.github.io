@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Matematikläger 2022"
-date:   2021-12-023
+date:   2021-12-03
 ---
 
 Ung Vetenskapssport bjuder härmed in till vårt årliga matematikläger. Lägret hålls den 18:e-20:e Februari 2022 i Lund. Lägret riktar sig framförallt till gymnasieelever, men högstadieelever på gymnasienivå är också välkomna.
