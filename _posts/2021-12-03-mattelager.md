@@ -8,6 +8,6 @@ Ung Vetenskapssport bjuder härmed in till vårt årliga matematikläger. Lägre
 
 Kostnaden är 1300 kr och då ingår boende och måltider.
 
-Mer information om lägret och anmälan finns i vår [inbjudan](/assets/event_invites/20211203_inbjudan_mattelager.pdf).
+Mer information om lägret och anmälan finns i vår [inbjudan](/assets/event_invites/20211203_inbjudan_mattelager2.pdf).
 
 Anmälan stänger den 21:a Januari 2022. Först till kvarn gäller.
