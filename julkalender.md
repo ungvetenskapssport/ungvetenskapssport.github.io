@@ -22,6 +22,8 @@ autoNumber: "AMS"
 });
 </script>
 
+Här publicerar vi ett problem varje dag under december 2021! Du kan också hitta problemen i vår story på [instagram](https://www.instagram.com/ungvetenskapssport/).
+
 ### Lucka 1
 På tavlan står talen $2, 5, 11, 17, 23, 31$. Vad är nästa tal i sekvensen?
 <details>
