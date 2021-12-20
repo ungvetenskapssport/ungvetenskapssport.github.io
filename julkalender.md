@@ -195,3 +195,12 @@ Ju färre ädelstenar man drar, desto större är sannolikheten för att man ska
 
 ### Lucka 18
 I havet bor bläckfiskar med $6,7$ eller $8$ armar. De som har $7$ armar ljuger alltid, medan de som har $6$ eller $8$ armar alltid talar sanning. Fyra bläckfiskar möttes en gång. Den blåa sa: “Tillsammans har vi $28$ armar”, den gröna sa: “Tillsammans har vi $27$ armar”, den gula: “Tillsammans har vi $26$ armar”, den röda: “Tillsammans har vi $25$ armar”. Hur många armar har varje bläckfisk?
+
+<details>
+<summary>Visa lösning</summary>
+<br>
+Eftersom alla bläckfiskarna sade emot varandra, måste minst tre av dem ha ljugit. Således har minst tre av dem $7$ armar var, det vill säga $21$ armar tillsammans. Om den fjärde bläckfisken också ljuger, så har den $7$ armar. Då har bläckfiskarna tillsammans $28$ armar, vilket är precis vad den blå bläckfisken säger. Men då säger den sanningen och inte kan ljuga, vilket alla bläckfiskarna skulle göra. Denna situation är alltså omöjlig. Den fjärde bläckfisken (som inte är bland de tre som ljuger), talar alltså sanning. Således, om den blå bläckfisken är den som talar sanning, så menar den att den har $7$ armar. Om den gröna talar sanning måste den ha $6$ armar. Den gula – $5$ armar, den röda – $4$ armar. Den enda som kan tala sanning och ha rätt antal armar är alltså den gröna bläckfisken. Den har $6$ armar och alla andra har $7$ armar, vilket blir $27$ armar totalt.
+</details>
+
+### Lucka 19
+Summan av tre positiva heltal är $11$. Summan av talen kuber är $251$. Hur många taltripplar uppfyller dessa två villkor?
