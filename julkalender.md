@@ -34,7 +34,7 @@ Sekvensen innehåller vartannat primtal. Därför är nästa tal i talföljden <
 
 
 ### Lucka 2
-Nicole ska gå från rutan med 1 till rutan med 2. Hon kan bara gå höger och neråt, och får inte gå genom rutan med ett X. <br>
+Nicole ska gå från rutan med 1 till rutan med 2. Hon kan bara gå höger och neråt, och får inte gå genom rutan med ett X. På hur många sätt kan hon gå till rutan med 2? <br>
 ![Rutnät för problemet till lucka 2](../imgs/julkalender_lucka2.png)
 <details>
 <summary>Visa lösning</summary>
