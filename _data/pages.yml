@@ -13,3 +13,7 @@
 - name: Resurser
   url: "/resurser"
   id: "resurser"
+
+- name: Julkalendern
+  url: "/julkalender"
+  id: "julkalender"
