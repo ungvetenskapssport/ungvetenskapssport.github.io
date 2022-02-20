@@ -6,7 +6,7 @@
   current: true
 
 - name: Nicole Hedblom
-  role: Ledamot
+  role: Ledamotssuppleang
   mail: nicole.hedblom@ungvetenskapssport.se
   current: true
 
@@ -20,27 +20,27 @@
   mail: linn.rydberg@ungvetenskapssport.se
   current: true
 
-- name: Erik Amirell Eklöf
-  mail: erik.amirell.eklof@ungvetenskapssport.se
-  role: Ledamot
-  current: true
-
-- name: Ellinor Jönson
-  role: Ledamot
-  mail: ellinor.jonson@ungvetenskapssport.se
-  current: true
-
 - name: Julia Mårtensson
-  role: Ledamot
+  role: Vice Ordförande
   mail: julia.martensson@ungvetenskapssport.se
   current: true
 
-- name: Marcus Gehrman
+- name: Marcus Gehrmann
   role: Ledamot
   mail: marcus.gehrmann@ungvetenskapssport.se
   current: true
 
-- name: Harun Gürhan
+- name: Manja Rönngren
   role: Ledamot
-  mail: harun.gurhan@ungvetenskapssport.se
+  mail: manja.ronngren@ungvetenskapssport.se
+  current: true
+
+- name: Ruth Risberg
+  role: Ledamot
+  mail: ruth.risberg@ungvetenskapssport.se
+  current: true
+
+- name: Sebastian Westerlund
+  role: Ledamot
+  mail: sebastian.westerlund@ungvetenskapssport.se
   current: true
