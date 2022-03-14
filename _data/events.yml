@@ -1,18 +1,26 @@
-- name: "Matematikläger för högstadiet"
+- name: "Lingvistikläger 21/22"
   upcoming: true
-  inbjudan: "/blog/2021/11/02/hogstadielagar/"
-  startdate: 2021-12-17
-  enddate: 2021-12-20
-  location: Gullbrannagården utanför Halmstad
+  inbjudan: "/blog/2022/03/13/linglager/"
+  startdate: 2022-04-22
+  enddate: 2022-04-24
+  location: Lund
   no_participants:
 
 - name: "Matematikläger 21/22"
   upcoming: true
-  inbjudan: "/blog/2021/12/03/mattelager/"
-  startdate: 2022-02-18
-  enddate: 2022-02-20
+  inbjudan:
+  startdate: 2022-05-13
+  enddate: 2022-05-15
   location: Lund
   no_participants:
+
+- name: "Matematikläger för högstadiet"
+  upcoming: false
+  inbjudan: "/blog/2021/11/02/hogstadielagar/"
+  startdate: 2021-12-17
+  enddate: 2021-12-20
+  location: Gullbrannagården utanför Halmstad
+  no_participants: 50
 
 - name: "Lingvistikhelg, hösten 2021 (online)"
   upcoming: false
