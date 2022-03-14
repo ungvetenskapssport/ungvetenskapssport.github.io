@@ -1,11 +1,11 @@
 ---
 layout: page
 id: styrelsen
-title: Ung Vetenskapssports styrelse 2021
+title: Ung Vetenskapssports styrelse 2022
 ---
 
 
-Nedan finner du ansikten på alla styrelsemedlemmar. Vill du kontakta komma i kontakt med oss kan du skicka ett mail till <a href="mailto:styrelsen@ungvetenskapssport.se">styrelsen@ungvetenskapssport.se</a> 
+Nedan finner du information om alla våra styrelsemedlemmar. Vill du kontakta komma i kontakt med oss kan du skicka ett mail till <a href="mailto:styrelsen@ungvetenskapssport.se">styrelsen@ungvetenskapssport.se</a>
 <br>
 
 <div class="row">
@@ -22,9 +22,9 @@ Nedan finner du ansikten på alla styrelsemedlemmar. Vill du kontakta komma i ko
                 {% if member.city %}
                 <p> {{member.city}} </p>
                 {% endif %}
-                <h2> 
+                <h2>
                 {% if member.mail %}
-                <a href="mailto:{{ member.mail }}"><i class="fa fa-envelope-square"></i></a> 
+                <a href="mailto:{{ member.mail }}"><i class="fa fa-envelope-square"></i></a>
                 {% endif %}
                 {% if member.github %}
                 <a href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github-square"></i></a>
@@ -32,7 +32,7 @@ Nedan finner du ansikten på alla styrelsemedlemmar. Vill du kontakta komma i ko
                 {% if member.website %}
                 <a href="https://{{ member.website }}" target="_blank"><i class="fa fa-home"></i></a>
                 {% endif %}
-                </h2> 
+                </h2>
             </div>
         </div>
     </div>
