@@ -1,11 +1,3 @@
-- name: "Lingvistikläger 21/22"
-  upcoming: true
-  inbjudan: "/blog/2022/03/13/linglager/"
-  startdate: 2022-04-22
-  enddate: 2022-04-24
-  location: Lund
-  no_participants:
-
 - name: "Matematikläger 21/22"
   upcoming: true
   inbjudan: "/blog/2022/03/16/mattelager/"
@@ -13,6 +5,14 @@
   enddate: 2022-05-15
   location: Lund
   no_participants:
+
+- name: "Lingvistikläger 21/22"
+  upcoming: false
+  inbjudan: "/blog/2022/03/13/linglager/"
+  startdate: 2022-04-22
+  enddate: 2022-04-24
+  location: Lund
+  no_participants: 14
 
 - name: "Matematikläger för högstadiet"
   upcoming: false
