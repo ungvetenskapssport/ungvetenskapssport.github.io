@@ -15,8 +15,8 @@ Deltagaravgiften är 950 kr. I anmälningsavgiften ingår mat, boende och samtli
 _Tips: gymnasieskolor kan ofta sponsra deltagaravgiften, så hör med din skola!_
 
 Mer information om lägret och anmälan finns i vår
-[inbjudan](/assets/even_invites/20220716_inbjudan_fysik_astronomilager.pdf). Anmäl dig på:
-https://forms.gle/BGQ3tNCrWgQC4fXMA
+[inbjudan](/assets/event_invites/20220716_inbjudan_fysik_astronomilager.pdf). Anmäl dig via [detta
+formulär](https://forms.gle/BGQ3tNCrWgQC4fXMA).
 
 Begränsat antal platser, först till kvarn gäller. Anmälan stänger när alla platser är fyllda, men senast den 31:a augusti.
 
