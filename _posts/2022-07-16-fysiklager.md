@@ -18,6 +18,6 @@ Mer information om lägret och anmälan finns i vår
 [inbjudan](/assets/event_invites/20220716_inbjudan_fysik_astronomilager.pdf). Anmäl dig via [detta
 formulär](https://forms.gle/BGQ3tNCrWgQC4fXMA).
 
-Vi har ett begränsat antal platser så det är först till kvarn som gäller. Anmälan stänger när alla platser är fyllda, men senast den 31:a augusti.
+Det finns endast 70 platser så det är först till kvarn som gäller. Anmälan stänger när alla platser är fyllda, men senast den 31:a augusti.
 
 Lägret anordnas i samarbete med Svenska Fysikersamfundet, Astronomisk Ungdom och Ung Vetenskapssport. Hoppas vi ses!
