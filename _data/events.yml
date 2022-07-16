@@ -1,3 +1,11 @@
+- name: "Fysik- & Astronomiläger 21/22"
+  upcoming: true
+  inbjudan: "/blog/2022/07/16/fysiklager/"
+  startdate: 2022-09-29
+  enddate: 2022-10-02
+  location: Göteborg
+  no_participants:
+
 - name: "Matematikläger 21/22"
   upcoming: false
   inbjudan: "/blog/2022/03/16/mattelager/"
