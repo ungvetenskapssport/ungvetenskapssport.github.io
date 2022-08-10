@@ -7,7 +7,7 @@ date:   2022-07-16
 
 I höst är det dags för Sveriges första fysik- och astronomiläger med fokus på träning inför tävlingar som Wallenbergs Fysikpris och Astronomiolympiaden! Torsdag den 29:e september 2022 går lägret av stapeln på Chalmers i Göteborg. Lägret avslutas söndag den 2:a oktober. Kanske blir du Sveriges nästa representant i den Internationella Fysikolympiaden eller Astronomiolympiaden?
 
-Lägret riktar sig till intresserade och ambitiösa gymnasieelever, främst de som går naturvetenskaps- eller teknikprogrammet, och inga förkunskaper utöver en första gymnasiekurs i fysik eller motsvarande förväntas. I programmet ingår bland annat föreläsningar, laborationer, räkneövningar, lektionspass och mycket sociala aktiviteter!
+Lägret riktar sig till intresserade och ambitiösa gymnasieelever, främst de som går naturvetenskaps- eller teknikprogrammet, och inga förkunskaper utöver ett stort intresse och att ha påbörjat en första gymnasiekurs i fysik eller motsvarande förväntas. I programmet ingår bland annat föreläsningar, laborationer, räkneövningar, lektionspass och mycket sociala aktiviteter!
 
 Förvänta dig att lära dig mer om allt ifrån stjärnors livscykler till Lagrangemekanik, elektromagnetism och kvantfysik!
 
