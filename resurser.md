@@ -205,6 +205,7 @@ Stockholms Universitets sommarforskarskola är en sommarforskaskola som äger ru
 
 **Forskarskolan i Karlskoga**
 [fsik.se](http://www.fsik.se/)
+
 Forskarskolan i Karlskoga är ett naturvetenskapligt läger som vänder sig till dig som går andra året på ett naturvetenskapligt gymnasieprogram i Mellansverige. Fokus för forskarskolan ligger på kemi och life science. Föreläsningar av professorer och doktorander varvas med lekar och laborationer. Hela veckan är gratis.
 
 **Maths Beyond Limits**
