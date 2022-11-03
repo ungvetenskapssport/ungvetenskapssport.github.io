@@ -99,6 +99,9 @@ En ideell förening som riktar sig mot barn och ungdomar med särbegåvning, det
 [intize.org](https://www.intize.org/)
 
 En ideell förening som erbjuder gratis mentorskap där studenter ideellt hjälper andra att lära sig matematik. Vårt syfte är att inspirera till ett ökat intresse för samt öka kunskaperna i matematik och matematiskt tänkande.
+
+---
+
 ## För gymnasieelever
 ### Vetenskapstävlingar
 Vetenskapstävlingar är ett jättebra sätt att stöta på utmanande uppgifter och, om man tar sig till final, träffa andra ungdomar som delar ens intresse för vetenskap. Det är inte alla som gillar tävlingsmomentet men uppgifterna brukar vara roliga och vi rekommenderar alla som är intresserade att testa! Gamla prov och uppgifter går att hitta under respektive länk till varje tävling nedan.
@@ -248,6 +251,9 @@ Ett förbund för astronomiintresserade ungdomar. AU har flera [medlemsförening
 [intize.org](https://www.intize.org/)
 
 En ideell förening som erbjuder gratis mentorskap där studenter ideellt hjälper andra att lära sig matematik. Vårt syfte är att inspirera till ett ökat intresse för samt öka kunskaperna i matematik och matematiskt tänkande.
+
+---
+
 ## För universitetsstudenter
 ### Vetenskapstävlingar
 Vetenskapstävlingar är ett jättebra sätt att stöta på utmanande uppgifter och, om man tar sig till final, träffa andra ungdomar som delar ens intresse för vetenskap. Det är inte alla som gillar tävlingsmomentet men uppgifterna brukar vara roliga och vi rekommenderar alla som är intresserade att testa!
@@ -314,11 +320,16 @@ Chalmers Coding Club är en ideell förening på Chalmers. Verksamheten går huv
 [codeatlth.org](https://codeatlth.org/)
 
 Code@LTH är en studentförening i Lund som uppmuntrar till kodglädje och hobbyprogrammering. Föreningen anordnar en blandning av olika event: föreläsningar, programmeringstävlingar, workshops med mera. Länk till discordserver finns [här](https://discord.gg/DzFM9GpJfJ)
-## Andra resurser
-**Hemsidor att öva matematik på**
-[www.mattebloggen.com](http://www.mattebloggen.com), [Project Euler](https://projecteuler.net/)
 
-**Hemsidor att öva programmering på**
+---
+
+## Andra resurser
+**Hemsidor att öva matematik på:**
+[www.mattebloggen.com](http://www.mattebloggen.com), [Project Euler](https://projecteuler.net/),
+[Eureka](https://eurekaacademy.co/lesson)
+
+**Hemsidor att öva programmering på:**
 [Kattis](https://open.kattis.com/), [Codeforces](http://codeforces.com/), [Code Chef](https://www.codechef.com/), [At Coder](https://atcoder.jp/), [Advent of Code](https://adventofcode.com/)
-**Hemsidor för CTF (datasäkerhet)**
+
+**Hemsidor för CTF (datasäkerhet):**
 [ctftime.org](https://ctftime.org/), [picoctf.org](https://picoctf.org/)
