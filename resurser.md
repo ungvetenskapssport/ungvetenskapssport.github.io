@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Resurser
+layout: resurser
 id: resurser
 ---
+# Resurser
+
 Här nedan kommer resurser såsom tävlingar, läger och sommarforskarskolor samt organisationer för att
 främja barn och ungas naturvetenskapliga intresse!
 

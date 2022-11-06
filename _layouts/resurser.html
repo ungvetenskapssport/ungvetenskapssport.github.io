@@ -1,0 +1,49 @@
+---
+layout: base
+---
+
+<div class="resurser">
+  <div>
+    <div class="navlist" style="position:sticky;top: 50px;margin-top: 20px;">
+      <a href="#resurser">Resurser</a>
+      <a href="#för-grundskoleelever">För grundskoleelever</a>
+      <a class="child" href="#vetenskapstävlingar">Vetenskapstävlingar</a>
+      <a class="child" href="#läger-och-sommarforskarskolor">Läger och sommarforskarskolor</a>
+      <a class="child" href="#organisationer-och-föreningar">Organisationer och föreningar</a>
+      <a href="#för-gymnasieelever">För gymnasieelever</a>
+      <a class="child" href="#vetenskapstävlingar-1">Vetenskapstävlingar</a>
+      <a class="child" href="#läger-och-sommarforskarskolor-1">Läger och sommarforskarskolor</a>
+      <a class="child" href="#organisationer-och-föreningar-1">Organisationer och föreningar</a>
+      <a href="#för-universitetsstudenter">För universitetsstudenter</a>
+      <a class="child" href="#vetenskapstävlingar-2">Vetenskapstävlingar</a>
+      <a class="child" href="#läger-och-sommarforskarskolor-2">Läger och sommarforskarskolor</a>
+      <a class="child" href="#organisationer-och-föreningar-2">Organisationer och föreningar</a>
+      <a href="#andra-resurser">Andra resurser</a>
+    </div>
+  </div>
+  <div>
+    {{ content }}
+  </div>
+</div>
+<style>
+  .resurser {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    justify-items: center;
+  }
+  @media screen and (max-width: 550px) /* Desktop */ {
+    .navlist {
+      display: none;
+    }
+    .resurser {
+      grid-template-columns: 1fr;
+    }
+  }
+  .navlist > a {
+    display: block;
+  }
+  a.child {
+    padding-left: 1rem;
+    font-size: 90%;
+  }
+</style>
