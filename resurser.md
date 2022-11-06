@@ -327,8 +327,7 @@ Code@LTH är en studentförening i Lund som uppmuntrar till kodglädje och hobby
 
 ## Andra resurser
 **Hemsidor att öva matematik på:**
-[aops.com](https://artofproblemsolving.com/), [www.mattebloggen.com](http://www.mattebloggen.com), [Project Euler](https://projecteuler.net/),
-[Eureka](https://eurekaacademy.co/lesson)
+[aops.com](https://artofproblemsolving.com/), [www.mattebloggen.com](http://www.mattebloggen.com), [Project Euler](https://projecteuler.net/), [Eureka](https://eurekaacademy.co/lesson), [MODS Discordserver](https://discord.gg/mods)
 
 **Hemsidor att öva programmering på:**
 [Kattis](https://open.kattis.com/), [Codeforces](http://codeforces.com/), [Code Chef](https://www.codechef.com/), [At Coder](https://atcoder.jp/), [Advent of Code](https://adventofcode.com/)
