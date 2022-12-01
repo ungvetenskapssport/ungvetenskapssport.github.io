@@ -50,6 +50,12 @@ Databävern är en tävling i datalogiskt tänkande för barn och unga i åk 2-9
 [pangea-tavling.se](https://pangea-tavling.se/)
 
 Pangea Matematiktävling är en matematiktävling som riktar sig till grundskoleelever i årskurs 4-9. Tävlingen består av 12 flervalsfrågor och skrivtiden är 60 minuter. Tävlingen består av en kvalificeringstävling som brukar äga rum i slutet av november/början av december på respektive skola. Finalen brukar ske under vecka 11 och äger också rum på respektive skola.
+
+**Iranian Geometry Olympiad**
+[igo-official.com](https://igo-official.com/?lang=en)
+
+Iranska geometriolympiaden är en mattetävling för personer i årskurs 6 i grundskolan till årskurs 3 på gymnasiet. Det finns 3 olika svårighetsgrader beroende på årskurs man går i. Ung Vetenskapssport brukar arrangera tävlingen i Sverige. Skrivtiden är 4,5 timmar för dem som skriver intermediate eller advanced och 4 timmar för dem som skriver elementary.
+
 ### Läger och sommarforskarskolor
 **Mattekollo**
 [mattekollo.se](http://www.mattekollo.se/)
@@ -65,41 +71,6 @@ AstraZenecas sommarforskarskola är en sommarforskarskola för dig som gått ut 
 [ungaforskare/borealis](https://ungaforskare.se/borealis/)
 
 Borealis Science Week är en sommarforskarskola som äger rum under en vecka under sommaren, vanligtvis i början av augusti på Chalmers i Göteborg. Sommarforskarskolan riktar sig till elever som gått ut årskurs 8 och 9 på grundskolan. Programmet består av lektioner och laborationer och utgångspunkten är elevernas egna nyfikenhet och upptäckarglädje. Det är helt gratis att delta.
-### Organisationer och föreningar
-**Ung Vetenskapssport**
-[ungvetenskapssport.se](https://ungvetenskapssport.se/)
-
-Vårt syfte är att skapa mötesplatser och träningsmöjligheter för problemlösningsintresserade ungdomar i Sverige. Ansök till arrangör eller föreläsare för våra läger [här](https://forms.gle/SgUYgeKxrFUMVU5q6). Gå med i vår discordserver [här](https://discord.gg/BCgEnpEgGd).
-
-**Kodsport**
-[kodsport.se](https://www.kodsport.se/)
-
-En ungdomsförening med syftet att främja intresset och kunnandet inom IT, programmering och datasäkerhet. Gå med i kodsports discordserver [här](https://discord.gg/k6Ad3MqVfj)
-
-**Girls in STEM**
-[girlsinstem.se](https://girlsinstem.se/)
-
-En ungdomsförening med syftet att främja intresset för naturvetenskap, teknik, matematik och ingenjörsskap hos unga tjejer och icke-binära i hela Sverige. Gå med i Girls in STEMs discordserver [här](https://discord.gg/Xw8R4yyDxS) (OBS! Endast öppen för tjejer, ickebinära och transpersoner)
-
-**Unga Forskare**
-[ungaforskare.se](https://ungaforskare.se/)
-
-Ett förbund med syftet att främja ungas intresse för naturvetenskap, teknik och matematik samt deras roll i samhället. Har flera medlemsföreningar vilka du hittar [här](https://ungaforskare.se/vara-foreningar/)
-
-**Astronomisk Ungdom**
-[astronomiskungdom.se](https://www.astronomiskungdom.se/)
-
-Ett förbund för astronomiintresserade ungdomar. AU har flera [medlemsföreningar](https://www.astronomiskungdom.se/foreningar/) på olika ställen i Sverige. Länk till Astronomisk Ungdoms discordserver finns [här](https://discord.gg/2kFrTEa7bW).
-
-**FORK Academy**
-[Fork Academy](https://www.facebook.com/Fork.Academy.Sweden)
-
-En ideell förening som riktar sig mot barn och ungdomar med särbegåvning, det vill säga barn med unika förmågor och särintressen, men som inte trivs i ett vanligt klassrum. Verksamheten äger huvudsakligen rum i Linköping och består av föreläsningar, mentorsprogram och mötesplatser.
-
-**Intize**
-[intize.org](https://www.intize.org/)
-
-En ideell förening som erbjuder gratis mentorskap där studenter ideellt hjälper andra att lära sig matematik. Vårt syfte är att inspirera till ett ökat intresse för samt öka kunskaperna i matematik och matematiskt tänkande.
 
 ---
 
@@ -171,6 +142,12 @@ Kängurutävlingen – Matematikens hopp är en matematiktävling för alla elev
 [bebras.se](https://www.bebras.se)
 
 Databävern är en tävling i datalogiskt tänkande för barn och unga i åk 2-9 samt gymnasiet. Tävlingens mål är att på ett lekfullt sätt låta barn och unga bekanta sig med programmering, logiskt tänkande och problemlösning. Tävlingen hålls över internet och har totalt fem olika tävlingsklasser med olika svårighetsnivåer. Tävlingen genomförs vanligtvis mellan vecka 46 och vecka 49.
+
+**Iranian Geometry Olympiad**
+[igo-official.com](https://igo-official.com/?lang=en)
+
+Iranska geometriolympiaden är en mattetävling för personer i årskurs 6 i grundskolan till årskurs 3 på gymnasiet. Det finns 3 olika svårighetsgrader beroende på årskurs man går i. Ung Vetenskapssport brukar arrangera tävlingen i Sverige. Skrivtiden är 4,5 timmar för dem som skriver intermediate eller advanced och 4 timmar för dem som skriver elementary.
+
 ### Läger och sommarforskarskolor
 Ovan nämnda tävlingar ger bra stimulans men en minst lika viktig aspekt för intresserade barn och ungdomar är att få socialt utbyte med andra intresserade elever. För barn med ett intresse för naturvetenskap, teknik och matematik finns därför diverse läger och sommarforskarskolor, se nedan.
 
@@ -223,36 +200,6 @@ PROMYS, Program in Mathematics for Young Scientists, är ett sex veckor långt m
 [ungaforskare.se/stipendier/research-science-institute](https://ungaforskare.se/stipendier/research-science-institute/)
 
 Research Science Institute (RSI) är ett internationellt forskningsprogram på Massachusetts Institute of Technology (MIT) i Cambridge, USA. Programmet äger rum under 6 veckor under sommaren för personer som avslutat andra året på gymnasiet. Under programmet får man som deltagare forska inom valfritt naturvetenskapligt område under en personlig forskningsmentor. Som gymnasieelev på ett svenskt gymnasium ansöker du om stipendiet genom Unga Forskare. Som stipendiat är programmet helt gratis.
-### Organisationer och föreningar
-**Ung Vetenskapssport**
-[ungvetenskapssport.se](https://ungvetenskapssport.se/)
-
-Vårt syfte är att skapa mötesplatser och träningsmöjligheter för problemlösningsintresserade ungdomar i Sverige. Ansök till arrangör eller föreläsare för våra läger [här](https://forms.gle/SgUYgeKxrFUMVU5q6). Gå med i vår discordserver [här](https://discord.gg/BCgEnpEgGd).
-
-**Kodsport**
-[kodsport.se](https://www.kodsport.se/)
-
-En ungdomsförening med syftet att främja intresset och kunnandet inom IT, programmering och datasäkerhet. Gå med i kodsports discordserver [här](https://discord.gg/k6Ad3MqVfj)
-
-**Girls in STEM**
-[girlsinstem.se](https://girlsinstem.se/)
-
-En ungdomsförening med syftet att främja intresset för naturvetenskap, teknik, matematik och ingenjörsskap hos unga tjejer och icke-binära i hela Sverige. Gå med i Girls in STEMs discordserver [här](https://discord.gg/Xw8R4yyDxS) (OBS! Endast öppen för tjejer, ickebinära och transpersoner)
-
-**Unga Forskare**
-[ungaforskare.se](https://ungaforskare.se/)
-
-Ett förbund med syftet att främja ungas intresse för naturvetenskap, teknik och matematik samt deras roll i samhället. Har flera medlemsföreningar vilka du hittar [här](https://ungaforskare.se/vara-foreningar/)
-
-**Astronomisk Ungdom**
-[astronomiskungdom.se](https://www.astronomiskungdom.se/)
-
-Ett förbund för astronomiintresserade ungdomar. AU har flera [medlemsföreningar](https://www.astronomiskungdom.se/foreningar/) på olika ställen i Sverige. Länk till Astronomisk Ungdoms discordserver finns [här](https://discord.gg/2kFrTEa7bW).
-
-**Intize**
-[intize.org](https://www.intize.org/)
-
-En ideell förening som erbjuder gratis mentorskap där studenter ideellt hjälper andra att lära sig matematik. Vårt syfte är att inspirera till ett ökat intresse för samt öka kunskaperna i matematik och matematiskt tänkande.
 
 ---
 
@@ -282,7 +229,9 @@ Swedish Coding Cup är ett årslångt svenskt mästerskap i tävlingsprogrammeri
 ### Läger och sommarforskarskolor
 När det gäller läger och sommarforskarskolor för universitetsstudenter hänvisar vi främst till att ansöka att bli ledare för sommarforskarskolor och läger för gymnasie- och grundskoleelever.
 
-### Organisationer och föreningar
+---
+
+## Organisationer och föreningar
 **Ung Vetenskapssport**
 [ungvetenskapssport.se](https://ungvetenskapssport.se/)
 
@@ -307,6 +256,18 @@ Ett förbund med syftet att främja ungas intresse för naturvetenskap, teknik o
 [astronomiskungdom.se](https://www.astronomiskungdom.se/)
 
 Ett förbund för astronomiintresserade ungdomar. AU har flera [medlemsföreningar](https://www.astronomiskungdom.se/foreningar/) på olika ställen i Sverige. Länk till Astronomisk Ungdoms discordserver finns [här](https://discord.gg/2kFrTEa7bW).
+
+**FORK Academy**
+[Fork Academy](https://www.facebook.com/Fork.Academy.Sweden)
+
+En ideell förening som riktar sig mot barn och ungdomar med särbegåvning, det vill säga barn med unika förmågor och särintressen, men som inte trivs i ett vanligt klassrum. Verksamheten äger huvudsakligen rum i Linköping och består av föreläsningar, mentorsprogram och mötesplatser.
+
+**Matteklubbar**
+[Matteklubben Uppsala](http://mattebloggen.com/matteklubben/) och [Matteklubben Göteborg](https://forms.gle/tEMgVsrMVeQQ9DSg6)
+
+Det finns matteklubbar på olika ställen i Sverige, bland annat i Uppsala och Göteborg men även
+[online](http://mattebloggen.com/matteklubben-tankarna/). Matteklubbarna riktar sig oftast till
+grundskoleelever.
 
 **Intize**
 [intize.org](https://www.intize.org/)
