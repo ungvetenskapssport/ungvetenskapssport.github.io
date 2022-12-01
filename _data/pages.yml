@@ -14,6 +14,10 @@
   url: "/resurser"
   id: "resurser"
 
+- name: Julkalendern
+  url: "/julkalender"
+  id: "julkalender"
+
 - name: Mattebattle
   url: "/mattebattle"
   id: "mattebattle"
