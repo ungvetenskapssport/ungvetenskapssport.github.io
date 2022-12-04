@@ -38,7 +38,7 @@ Vi kan lösa problemet baklänges. Innan sista steget har Hugo ett tal med forme
 Ruth tänkte på tre tal, men berättade inte vilka tal det var. Däremot sade hon vilka olika summor som två av talen kunde bilda: Det var 23, 25 och 28. Vilka tal tänkte Ruth på?
 
 
-<!-->
+<!---
 <details>
 <summary>Visa lösning</summary>
 <br>
@@ -81,3 +81,5 @@ En triangel har omkretsen 27 cm. Alla sidor har olika heltalsvärden. Hur många
 <br>
 <strong></strong>
 </details>
+
+-->
