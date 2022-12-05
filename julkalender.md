@@ -26,7 +26,7 @@ Det största tresiffriga talet som har alla tre siffror olika är 987, och det m
 
 ### Lucka 3
 Erik har 3 tal x, y, z. De uppfyller följande:
-x^2^ +y^2^ +z^2^ =3
+x<sup>2</sup> +y<sup>2</sup> +z<sup>2</sup> =3
 x + y + z =3
 Finn alla heltalslösningar. 
 <details>
