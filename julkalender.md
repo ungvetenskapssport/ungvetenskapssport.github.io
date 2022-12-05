@@ -25,6 +25,18 @@ Det största tresiffriga talet som har alla tre siffror olika är 987, och det m
 
 
 ### Lucka 3
+Erik har 3 tal x, y, z. De uppfyller följande:
+x^2^ +y^2^ +z^2^ =3
+x + y + z =3
+Finn alla heltalslösningar. 
+<details>
+<summary>Visa lösning</summary>
+<br>
+Varje kvadrat i uttrycket är 0 eller 1, då nästa kvadrat 4 är för stor eftersom summan av tre kvadrater ska bli 3. För att summan av kvadraterna ska bli exakt 3 måste varje kvadrat vara 1. Då är varje variabel 1 eller -1. För att summan av variablerna ska vara 3 måste alla variabler vara 1 och således finns det endast en lösning, x = y = z = <strong>1</strong>.
+</details>
+
+
+### Lucka 4
 Hugo tänkte på ett tal, multiplicerade sedan det med 13, strök sista siffran i resultatet, sedan multiplicerade det nya talet med 7, återigen strök sista siffran i resultat och då fick han 21. Vilket tal tänkte Hugo på från början?
 <details>
 <summary>Visa lösning</summary>
@@ -34,7 +46,7 @@ Vi kan lösa problemet baklänges. Innan sista steget har Hugo ett tal med forme
 
 
 
-### Lucka 4
+### Lucka 5
 Ruth tänkte på tre tal, men berättade inte vilka tal det var. Däremot sade hon vilka olika summor som två av talen kunde bilda: Det var 23, 25 och 28. Vilka tal tänkte Ruth på?
 
 
@@ -46,7 +58,7 @@ Först döper vi talen till a, b och c. Vi får informationen att 23=a+b, 25=a+c
 </details>
 
 
-### Lucka 5
+### Lucka 6
 Det ligger sju kort i en låda. Korten är numrerade från 1 till 7. Först tar Julia upp tre kort. Sen tar Benjamin upp två kort. Det ligger alltså två kort kvar i lådan. Julia säger sedan till Benjamini: ”Jag vet att summan av talen på dina kort är ett jämnt tal.” Vilken summa har talen på Julias kort?
 <details>
 <summary>Visa lösning</summary>
@@ -55,7 +67,7 @@ Att två av korten summerar till ett jämnt tal betyder att båda är jämna ell
 </details>
 
 
-### Lucka 6
+### Lucka 7
 Fido, Ludde, Busen och Rufsen är hundar. Vissa hundar ljuger alltid, andra talar alltid sanning. Fido säger att Ludde ljuger. Ludde säger att Busen ljuger. Busen säger att Ludde ljuger. Rufsen säger att Fido ljuger. Hur många av hundarna ljuger?
 <details>
 <summary>Visa lösning</summary>
@@ -64,7 +76,7 @@ Om en hund säger att en annan ljuger, så måste de vara en av varje grupp (Kan
 </details>
 
 
-### Lucka 7
+### Lucka 8
 En triangel har omkretsen 27 cm. Alla sidor har olika heltalsvärden. Hur många trianglar kan du maximalt skapa?
 <details>
 <summary>Visa lösning</summary>
