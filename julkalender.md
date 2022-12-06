@@ -48,9 +48,6 @@ Vi kan lösa problemet baklänges. Innan sista steget har Hugo ett tal med forme
 
 ### Lucka 5
 Ruth tänkte på tre tal, men berättade inte vilka tal det var. Däremot sade hon vilka olika summor som två av talen kunde bilda: Det var 23, 25 och 28. Vilka tal tänkte Ruth på?
-
-
-<!---
 <details>
 <summary>Visa lösning</summary>
 <br>
@@ -60,6 +57,9 @@ Först döper vi talen till a, b och c. Vi får informationen att 23=a+b, 25=a+c
 
 ### Lucka 6
 Det ligger sju kort i en låda. Korten är numrerade från 1 till 7. Först tar Julia upp tre kort. Sen tar Benjamin upp två kort. Det ligger alltså två kort kvar i lådan. Julia säger sedan till Benjamini: ”Jag vet att summan av talen på dina kort är ett jämnt tal.” Vilken summa har talen på Julias kort?
+
+
+<!---
 <details>
 <summary>Visa lösning</summary>
 <br>
