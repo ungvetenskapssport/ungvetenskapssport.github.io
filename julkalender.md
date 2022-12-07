@@ -57,9 +57,6 @@ Först döper vi talen till a, b och c. Vi får informationen att 23=a+b, 25=a+c
 
 ### Lucka 6
 Det ligger sju kort i en låda. Korten är numrerade från 1 till 7. Först tar Julia upp tre kort. Sen tar Benjamin upp två kort. Det ligger alltså två kort kvar i lådan. Julia säger sedan till Benjamini: ”Jag vet att summan av talen på dina kort är ett jämnt tal.” Vilken summa har talen på Julias kort?
-
-
-<!---
 <details>
 <summary>Visa lösning</summary>
 <br>
@@ -69,6 +66,8 @@ Att två av korten summerar till ett jämnt tal betyder att båda är jämna ell
 
 ### Lucka 7
 Fido, Ludde, Busen och Rufsen är hundar. Vissa hundar ljuger alltid, andra talar alltid sanning. Fido säger att Ludde ljuger. Ludde säger att Busen ljuger. Busen säger att Ludde ljuger. Rufsen säger att Fido ljuger. Hur många av hundarna ljuger?
+
+<!---
 <details>
 <summary>Visa lösning</summary>
 <br>
