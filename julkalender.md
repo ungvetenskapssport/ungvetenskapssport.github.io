@@ -66,8 +66,6 @@ Att två av korten summerar till ett jämnt tal betyder att båda är jämna ell
 
 ### Lucka 7
 Fido, Ludde, Busen och Rufsen är hundar. Vissa hundar ljuger alltid, andra talar alltid sanning. Fido säger att Ludde ljuger. Ludde säger att Busen ljuger. Busen säger att Ludde ljuger. Rufsen säger att Fido ljuger. Hur många av hundarna ljuger?
-
-<!---
 <details>
 <summary>Visa lösning</summary>
 <br>
@@ -76,6 +74,36 @@ Om en hund säger att en annan ljuger, så måste de vara en av varje grupp (Kan
 
 
 ### Lucka 8
+Några barn åt pepparkakor. Var och en åt 7 pepparkakor mindre än alla andra barnen tillsammans. Men varje barn åt ändå upp mer än en pepparkaka. Hur många pepparkakor åt barnen upp?
+<details>
+<summary>Visa lösning</summary>
+<br>
+Alla barnen måste ha ätit lika många pepparkakor var. Om ett barn hade ätit x pepparkakor, så betyder det att det totalt hade ätits (x+7)+x (alla andra tillsammans + barnet självt). Om varje barn åt x pepparkakor, och antalet barn var N, så betyder det att 2x+7 = Nx, det vill säga 7 = (N-2)x. Vi vet alltså att x är en delare till 7, och x var minst 2 enligt uppgiften, alltså är x = 7. Det betyder att N-2 är 1, det vill säga antalet barn är 3. Således åt barnen tillsammans <strong>21</strong> pepparkakor.
+</details>
+
+### Lucka 9
+Vilken är sista siffran i talet 7<sup>207</sup>?
+<details>
+<summary>Visa lösning</summary>
+<br>
+Vi betraktar 7<sup>k</sup> för k = 1,2,3,4 … i mod 10. Det ger 7, 9, 3, 1, 7, 9, 3, 1 …
+Talserien är cyklisk och vi behöver endast titta på k i mod 4 för att lista ut sista siffran. 207 = 3 + 4*51 vilket ger att sista siffran i 7<sup>207</sup> är <strong>3</strong>.
+</details>
+
+
+### Lucka 10
+Ett tal p väljs uniformt slumpmässigt mellan 0 och 1. Sen konstrueras ett mynt sådant att sannolikheten att det landar med krona upp är p. Vad är sannolikheten att få k klave, om slanten singlas 100 gånger?
+
+<!---
+<details>
+<summary>Visa lösning</summary>
+<br>
+Vi väljer istället 100 tal mellan 0 och 1, vart och ett uniformt. Sen väljer vi talet p uniformt mellan 0 och 1, och så säger vi att de av våra 100 tal som var mindre än p motsvarar en slant som visade krona efter att det singlats. Detta är exakt samma situation som innan (bara att vi “singlade slantarna” innan vi valde p, men ordningen spelar egentligen ingen roll). Men nu har vi valt 101 tal uniformt mellan 0 och 1, varav ett är talet p. Och vi har k kronor exakt om p är det (k+1):te största talet. Men alla positioner som p kan ha i ordningen är lika sannolika, så svaret är <strong>1/101</strong> oberoende av vad k är. 
+</details>
+
+
+### Lucka 8
+
 En triangel har omkretsen 27 cm. Alla sidor har olika heltalsvärden. Hur många trianglar kan du maximalt skapa?
 <details>
 <summary>Visa lösning</summary>
