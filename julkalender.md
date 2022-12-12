@@ -94,11 +94,78 @@ Talserien är cyklisk och vi behöver endast titta på k i mod 4 för att lista 
 ### Lucka 10
 Ett tal p väljs uniformt slumpmässigt mellan 0 och 1. Sen konstrueras ett mynt sådant att sannolikheten att det landar med krona upp är p. Vad är sannolikheten att få k klave, om slanten singlas 100 gånger?
 
-<!---
+
 <details>
 <summary>Visa lösning</summary>
 <br>
 Vi väljer istället 100 tal mellan 0 och 1, vart och ett uniformt. Sen väljer vi talet p uniformt mellan 0 och 1, och så säger vi att de av våra 100 tal som var mindre än p motsvarar en slant som visade krona efter att det singlats. Detta är exakt samma situation som innan (bara att vi “singlade slantarna” innan vi valde p, men ordningen spelar egentligen ingen roll). Men nu har vi valt 101 tal uniformt mellan 0 och 1, varav ett är talet p. Och vi har k kronor exakt om p är det (k+1):te största talet. Men alla positioner som p kan ha i ordningen är lika sannolika, så svaret är <strong>1/101</strong> oberoende av vad k är. 
+</details>
+
+
+### Lucka 11
+Tomten borrar ett hål rakt igenom jorden för att underlätta julklappsleveransen och släpper en julklapp som får falla fritt fram och tillbaka. Han kastar en annan julklapp i en omloppsbana precis vid jordytan runt jorden. Hur förhåller sig tiden det tar att skicka julklappen till andra sidan jorden med de två olika sätt? 
+<details>
+<summary>Visa lösning</summary>
+<br>
+<img src="../imgs/Julkalender_2022_lucka11.png" width="800"/>
+</details>
+
+
+
+### Lucka 12
+Hugo och Erik är sitter på ett tåg. Båda är berömda matematiker. Hugo vill gissa gamla Eriks tre kusiner är. Eriks första ledtråd är att produkten av deras åldrar är 36. Hugo ber om en ledtråd till. Erik berättar att summan av deras åldrar är lika med antal personer som sitter i vagnen. Hugo lyckas fortfarande inte lista ut svaret. Därför fick han en sista ledtråd: den yngsta kusinen har blåa ögon. Hur gamla är Eriks kusiner?  
+
+<!---
+
+<details>
+<summary>Visa lösning</summary>
+<br>
+Vi tittar först på alla möjliga kombinationer och deras summa: 
+<br>
+| --- | --- | --- | --- | --- | --- | --- |
+|  Tal  | 1, 1, 36 | 1, 2, 18 | 1, 3, 12 | 1, 6, 6  | 2, 2, 9  | 2, 3, 6  |
+| Summa |    38    |    21    |    16    |    13    |    13    |    11    |
+<br>
+Eftersom Hugo inte kunde lista ut åldrarna av att veta summan måste den varit 13, då de andra möjligheterna hade lett direkt till svaret. Sista ledtråden säger att det finns en yngsta kusin, därmed kan det inte vara 2,2,9 och således är kusinerna 1, 6 och <strong>6</strong> år gamla
+</details>
+-->
+
+### Lucka  13
+Om avståndet mellan jorden och solen vore tre gånger så stort, hur mycket skulle solstrålningen som träffar jorden förändras?
+
+<!---
+
+<details>
+<summary>Visa lösning</summary>
+<br>
+Solens strålning utbreder sig som en sfär med area proportionellt mot r<sup>2</sup>. Mängden strålning per ytenhet avtar därmed med r<sup>2</sup>. 3 gånger större avstånd ger därmed <strong>9</strong> gånger mindre strålning.
+</details>
+
+
+### Lucka 14
+Kevin vill göra en kopparspiral (solenoid) med radie 1,0 cm, längd 20cm och 10 varv. Hur lång koppartråd behöver Kevin?
+<details>
+<summary>Visa lösning</summary>
+<br>
+Veckla ut spiralen och få en rät triangel vars hypotenusa är koppartråden. Basen är 2 x $\pi x r x n och höjden l = 20 cm. Pythagoras sats ger svaret <strong>66</strong>cm. 
+</details>
+
+
+### Lucka 15
+
+<details>
+<summary>Visa lösning</summary>
+<br>
+<strong></strong>
+</details>
+
+
+### Lucka 16
+
+<details>
+<summary>Visa lösning</summary>
+<br>
+<strong></strong>
 </details>
 
 
@@ -120,5 +187,6 @@ En triangel har omkretsen 27 cm. Alla sidor har olika heltalsvärden. Hur många
 <br>
 <strong></strong>
 </details>
+
 
 -->
