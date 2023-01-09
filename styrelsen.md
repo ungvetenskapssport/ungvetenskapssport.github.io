@@ -52,3 +52,5 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du kontakta ko
 
     {% endif %}{% endfor %}
 </div>
+
+<img src="/imgs/styrelsen/gruppbild.jpg" width="1000"/>

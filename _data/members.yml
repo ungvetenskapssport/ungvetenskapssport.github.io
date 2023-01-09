@@ -4,43 +4,52 @@
   role: Ordförande
   mail: julia.martensson@ungvetenskapssport.se
   current: true
+  img: /imgs/styrelsen/julia_square.jpg
 
 - name: Erik Bryland
   role: Kassör
   mail: erik.bryland@ungvetenskapssport.se
   current: true
+  img: /imgs/styrelsen/erik_square.jpg
 
 - name: Benjamin Verbeek
   role: Vice Ordförande
   mail: benjamin.verbeek@ungvetenskapssport.se
   current: true
+  img: /imgs/styrelsen/benjamin_square.jpg
 
 - name: Hugo Eberhard
   role: Ledamot
   mail: hugo.eberhard@ungvetenskapssport.se
   current: true
+  img: /imgs/styrelsen/hugo_square.jpg
 
 - name: Kevin Haagensen Strömberg
   mail: kevin.hs@ungvetenskapssport.se
   role: Ledamot
   current: true
+  img: /imgs/styrelsen/kevin_square.jpg
 
 - name: Jiachen Mi
   role: Ledamot
   mail: jiachen.mi@ungvetenskapssport.se
   current: true
+  img: /imgs/styrelsen/milly_square.jpg
 
 - name: Emilio Youssef
   role: Ledamot
   mail: emilio.youssef@ungvetenskapssport.se
   current: true
+  img: /imgs/styrelsen/emilio_square.jpg
 
 - name: Sebastian Westerlund
   role: Ledamot
   mail: sebastian.westerlund@ungvetenskapssport.se
   current: true
+  img: /imgs/styrelsen/sebastian_square.jpg
 
 - name: Ruth Risberg
   role: Suppleant
   mail: ruth.risberg@ungvetenskapssport.se
   current: true
+  img: /imgs/styrelsen/ruth_square.jpg
