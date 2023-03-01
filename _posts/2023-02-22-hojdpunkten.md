@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Höjpunkten 2023"
+title:  "Höjdpunkten 2023"
 date:   2023-02-22
 ---
 
