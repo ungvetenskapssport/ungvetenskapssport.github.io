@@ -231,10 +231,12 @@ När det gäller läger och sommarforskarskolor för universitetsstudenter hänv
 
 **European Space Agency - ESA Education**
 [esa.int/Education](https://www.esa.int/Education)
+
 ESA Education anordnar varje år en lång rad träningspass och sommarforskarskolor inom allt från astrofysik till rymdteknik och satellitbygge. De flesta aktiviteterna riktar sig till studenter år 2-4 inom en teknisk eller naturvetenskaplig universitetsutbildning. Aktiviteterna är vanligtvis gratis och resor ersätts upp till en gräns. Boende och mat ingår normalt.
 
 **CERN Summer Student Programme**
 [cern.ch](https://home.cern/summer-student-programme)
+
 CERN är världens störta forskningsanläggning för partikelfysik. De anordnar varje år ett långt sommarprogram för universitetsstudenter. Programmet är ämnesspecifikt och riktar sig till studenter i fysik, teknik eller matematik. Programmet är gratis och resor ersätts upp till en gräns. Ett stipendium på ca 1000 euro per månad erbjuds också för att hjälpa att täcka kostnader för boende och mat.
 ---
 
