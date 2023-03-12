@@ -238,6 +238,7 @@ ESA Education anordnar varje år en lång rad träningspass och sommarforskarsko
 [cern.ch](https://home.cern/summer-student-programme)
 
 CERN är världens störta forskningsanläggning för partikelfysik. De anordnar varje år ett långt sommarprogram för universitetsstudenter. Programmet är ämnesspecifikt och riktar sig till studenter i fysik, teknik eller matematik. Programmet är gratis och resor ersätts upp till en gräns. Ett stipendium på ca 1000 euro per månad erbjuds också för att hjälpa att täcka kostnader för boende och mat.
+
 ---
 
 ## Organisationer och föreningar
