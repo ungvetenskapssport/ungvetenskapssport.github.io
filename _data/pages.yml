@@ -21,3 +21,7 @@
 - name: Mattebattle
   url: "/mattebattle"
   id: "mattebattle"
+
+- name: Höjdpunkten
+  url: "/hojdpunkten"
+  id: "hojdpunkten"
