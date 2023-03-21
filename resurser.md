@@ -194,7 +194,7 @@ Forskarskolan i Karlskoga är ett naturvetenskapligt läger som vänder sig till
 **Maths Beyond Limits**
 [mathsbeyondlimits.eu](https://mathsbeyondlimits.eu/)
 
-Maths Beyond Limits (MBL) är ett internationellt matematikläger för unga begåvade matteentusiaster. MBL riktar sig främst till gymnasieelever och antagning sker bland annat genom ett antagningsprov. Lägret äger rum i Polen under 2 veckor på hösten (oftast i september). Fokus ligger på olympiadmatte och rekreationell matte. Det kostar att delta i programmet.
+Maths Beyond Limits (MBL) är ett internationellt matematikläger för unga begåvade matteentusiaster. MBL riktar sig främst till gymnasieelever och antagning sker bland annat genom ett antagningsprov. Lägret äger rum i Polen under 2 veckor på hösten (oftast i september). Fokus ligger på olympiadmatte och rekreationell matte. Det är gratis att delta i programmet.
 
 **PROMYS**
 [promys-europe.org](https://promys-europe.org/about-promys-europe/)
