@@ -171,6 +171,11 @@ Rays är en sommarforskarskola som riktar sig till personer som läser andra år
 
 Rymdforskarskolan är en sommarforskarskola som riktar sig till personer som personer som går i 1:an eller 2:an på gymnasiet och tycker att astronomi och rymdforskning låter spännande! Rymdforskarskolan äger rum under 10 under sommaren på 4 olika städer i Sverige. Under Rymdforskarskolan får du ta del av föreläsningar inom astronomi och rymdteknik, träffa personer som delar ditt intresse för astronomi och rymdteknik samt utföra ett rymdtekniskt projektarbete. Hela programmet är gratis.
 
+**Sommarforskarskolan Forskarmöten**
+[sverigesungaakademi.se/2621.html](https://www.sverigesungaakademi.se/2621.html)
+
+Sommarforskarskolan Forskarmöten är en svensk sommarforskarskola anordnad av Sveriges Unga Akademi. Sommarforskarskolan riktar sig till dig som precis gått ut eller precis ska börja årskurs 3 på gymnasiet. Under dagarna får deltagarna diskutera forskning med forskare, ta del av vetenskapliga presentationer, studiebesök, spel och utflykter. Sommarforskarskolan har plats för 25 personer och sista ansökningsdag 2023 är 5:e maj. År 2023 äger sommarforskarskolan rum i Abisko mellan 7-9 augusti.
+
 **KI:s sommarforskarskola**
 [utbildning.ki.se/sommarforskarskola](https://utbildning.ki.se/sommarforskarskola-med-biomedicinsk-inriktning-for-gymnasieelever)
 
