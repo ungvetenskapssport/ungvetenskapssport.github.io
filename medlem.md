@@ -7,7 +7,7 @@ id: medlem
 
 Läs nedan om de ämnen som intresserar dig och välj alla du vill bli medlem i genom att fylla i respektive formulär! Det är helt gratis.
 
-
+<img src="/imgs/medlemsforeningar/uvs-medlemsforeningar-website.gif" style="width: 300px; position: relative; left: 5px;">
 
 
 UVS är ett förbund av medlemsföreningar. För att bli medlem i Ung Vetenskapssport blir du medlem i en eller flera av föreningarna. Du blir då automatiskt medlem i förbundet Ung Vetenskapssport.
