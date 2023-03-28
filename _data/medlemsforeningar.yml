@@ -1,0 +1,19 @@
+# Members
+
+- name: UVS Matematiker
+  description: Matematik
+  form: https://www.svt.se
+  current: true
+  img: /imgs/styrelsen/julia_square.jpg
+
+- name: Erik Bryland
+  description: Kassör
+  form: erik.bryland@ungvetenskapssport.se
+  current: true
+  img: /imgs/styrelsen/erik_square.jpg
+
+- name: Benjamin Verbeek
+  description: Vice Ordförande
+  form: benjamin.verbeek@ungvetenskapssport.se
+  current: true
+  img: /imgs/styrelsen/benjamin_square.jpg

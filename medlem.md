@@ -5,15 +5,60 @@ id: medlem
 
 ---
 
-Läs nedan om de ämnen som intresserar dig och välj alla du vill bli medlem i genom att fylla i respektive formulär! Det är helt gratis.
+Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medlemsförening blir du automatiskt också medlem i förbundet Ung Vetenskapssport! Läs nedan om de ämnen som intresserar dig och välj alla du vill bli medlem i genom att fylla i respektive formulär. Det är helt gratis!
 
-<img src="/imgs/medlemsforeningar/uvs-medlemsforeningar-website.gif" style="width: 300px; position: relative; left: 5px;">
+<br>
 
+<div class="row">
+    {% for member in site.data.medlemsforeningar %} {% if member.current == true %}
 
-UVS är ett förbund av medlemsföreningar. För att bli medlem i Ung Vetenskapssport blir du medlem i en eller flera av föreningarna. Du blir då automatiskt medlem i förbundet Ung Vetenskapssport.
+    <div class="col-xs-5 col-sm-4 col-md-3 col-lg-3">
+        <div class="thumbnail">
+            {% if member.img %}
+            <img class="contact-image" src="{{ member.img }}" alt="{{ member.name }}">
+            {% endif %}
+            <div class="caption">
+                <h4>{{ member.name }}</h4>
+                <p> {{ member.description }}</p>
+                {% if member.city %}
+                <p> {{member.city}} </p>
+                {% endif %}
+                <h2>
+                {% if member.form %}
+                <a href="{{ member.form }}"><i class="fa fa-envelope-square"></i></a>
+                {% endif %}
+                {% if member.github %}
+                <a href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github-square"></i></a>
+                {% endif %}
+                {% if member.website %}
+                <a href="https://{{ member.website }}" target="_blank"><i class="fa fa-home"></i></a>
+                {% endif %}
+                </h2>
+            </div>
+        </div>
+    </div>
+    {% assign mod4 = forloop.index | modulo:4 %}
+    {% assign mod3 = forloop.index | modulo:3 %}
+    {% assign mod2 = forloop.index | modulo:2 %}
+    {% if mod2 == 0 %}
+    <div class="clearfix visible-xs-block"></div>
+    {% endif %}
+    {% if mod3 == 0 %}
+    <div class="clearfix visible-sm-block"></div>
+    {% endif %}
+    {% if mod4 == 0 %}
+    <div class="clearfix visible-md-block"></div>
+    <div class="clearfix visible-lg-block"></div>
+    {% endif %}
+
+    {% endif %}{% endfor %}
+</div>
+
 
 Förbundets viktigaste beståndsdel är dess medlemmar. Det är medlemmarna som är delaktiga i förbundets verksamhet, och det är för medlemmarna som förbundet finns. Fler medlemmar för föreningen är bara bra: vi får bidrag och fler personer får en möjlighet att ta del av vår verksamhet!
 
 Att bli medlem är helt gratis. Som medlem får du ta del av vår verksamhet, rösta på årsmöten och vi kommer även skicka utskick till dig om våra aktiviteter.
 
 Vi får bidrag för personer som är upp till 25 år gamla. Självfallet är du välkommen som medlem även om du är äldre än 25 år! 
+
+<img src="/imgs/medlemsforeningar/uvs-medlemsforeningar-website.gif" style="width: 100%; position: relative; left: 0px;">
