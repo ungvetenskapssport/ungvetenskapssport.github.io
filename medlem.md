@@ -15,7 +15,7 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
     <div class="col-xs-5 col-sm-4 col-md-3 col-lg-3">
         <div class="thumbnail">
             {% if member.img %}
-            <img class="contact-image" src="{{ member.img }}" alt="{{ member.name }}">
+            <img class="contact-image-no-border" src="{{ member.img }}" alt="{{ member.name }}">
             {% endif %}
             <div class="caption">
                 <h4>{{ member.name }}</h4>
@@ -25,7 +25,7 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
                 {% endif %}
                 <h2>
                 {% if member.form %}
-                <a href="{{ member.form }}"><i class="fa fa-envelope-square"></i></a>
+                <a href="{{ member.form }}">Bli medlem <i class="fa fa-sign-in"></i></a>
                 {% endif %}
                 {% if member.github %}
                 <a href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github-square"></i></a>
@@ -60,5 +60,16 @@ Förbundets viktigaste beståndsdel är dess medlemmar. Det är medlemmarna som 
 Att bli medlem är helt gratis. Som medlem får du ta del av vår verksamhet, rösta på årsmöten och vi kommer även skicka utskick till dig om våra aktiviteter.
 
 Vi får bidrag för personer som är upp till 25 år gamla. Självfallet är du välkommen som medlem även om du är äldre än 25 år! 
+
+## Engagera dig
+
+Att engagera sig ideellt är bland det roligaste man kan göra! Vill du hjälpa UVS att utvecklas? Grunda ett nytt läger? Ge fler unga chansen att delta i våra aktiviteter? Engagera dig i Ung Vetenskapssport och/eller någon av våra medlemsföreningar! Maila mer än gärna styrelsen om du är intresserad, eller fyll i [detta formulär](https://forms.gle/ieCyvan5bkeEaa2P6)!
+
+
+## Andra föreningar
+Vi vill även tipsa om en annan förening som på många sätt ligger i linje med UVS verksamhet och mål: [Kodsport Sverige](https://kodsport.se/). Läs mer på deras hemsida.
+
+
+
 
 <img src="/imgs/medlemsforeningar/uvs-medlemsforeningar-website.gif" style="width: 100%; position: relative; left: 0px;">

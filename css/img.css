@@ -3,6 +3,11 @@
   border: 1px solid #999;
 }
 
+.contact-image-no-border {
+  border-radius: 0.0em;
+  border: 0px solid #999;
+}
+
 .thumbnail {
   word-break: break-word;
 }
