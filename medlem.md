@@ -63,7 +63,7 @@ Vi får bidrag för personer som är upp till 25 år gamla. Självfallet är du 
 
 ## Engagera dig
 
-Att engagera sig ideellt är bland det roligaste man kan göra! Vill du hjälpa UVS att utvecklas? Grunda ett nytt läger? Ge fler unga chansen att delta i våra aktiviteter? Engagera dig i Ung Vetenskapssport och/eller någon av våra medlemsföreningar! Maila mer än gärna styrelsen om du är intresserad, eller fyll i [detta formulär](https://forms.gle/ieCyvan5bkeEaa2P6)!
+Att engagera sig ideellt är bland det roligaste och mest givande man kan göra! Vill du hjälpa dig själv och UVS att utvecklas? Grunda ett nytt läger? Ge fler unga chansen att delta i våra aktiviteter? Engagera dig i Ung Vetenskapssport och/eller någon av våra medlemsföreningar! Maila mer än gärna styrelsen om du är intresserad, eller fyll i [detta formulär](https://forms.gle/ieCyvan5bkeEaa2P6)!
 
 
 ## Andra föreningar
