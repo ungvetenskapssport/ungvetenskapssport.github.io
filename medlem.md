@@ -72,4 +72,4 @@ Vi vill även tipsa om en annan förening som på många sätt ligger i linje me
 
 
 
-<img src="/imgs/medlemsforeningar/uvs-medlemsforeningar-website.gif" style="width: 100%; position: relative; left: 0px;">
+<img src="/imgs/medlemsforeningar/uvs-medlemsforeningar-website.gif" style="width: 100%; position: relative; left: 0px; max-width: 800px;">
