@@ -6,7 +6,7 @@ Välkommen till Ung Vetenskapssports hemsida!
 
 Ung Vetenskapssport (UVS) är en ideell förening vars syfte är att skapa mötesplatser och träningsmöjligheter för ungdomar intresserade av problemlösning. Detta görs genom träningsläger inom matematik, programmering, fysik, kemi, biologi och lingvistik samt genom andra problemlösningsinriktade event.
 
-Ung Vetenskapssport består av 6 ämnesspecifika medlemsföreningar. Förbundet har som långsiktigt mål att förbättra svensk skolutbildning genom införandet av mer problemlösning i undervisningen vilket stimulerar både intresset och det logiska tänkandet hos eleverna.
+Ung Vetenskapssport består av [sex ämnesspecifika medlemsföreningar](./medlem). Förbundet har som långsiktigt mål att förbättra svensk skolutbildning genom införandet av mer problemlösning i undervisningen vilket stimulerar både intresset och det logiska tänkandet hos eleverna.
 
 Ung Vetenskapssport vill ha lokala verksamheter och kan hjälpa dig som har en bra idé relaterad till vetenskapssport; om du är intresserad av att starta en sådan – kontakta någon i styrelsen.
 
