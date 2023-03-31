@@ -1,5 +1,12 @@
 # Members
 
+- name: UVS Ingenjörer
+  description: UVS Ingenjörer samlar teknikintresserade unga, anordnar läger inom programmering och föreläsningar. Föreningen verkar även för robotikintresserade och tillhörande tävlingsverksamhet. Engagera dig!
+  form: https://forms.gle/H3pXWQVgcEGNaxacA
+  statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
+  current: true
+  img: /imgs/medlemsforeningar/uvs-ingenjörer.png
+
 - name: UVS Matematiker
   description: UVS Matematiker samlar matematikintresserade unga, anordnar årliga matematikläger, tävlingar, och träningar inför den Internationella Matematikolympiaden (IMO). Även lingvistikläger anordnas.
   form: https://forms.gle/KnS8H8Usoy95GGDE7
@@ -14,26 +21,19 @@
   current: true
   img: /imgs/medlemsforeningar/uvs-fysiker.png
 
-- name: UVS Kemister
-  description: UVS Kemister samlar kemiintresserade unga, anordnar kemiläger och träningar inför den Internationella Kemiolympiaden (IChO) med tillhörande kval (Kemiolympiaden).
-  form: https://forms.gle/5upK6oejkMDoYPds9
-  statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
-  current: true
-  img: /imgs/medlemsforeningar/uvs-kemister.png
-
 - name: UVS Biologer
   description: UVS Biologer samlar biologiintresserade unga, anordnar träningar inför den Internationella Biologiolympiaden (IBO) med tillhörande kval (Biologiolympiaden). Engagera dig!
   form: https://forms.gle/sitF5LQfZxt8A4Wu7
   statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
   current: true
   img: /imgs/medlemsforeningar/uvs-biologer.png
-
-- name: UVS Ingenjörer
-  description: UVS Ingenjörer samlar teknikintresserade unga, anordnar läger inom programmering och föreläsningar. Föreningen verkar även för robotikintresserade och tillhörande tävlingsverksamhet. Engagera dig!
-  form: https://forms.gle/H3pXWQVgcEGNaxacA
+  
+- name: UVS Kemister
+  description: UVS Kemister samlar kemiintresserade unga, anordnar kemiläger och träningar inför den Internationella Kemiolympiaden (IChO) med tillhörande kval (Kemiolympiaden).
+  form: https://forms.gle/5upK6oejkMDoYPds9
   statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
   current: true
-  img: /imgs/medlemsforeningar/uvs-ingenjörer.png
+  img: /imgs/medlemsforeningar/uvs-kemister.png
 
 - name: UVS Astronomer
   description: UVS Astronomer samlar astronomiintresserade unga, anordnar årliga astronomiläger och träningar inför den Internationella olympiaden i astronomi och astrofysik (IOAA) med tillhörande kval (astronomiolympiaden).

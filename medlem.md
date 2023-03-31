@@ -23,7 +23,7 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
                 {% if member.city %}
                 <p> {{member.city}} </p>
                 {% endif %}
-                <h2>
+                <h3>
                 {% if member.form %}
                 <a href="{{ member.form }}" target="_blank" rel="noopener noreferrer">Bli medlem <i class="fa fa-sign-in"></i></a>
                 {% endif %}
@@ -33,7 +33,7 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
                 {% if member.website %}
                 <a href="https://{{ member.website }}" target="_blank"><i class="fa fa-home"></i></a>
                 {% endif %}
-                </h2>
+                </h3>
             </div>
         </div>
     </div>
