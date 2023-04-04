@@ -24,3 +24,19 @@ table td {
 	border-color: #666666;
 	background-color: #ffffff;
 }
+.buttonMedlem {
+	border: 2px solid #1A237E; /* Dark-blue border */
+	background-color: #BBDEFB; /* Light-blue fill */
+	border-radius: 10px; /* Rounded corners */
+	font-weight: bold; /* Big bold text */
+	font-size: 20px; /* Adjust font size to your preference */
+	padding: 10px 20px; /* Adjust padding to your preference */
+	text-align: center; /* Center text horizontally */
+	text-decoration: none; /* Remove underline from text if needed */
+	display: inline-block; /* Display as an inline-block element */
+  }
+  @media screen and (max-width: 768px) {
+	.buttonMedlem {
+	  font-size: 14px; /* Decrease font size for screens up to 768px wide */
+	}
+  }

@@ -5,7 +5,7 @@ id: medlem
 
 ---
 
-Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medlemsförening blir du automatiskt också medlem i förbundet Ung Vetenskapssport! Läs nedan om de ämnen som intresserar dig och välj alla du vill bli medlem i genom att fylla i respektive formulär. Det är helt gratis!
+Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medlemsförening blir du automatiskt också medlem i förbundet Ung Vetenskapssport! Läs nedan om de ämnen som intresserar dig och välj alla du vill bli medlem i genom att fylla i respektive formulär. ***Det är helt gratis!***
 
 <br>
 
@@ -18,14 +18,19 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
             <img class="contact-image-no-border" src="{{ member.img }}" alt="{{ member.name }}">
             {% endif %}
             <div class="caption">
-                <h4>{{ member.name }}</h4>
-                <p> {{ member.description }}</p>
+                <details>
+                    <summary><h4>{{ member.name }}</h4></summary>
+                    <p>{{ member.description }}</p>
+                </details>
                 {% if member.city %}
                 <p> {{member.city}} </p>
                 {% endif %}
                 <h3>
                 {% if member.form %}
-                <a href="{{ member.form }}" target="_blank" rel="noopener noreferrer">Bli medlem <i class="fa fa-sign-in"></i></a>
+                <script src="../scripts/redirectOnClick.js"></script>
+                <div class="buttonMedlem" onclick="redirectToLink('{{ member.form }}')">
+                Bli medlem <i class="fa fa-sign-in"></i>
+                </div>
                 {% endif %}
                 {% if member.github %}
                 <a href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github-square"></i></a>
@@ -61,12 +66,18 @@ Att bli medlem är helt gratis. Som medlem får du ta del av vår verksamhet, r�
 
 Vi får bidrag för personer som är upp till 25 år gamla. Självfallet är du välkommen som medlem även om du är äldre än 25 år! 
 
-## Engagera dig
+## Jag är medlem! Vad gör jag nu?
+Grattis! Du som är medlem kan ta del av våra aktiviteter. Du kommer att få medlemsbrev med information om planerade aktiviteter och andra nyheter. Utöver detta kan du:
+- [Gå med i vår discordserver](https://discord.gg/GDfJKkTaqb)! Här diskuteras tävlingsproblem och möjligheter.
+- Gå på något av våra läger! Information skickas ut i våra medlemsbrev och andra kanaler.
+- Engagera dig! Läs mer nedan.
+
+### Engagera dig
 
 Att engagera sig ideellt är bland det roligaste och mest givande man kan göra! Vill du hjälpa dig själv och UVS att utvecklas? Grunda ett nytt läger? Ge fler unga chansen att delta i våra aktiviteter? Engagera dig i Ung Vetenskapssport och/eller någon av våra medlemsföreningar! Maila mer än gärna styrelsen om du är intresserad, eller fyll i [detta formulär](https://forms.gle/ieCyvan5bkeEaa2P6)!
 
 
-## Andra föreningar
+### Andra föreningar
 Vi vill även tipsa om en annan förening som på många sätt ligger i linje med UVS verksamhet och mål: [Kodsport Sverige](https://kodsport.se/). Läs mer på deras hemsida.
 
 
