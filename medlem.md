@@ -79,7 +79,7 @@ Att engagera sig ideellt är bland det roligaste och mest givande man kan göra!
 
 
 ### Andra föreningar
-Vi vill även tipsa om en annan förening som på många sätt ligger i linje med UVS verksamhet och mål: [Kodsport Sverige](https://kodsport.se/). Läs mer på deras hemsida.
+Om du gillar Ung Vetenskapssport så finns det många fler föreningar du kanske skulle gilla! Dessa och många fler tips finns på [vår resurssida](../resurser/#organisationer-och-f%C3%B6reningar)!
 
 
 

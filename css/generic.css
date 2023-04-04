@@ -26,12 +26,14 @@ table td {
 }
 .buttonMedlem {
 	margin-top: 10px;
-	border: 2px solid #1e4989; /* Dark-blue border */
-	background-color: #BBDEFB; /* Light-blue fill */
+	margin-bottom: 5px;
+	border: 2px solid #0492c2; /* Dark-blue border */
+	background-color: #f7f9ff00; /* fill */
+	transition: background-color 0.3s ease-out; /* Transition effect when hovering over the button */
 	border-radius: 10px; /* Rounded corners */
 	font-weight: bold; /* Big bold text */
 	font-size: 18px; /* Adjust font size to your preference */
-	color: #1e4989; /* Dark-blue text */
+	color: #0492c2; /* Dark-blue text */
 	padding: 8px 16px; /* Adjust padding to your preference */
 	text-align: center; /* Center text horizontally */
 	text-decoration: none; /* Remove underline from text if needed */
@@ -50,6 +52,10 @@ table td {
 	  font-size: 12px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
 	  padding: 5px 10px; /* Also decrease the padding */
 	}
+  }
+  .buttonMedlem:hover {
+	background-color: #1E88E5;
+	color: #FFFFFF;
   }
 
   summary {
