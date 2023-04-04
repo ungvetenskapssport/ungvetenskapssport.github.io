@@ -18,20 +18,21 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
             <img class="contact-image-no-border" src="{{ member.img }}" alt="{{ member.name }}">
             {% endif %}
             <div class="caption">
-                <details>
-                    <summary><h4>{{ member.name }}</h4></summary>
-                    <p>{{ member.description }}</p>
-                </details>
-                {% if member.city %}
-                <p> {{member.city}} </p>
-                {% endif %}
-                <h3>
                 {% if member.form %}
                 <script src="../scripts/redirectOnClick.js"></script>
                 <div class="buttonMedlem" onclick="redirectToLink('{{ member.form }}')">
                 Bli medlem <i class="fa fa-sign-in"></i>
                 </div>
                 {% endif %}
+
+                <details>
+                    <summary style="display:list-item">Om {{ member.name }}</summary>
+                    <p>{{ member.description }}</p>
+                </details>
+                {% if member.city %}
+                <p> {{member.city}} </p>
+                {% endif %}
+                <h3>
                 {% if member.github %}
                 <a href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github-square"></i></a>
                 {% endif %}

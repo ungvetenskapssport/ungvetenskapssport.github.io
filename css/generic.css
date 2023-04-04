@@ -25,18 +25,42 @@ table td {
 	background-color: #ffffff;
 }
 .buttonMedlem {
-	border: 2px solid #1A237E; /* Dark-blue border */
+	margin-top: 10px;
+	border: 2px solid #1e4989; /* Dark-blue border */
 	background-color: #BBDEFB; /* Light-blue fill */
 	border-radius: 10px; /* Rounded corners */
 	font-weight: bold; /* Big bold text */
-	font-size: 20px; /* Adjust font size to your preference */
-	padding: 10px 20px; /* Adjust padding to your preference */
+	font-size: 18px; /* Adjust font size to your preference */
+	color: #1e4989; /* Dark-blue text */
+	padding: 8px 16px; /* Adjust padding to your preference */
 	text-align: center; /* Center text horizontally */
 	text-decoration: none; /* Remove underline from text if needed */
 	display: inline-block; /* Display as an inline-block element */
+	cursor: pointer; /* Add cursor style to indicate clickability */
+	width: 100%;
   }
   @media screen and (max-width: 768px) {
 	.buttonMedlem {
-	  font-size: 14px; /* Decrease font size for screens up to 768px wide */
+	  font-size: 16px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
+	  padding: 5px 10px; /* Also decrease the padding */
 	}
   }
+  @media screen and (max-width: 456px) {
+	.buttonMedlem {
+	  font-size: 12px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
+	  padding: 5px 10px; /* Also decrease the padding */
+	}
+  }
+
+  summary {
+    font-style: italic;
+    margin: 0.5em 0.5em 0;
+	cursor: pointer;
+}
+details[open] {
+    padding: 0.5em;
+	font-size: 11px;
+}
+details[open] summary {
+    margin-bottom: 0.1em;
+}
