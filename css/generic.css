@@ -45,12 +45,14 @@ table td {
 	.buttonMedlem {
 	  font-size: 16px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
 	  padding: 5px 10px; /* Also decrease the padding */
+	  border: 1.5px solid #0492c2; /* Dark-blue border */
 	}
   }
   @media screen and (max-width: 456px) {
 	.buttonMedlem {
 	  font-size: 12px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
 	  padding: 5px 10px; /* Also decrease the padding */
+	  border: 1px solid #0492c2; /* Dark-blue border */
 	}
   }
   .buttonMedlem:hover {
