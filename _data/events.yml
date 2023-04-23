@@ -1,18 +1,19 @@
 - name: "Lingvistikläger 2023"
-  upcoming: true
+  upcoming: false
   inbjudan: "/blog/2023/03/06/lingvistiklager/"
   startdate: 2023-04-21
   enddate: 2023-04-23
   location: Göteborg
-  no_participants:
+  no_participants: 25
 
 - name: "Mattetävlingen Höjdpunkten 2023"
-  upcoming: true
+  upcoming: false
   inbjudan: "/blog/2023/02/22/hojdpunkten/"
   startdate: 2023-03-10
   enddate: 2023-03-12
   location: På respektive skola & Digitalt
-  no_participants:
+  no_participants: cirka 700
+  resultat_och_problem: "/hojdpunkten"
 
 - name: "Matematikläger 22/23"
   upcoming: false

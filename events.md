@@ -34,6 +34,9 @@ id: events
     {% if event.media %}
     <p><a href="{{ event.media }}" >Om evenemanget i media...</a></p>
     {% endif %}
+    {% if event.resultat_och_problem %}
+    <p> Resultat och problem hittar du <a href="{{ event.resultat_och_problem }}" >här</a>.</p>
+    {% endif %}
 </li>
 {% endif %}{% endfor %}
 </ul>
