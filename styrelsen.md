@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: styrelse_layout
 id: styrelsen
 title: Ung Vetenskapssports styrelse 2023
 ---
-
 
 Nedan finner du information om alla våra styrelsemedlemmar. Vill du kontakta komma i kontakt med oss kan du skicka ett mail till <a href="mailto:styrelsen@ungvetenskapssport.se">styrelsen@ungvetenskapssport.se</a>
 <br>
@@ -52,5 +51,3 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du kontakta ko
 
     {% endif %}{% endfor %}
 </div>
-
-<img src="/imgs/styrelsen/gruppbild.jpg" style="width: 100%; position: relative; left: 0px;">

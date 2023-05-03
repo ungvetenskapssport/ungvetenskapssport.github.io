@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: hojdpunkten_layout
 title: Höjdpunkten
 id: hojdpunkten
 ---
