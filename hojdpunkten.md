@@ -4,7 +4,7 @@ title: Höjdpunkten
 id: hojdpunkten
 ---
 
-# Gamla upplagor av Höjdpunkten
+# Tidigare upplagor av Höjdpunkten
 
 <ul>
 {% for event in site.data.hojdpunkten %} {% if event.upcoming == false %}
