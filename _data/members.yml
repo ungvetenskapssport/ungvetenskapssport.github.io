@@ -36,12 +36,6 @@
   current: true
   img: /imgs/styrelsen/milly_square.jpg
 
-- name: Emilio Youssef
-  role: Ledamot
-  mail: emilio.youssef@ungvetenskapssport.se
-  current: true
-  img: /imgs/styrelsen/emilio_square.jpg
-
 - name: Sebastian Westerlund
   role: Ledamot
   mail: sebastian.westerlund@ungvetenskapssport.se
@@ -49,7 +43,7 @@
   img: /imgs/styrelsen/sebastian_square.jpg
 
 - name: Ruth Risberg
-  role: Suppleant
+  role: Ledamot
   mail: ruth.risberg@ungvetenskapssport.se
   current: true
   img: /imgs/styrelsen/ruth_square.jpg
