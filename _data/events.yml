@@ -1,3 +1,19 @@
+- name: "Kemiläger 2023"
+  upcoming: true
+  inbjudan:
+  startdate: hösten 2023
+  enddate:
+  location:
+  no_participants:
+
+- name: "Programmeringsläger för tjejer 2023"
+  upcoming: true
+  inbjudan:
+  startdate: hösten 2023
+  enddate:
+  location:
+  no_participants:
+
 - name: "Lingvistikläger 2023"
   upcoming: false
   inbjudan: "/blog/2023/03/06/lingvistiklager/"

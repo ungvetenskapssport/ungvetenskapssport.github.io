@@ -10,8 +10,10 @@ id: events
 {% for event in site.data.events %} {% if event.upcoming == true %}
 <li>
     <h3> {{ event.name }} </h3>
-    <p> {{ event.startdate }} - {{ event.enddate }} </p>
+    <p> {{ event.startdate }} {% if event.enddate %} - {{ event.enddate }} {% endif %} </p>
+    {% if event.location %}
     <p> Plats: {{ event.location }} </p>
+    {% endif %}
     {% if event.inbjudan %}
     <p><a href="{{ event.inbjudan }}" >Läs mer...</a></p>
     {% endif %}
