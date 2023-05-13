@@ -14,12 +14,20 @@
   location:
   no_participants:
 
-- name: "Fysik- & Astronomiläger 2023"
+- name: "Fysik- & Astronomiläger Uppsala 2023"
   upcoming: true
   inbjudan:
-  startdate: hösten 2023
-  enddate:
-  location:
+  startdate: 2023-09-28
+  enddate: 2023-10-01
+  location: Uppsala
+  no_participants:
+
+- name: "Fysik- & Astronomiläger Göteborg 2023"
+  upcoming: true
+  inbjudan:
+  startdate: 2023-11-09
+  enddate: 2023-11-12
+  location: Göteborg
   no_participants:
 
 
