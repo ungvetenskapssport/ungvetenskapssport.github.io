@@ -62,3 +62,62 @@
     background-position: center 33%;
     border-radius: 1em;
 }
+
+#div-with-bg::before {
+  content: "";
+  display: block;
+  padding-top: 5%; /* Adjust this value to match your desired aspect ratio */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#div-with-bg-img {
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 5px
+}
+
+#div-with-bg-img .image-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* Adjust the aspect ratio (height/width) based on your image */
+  overflow: hidden;
+}
+
+#div-with-bg-img img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+}
+
+#div-with-bg-img .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(#FFFFFF00, #FFFFFFAA, #FFFFFFEE); /* Adjust the gradient colors as needed */
+}
+
+#div-with-bg-img .text-container {
+  position: absolute;
+  left: 10em;
+  bottom: 5em;
+}
+
+#div-with-bg-img .text-container h1 {
+  margin: 0;
+  padding: 0;
+}
