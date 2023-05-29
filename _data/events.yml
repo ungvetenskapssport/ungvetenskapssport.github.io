@@ -16,7 +16,7 @@
 
 - name: "Fysik- & Astronomiläger Uppsala 2023"
   upcoming: true
-  inbjudan:
+  inbjudan: ../fa-lager/
   startdate: 2023-09-28
   enddate: 2023-10-01
   location: Uppsala
@@ -24,7 +24,7 @@
 
 - name: "Fysik- & Astronomiläger Göteborg 2023"
   upcoming: true
-  inbjudan:
+  inbjudan: ../fa-lager/
   startdate: 2023-11-09
   enddate: 2023-11-12
   location: Göteborg
