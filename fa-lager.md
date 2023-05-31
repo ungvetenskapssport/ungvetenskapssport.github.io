@@ -5,11 +5,16 @@ id: fa-lager
 ---
 
 ## Anmälan 2023
-Anmälan till Fysik- och astronomiläger 2023 öppnar den 1 juni 2023.
+Mer information finns i [inbjudan.](./imgs/fa-lager/FA_läger_2023_inbjudan.pdf)
+En poster som du gärna får skriva ut och sätta upp på skolan hittar du [här!](./imgs/fa-lager/fysikläger-poster23.png)
+
+Anmälan till Fysik- och astronomiläger 2023 stänger den 23 augusti 2023 eller så fort alla platser är fyllda. Anmälan görs genom att fylla i [detta formulär](https://forms.gle/1FSMV1jQnHD5ypkbA).
 
 *Uppsala den 28/9-1/10*  
-*Göteborg den 9-12/11*
 
+*Göteborg den 9/11-12/11*
+
+Vid frågor kontakta [fa-lager@ungvetenskapssport.se](mailto:fa-lager@ungvetenskapssport.se)
 
 ## Om lägret
 Fysik- och astronomiläger grundades år 2022 och det första lägret gick av stapeln i september 2022 på Chalmers i Göteborg. Lägret är ett träningsläger för gymnasieelever som är intresserade av fysik och astronomi och målet är att erbjuda utmaningar utöver vad gymnasieskolan kan erbjuda. Det finns ett särskilt fokus på att lägga grunden för vidare möjligheter, till exempel deltagade i tävlingar som Wallenbergs fysikpris och Astronomiolympiaden. Lägret anordnas normalt en torsdag till söndag i en svensk universitetsstad. Tidigare har 70 deltagare och cirka 20 ledare deltagit på lägret, boende har skett gemensamt på hotell och logi samt alla måltider ingår normalt i deltagaravgiften.
