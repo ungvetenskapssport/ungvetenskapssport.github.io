@@ -25,6 +25,7 @@ Hälsningar, [Styrelsen för Ung Vetenskapssport](./styrelsen.md)
 
 # Nyheter
 <ul class="posts">
+    <li><span>01 Jun 2023</span> &raquo; <a href="/fa-lager">Fysik- och Astronomiläger 2023</a></li>
     {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
     {% endfor %}
