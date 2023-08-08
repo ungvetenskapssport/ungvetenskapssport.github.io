@@ -31,6 +31,9 @@ Ett stort tack till våra sponsorer och samarbetspartners:
 [<img src="/imgs/fa-lager/sponsors/sfs.png" style="width: 100%; position: relative; left: 0px; max-width: 350px;">](https://www.fysikersamfundet.se/)
 [<img src="/imgs/fa-lager/sponsors/beijerstiftelsen.png" style="width: 100%; position: relative; left: 0px; max-width: 350px;">](https://beijerstiftelsen.se/)
 [<img src="/imgs/fa-lager/sponsors/uu.png" style="width: 100%; position: relative; left: 0px; max-width: 300px;">](https://physics.uu.se/)
+[<img src="/imgs/fa-lager/sponsors/1024px-ESA_logo.png" style="width: 50%; position: relative; left: 0px; max-width: 300px; Padding: 50px;">](https://www.esa.int/)
+
+
 
 
 
