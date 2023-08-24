@@ -8,11 +8,11 @@ id: fa-lager
 Mer information finns i [inbjudan.](./imgs/fa-lager/FA_läger_2023_inbjudan.pdf)
 En poster som du gärna får skriva ut och sätta upp på skolan hittar du [här!](./imgs/fa-lager/fysikläger-poster23.png)
 
-Anmälan till Fysik- och astronomiläger 2023 stänger den 23 augusti 2023 eller så fort alla platser är fyllda. Anmälan görs genom att fylla i [detta formulär](https://forms.gle/1FSMV1jQnHD5ypkbA).
+Anmälan till Fysik- och astronomiläger 2023 stänger den *23 augusti 2023* (anmälan är ännu öppen för Göteborgsupplagan) eller så fort alla platser är fyllda. Anmälan görs genom att fylla i [detta formulär](https://forms.gle/1FSMV1jQnHD5ypkbA).
 
-*Uppsala den 28/9-1/10*  
+*Uppsala den 28/9-1/10*  (alla platser fyllda, reservlista öppen)
 
-*Göteborg den 9/11-12/11*
+*Göteborg den 9/11-12/11* (fåtal platser kvar)
 
 Vid frågor kontakta [fa-lager@ungvetenskapssport.se](mailto:fa-lager@ungvetenskapssport.se)
 
