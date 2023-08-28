@@ -34,4 +34,4 @@ Hälsningar, [Styrelsen för Ung Vetenskapssport](./styrelsen.md)
 # Kalender
 I denna kalender lägger vi in evenemang som vi organiserar, vilka dagar kvaltävlingarna i de olika vetenskapsolympiaderna för gymnasiet är och annat som vi tror kan vara av intresse för er. Om du använder Google kalender själv så går det bra att prenumerera på den!
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_dc018de89b41c2214170c97cc3c4459e3973ce58a8cc99f005a66087ba5d11c9%40group.calendar.google.com&ctz=Europe%2FStockholm" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FStockholm&showTitle=1&mode=MONTH&hl=sv&showNav=1&showDate=1&showPrint=1&showTabs=1&showCalendars=1&showTz=1&src=Y19kYzAxOGRlODliNDFjMjIxNDE3MGM5N2NjM2M0NDU5ZTM5NzNjZTU4YThjYzk5ZjAwNWE2NjA4N2JhNWQxMWM5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
