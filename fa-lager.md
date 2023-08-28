@@ -10,16 +10,34 @@ En poster som du gärna får skriva ut och sätta upp på skolan hittar du [här
 
 Anmälan till Fysik- och astronomiläger 2023 stänger den *23 augusti 2023* (anmälan är ännu öppen för Göteborgsupplagan) eller så fort alla platser är fyllda. Anmälan görs genom att fylla i [detta formulär](https://forms.gle/1FSMV1jQnHD5ypkbA).
 
-*Uppsala den 28/9-1/10*  (alla platser fyllda, reservlista öppen)
+*Uppsala den 28/9-1/10*  (reservlista öppen)
 
-*Göteborg den 9/11-12/11* (fåtal platser kvar)
+*Göteborg den 9/11-12/11* (platser kvar)
+
+**I höst är det dags för andra upplagan av Sveriges största fysik- och astronomiläger** med fokus på träning inför tävlingar som Wallenbergs Fysikpris och Astronomiolympiaden! I år har vi två läger: ett i Uppsala och ett i Göteborg. Kanske blir du Sveriges nästa representant i den Internationella Fysikolympiaden eller Astronomiolympiaden?
+
+Lägret riktar sig till intresserade och ambitiösa gymnasieelever, främst de som går naturvetenskaps- eller teknikprogrammet, och inga förkunskaper utöver ett stort intresse och att ha påbörjat en första gymnasiekurs i fysik eller motsvarande förväntas. I programmet ingår bland annat föreläsningar, laborationer, räkneövningar, lektionspass och mycket sociala aktiviteter!
+
+Förvänta dig att lära dig mer om allt ifrån stjärnors livscykler till Lagrangemekanik, elektromagnetism och kvantfysik! Dessutom kommer vi att bjuda på gästföreläsningar från professorer i teoretisk fysik och medarbetare på European Space Agency!
+
+Deltagaravgiften är i år 700 kr. I anmälningsavgiften ingår mat, boende och samtliga resor under programmets gång. Deltagare ansvarar själva för resa till och från staden där lägret hålls.
+_Tips: gymnasieskolor kan ofta sponsra deltagaravgiften, så hör med din skola! I annat fall är det möjligt att söka finansiellt stöd från Ung Vetenskapssport tack vare stöd från Beijerstiftelsen. Se ansökningsformuläret för mer information._
+
 
 Vid frågor kontakta [fa-lager@ungvetenskapssport.se](mailto:fa-lager@ungvetenskapssport.se)
 
-## Om lägret
+*2023 års arrangörsgrupp består av: Erik Bryland, Benjamin Verbeek, Antoni Kowalik, Lovisa Diding, Isak Fleig, Quynh Anh Tran och Jiachen "Milly" Mi.*
+
+
+### Schema 2023 (preliminärt)
+Schemat nedan är preliminärt och kan komma att ändras.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FStockholm&mode=WEEK&hl=sv&src=Y180YjNkYmEzZGUwMDgyNjVkZWFlNWRmOTQyYzUzN2Q1OTY1NDM2ZmQ3OTEzNDdjMmE0YmI3NjY3NWIyNWMwOTA1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%239E69AF" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+## Mer om lägret
 Fysik- och astronomiläger grundades år 2022 och det första lägret gick av stapeln i september 2022 på Chalmers i Göteborg. Lägret är ett träningsläger för gymnasieelever som är intresserade av fysik och astronomi och målet är att erbjuda utmaningar utöver vad gymnasieskolan kan erbjuda. Det finns ett särskilt fokus på att lägga grunden för vidare möjligheter, till exempel deltagade i tävlingar som Wallenbergs fysikpris och Astronomiolympiaden. Lägret anordnas normalt en torsdag till söndag i en svensk universitetsstad. Tidigare har 70 deltagare och cirka 20 ledare deltagit på lägret, boende har skett gemensamt på hotell och logi samt alla måltider ingår normalt i deltagaravgiften.
 
-Lägret arrangeras av ideellt engagerade inom UVS Fysiker och UVS Astronomer, och är ett av flera läger som arrangeras inom förbundet Ung Vetenskapssport. Lägret är helt ideellt.
+Lägret arrangeras av ideellt engagerade inom UVS Fysiker och UVS Astronomer, och är ett av flera läger som arrangeras inom förbundet Ung Vetenskapssport. Lägret drivs helt ideellt och utan vinstintresse.
 
 
 ## Sponsorer och samarbetspartners
