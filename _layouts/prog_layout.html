@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  {% include head.html %}
+
+    <body>
+        {% include header_adjustable_image.html %}
+        <div id="div-with-bg-img" class="jumbotron" style="margin-top: -20px;">
+            <div class="image-container" style="padding-bottom: 25%;">
+              <img src="/imgs/proglager/proglager_header.png" alt="Image">
+              <div class="text-container" style="left: 50%;text-align: center;top: 2vw;transform: translateX(-50%);height: 6vw; width: 90vw;display: block; color: antiquewhite;">
+                <h1 style="
+    font-size: calc(min(4.8vw,65px));
+">Programmeringsläger</h1>
+              </div>
+              <div class="text-container" style="left: 50%;text-align: center;top: calc(min(7.5vw, 120px));transform: translateX(-50%); color: antiquewhite;">
+                <h1 style="font-weight: normal;font-size: calc(min(2.2vw, 26px));"><em style="
+">för tjejer och ickebinära</em></h1>
+              </div>
+            </div>
+        </div>
+        <div class='container'>
+          <div class='contentWrapper'>
+            <div class="row">
+              {% if prog_layout.title %}
+              <h1> {{ prog_layout.title }} </h1>
+              <br>
+              {% endif %}
+              {{ content}}
+            </div>
+
+            <div class=row>
+                <hr>
+                {% include footer.html %}
+            </div>
+          </div>
+        </div>
+
+    </body>
+</html>
+
