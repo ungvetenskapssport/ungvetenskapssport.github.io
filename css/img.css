@@ -54,7 +54,7 @@
 
 #div-with-bg
 {
-    padding: 10em 2em 2em 2em;
+    padding: 0em 1em 1em 1em;
     background: linear-gradient(#FFFFFF00, #FFFFFFAA, #FFFFFFEE),
                 url('/imgs/header.jpeg');
     background-size:     cover;
