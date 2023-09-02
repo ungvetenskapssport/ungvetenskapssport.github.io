@@ -8,7 +8,7 @@
 
 - name: "Programmeringsläger för tjejer 2023"
   upcoming: true
-  inbjudan:
+  inbjudan: ../proglager/
   startdate: hösten 2023
   enddate:
   location:
