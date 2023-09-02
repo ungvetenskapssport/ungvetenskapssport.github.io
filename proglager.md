@@ -23,6 +23,6 @@ Tack vare våra sponsorer har vi i år kunnat göra lägret **helt gratis**, ink
 
 [<img src="/imgs/proglager/tage-swahn.png" style="width: 100%; position: relative; left: 0px; max-width: 400px;">]()
 [<img src="/imgs/proglager/jane_street.png" style="width: 100%; position: relative; left: 0px; max-width: 350px;">](https://www.janestreet.com/)
-[<img src="/imgs/proglager/ga-fonden.png" style="width: 100%; position: relative; left: 0px; max-width: 150px;">](https://www.gafonden.com/)
-[<img src="/imgs/proglager/chalmers.png" style="width: 100%; position: relative; left: 0px; max-width: 150px;">](https://www.chalmers.se/)
+[<img src="/imgs/proglager/ga-fonden.png" style="width: 100%; position: relative; left: 0px; max-width: 90px;">](https://www.gafonden.com/)
+[<img src="/imgs/proglager/chalmers.png" style="width: 100%; position: relative; left: 0px; max-width: 130px;">](https://www.chalmers.se/)
 
