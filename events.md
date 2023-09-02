@@ -4,7 +4,7 @@ title: Evenemang
 id: events
 ---
 
-# Kommande Evenemang
+# Kommande evenemang
 
 <ul>
 {% for event in site.data.events %} {% if event.upcoming == true %}
