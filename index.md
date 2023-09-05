@@ -14,6 +14,21 @@ Välkommen hit!
 
 Hälsningar, [Styrelsen för Ung Vetenskapssport](./styrelsen.md)
 
+# Nyheter
+<ul class="posts">
+    {% for post in site.posts  limit:6%}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+    {% endfor %}
+
+    <details>
+    <summary>more...</summary>
+
+    {% for post in site.posts offset:6 %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </details>
+</ul>
+
 ## Vetenskapstävlingar för gymnasister
 <ul>
 {% for comp in site.data.competitions %}
@@ -21,15 +36,6 @@ Hälsningar, [Styrelsen för Ung Vetenskapssport](./styrelsen.md)
 <a href="{{comp.url}}">{{comp.subject}} - {{comp.name}}</a>
 </li>
 {% endfor %}
-</ul>
-
-# Nyheter
-<ul class="posts">
-    <li><span>01 Jun 2023</span> &raquo; <a href="/proglager">Programmeringsläger för tjejer och ickebinära 2023</a></li>
-    <li><span>01 Jun 2023</span> &raquo; <a href="/fa-lager">Fysik- och Astronomiläger 2023</a></li>
-    {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-    {% endfor %}
 </ul>
 
 # Kalender

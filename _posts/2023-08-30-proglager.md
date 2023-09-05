@@ -2,6 +2,7 @@
 layout: prog_layout
 title: Programmeringsläger för tjejer och ickebinära
 id: proglager
+permalink: /proglager
 ---
 
 
