@@ -22,8 +22,8 @@ Lägret äger rum på Chalmers, i Göteborg. Under lägret kommer fokus ligga p�
 ## Sponsorer och samarbetspartners
 Tack vare våra sponsorer har vi i år kunnat göra lägret **helt gratis**, inklusive boende, mat och alla aktiviteter under lägret! Ett stort tack till våra sponsorer!
 
-[<img src="/imgs/proglager/tage-swahn.png" style="width: 100%; position: relative; center: 0px; max-width: 280px;">]()
-[<img src="/imgs/proglager/jane_street.png" style="width: 100%; position: relative; center: 0px; max-width: 254px;">](https://www.janestreet.com/)
-[<img src="/imgs/proglager/ga-fonden.png" style="width: 50%; position: relative; center: 0px; max-width: 90px;">](https://www.gafonden.com/)
-[<img src="/imgs/proglager/chalmers.png" style="width: 100%; position: relative; center: 0px; max-width: 66px;">](https://www.chalmers.se/)
+[<img src="/imgs/proglager/tage-swahn.png" style="width: 100%; position: relative; center: 0px; max-width: 280px; padding: 5ex;">]()
+[<img src="/imgs/proglager/jane_street.png" style="width: 100%; position: relative; center: 0px; max-width: 254px; padding: 5ex;">](https://www.janestreet.com/)
+[<img src="/imgs/proglager/ga-fonden.png" style="width: 50%; position: relative; center: 0px; max-width: 90px; padding: 2ex;">](https://www.gafonden.com/)
+[<img src="/imgs/proglager/chalmers.png" style="width: 100%; position: relative; center: 0px; max-width: 66px; padding: 1ex;">](https://www.chalmers.se/)
 
