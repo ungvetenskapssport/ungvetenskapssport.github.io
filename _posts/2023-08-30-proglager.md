@@ -9,7 +9,7 @@ permalink: /proglager/
 ## Anmälan 2023
 Välkomna till vårt programmeringsläger för tjejer och ickebinära! Den 5-8 oktober äger Ung Vetenskapssports och Kodsports programmeringsläger för tjejer och ickebinära rum! Är du nyfiken på att lära dig mer om programmering och identifierar dig som tjej eller ickebinär? Tveka inte med att anmäla dig! Mer information finns i [inbjudan](/imgs/proglager/proglager_info.pdf). En poster som du gärna får skriva ut och sätta upp på skolan hittar du [här!](/imgs/proglager/proglager_poster23.png)
 
-Anmälan till Programmeringsläger för tjejer och ickebinära stänger den *11 september 2023* eller när alla platser är fyllda. Anmälan görs genom att fylla i [detta formulär](https://forms.gle/3F5iMUt5iY6MER4m8).
+Anmälan till Programmeringsläger för tjejer och ickebinära stänger den *15 september 2023* eller när alla platser är fyllda. Anmälan görs genom att fylla i [detta formulär](https://forms.gle/3F5iMUt5iY6MER4m8).
 
 Vid frågor kontakta
 [proglager@ungvetenskapssport.se](mailto:proglager@ungvetenskapssport.se)
@@ -24,6 +24,6 @@ Tack vare våra sponsorer har vi i år kunnat göra lägret **helt gratis**, ink
 
 [<img src="/imgs/proglager/tage-swahn.png" style="width: 100%; position: relative; center: 0px; max-width: 280px; padding: 5ex;">]()
 [<img src="/imgs/proglager/jane_street.png" style="width: 100%; position: relative; center: 0px; max-width: 254px; padding: 5ex;">](https://www.janestreet.com/)
-[<img src="/imgs/proglager/ga-fonden.png" style="width: 50%; position: relative; center: 0px; max-width: 90px; padding: 2ex;">](https://www.gafonden.com/)
-[<img src="/imgs/proglager/chalmers.png" style="width: 100%; position: relative; center: 0px; max-width: 66px; padding: 1ex;">](https://www.chalmers.se/)
+[<img src="/imgs/proglager/ga-fonden.png" style="width: 50%; position: relative; center: 0px; max-width: 80px; padding: 2ex;">](https://www.gafonden.com/)
+[<img src="/imgs/proglager/chalmers.png" style="width: 100%; position: relative; center: 0px; max-width: 90px; padding: 1ex;">](https://www.chalmers.se/)
 
