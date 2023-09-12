@@ -11,7 +11,7 @@ Välkomna till vårt kemiläger! Den 3:e - 5:e november äger Ung Vetenskapsspor
 
 Anmälan till kemilägret öppnar den **13 september klockan 16:00** och görs genom att fylla i [detta formulär](https://forms.gle/sD5nN2tBiXwVG2w57). Anmälan stänger den *20 september* 2023 eller när alla platser är fyllda.
 
-Vid frågor kontakta [kemilager@ungvetenskapssport.se](mailto:proglager@ungvetenskapssport.se).
+Vid frågor kontakta [kemilager@ungvetenskapssport.se](mailto:kemilager@ungvetenskapssport.se).
 
 ## Om lägret
 
