@@ -1,17 +1,17 @@
 - name: "Kemiläger 2023"
   upcoming: true
-  inbjudan:
-  startdate: hösten 2023
-  enddate:
-  location:
+  inbjudan: ../kemilager/
+  startdate: 2023-11-03
+  enddate: 2023-11-05
+  location: Göteborg
   no_participants:
 
 - name: "Programmeringsläger för tjejer 2023"
   upcoming: true
   inbjudan: ../proglager/
-  startdate: hösten 2023
-  enddate:
-  location:
+  startdate: 2023-10-05
+  enddate: 2023-10-08
+  location: Göteborg
   no_participants:
 
 - name: "Fysik- & Astronomiläger Uppsala 2023"
