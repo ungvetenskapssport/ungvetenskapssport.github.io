@@ -4,7 +4,7 @@ title: Exempelproblem astronomi
 id: affisch-astronomi
 ---
 
-Kul att du hittat hit!
+Kul att du hittat hit! Nedan finns lösningsförslag samt bonusproblem.
 
 
 <img src="../imgs/uvs-poster-astronomi.png" alt="Affisch exempelproblem UVA astronomer" style="width: 100%; position: relative; left: 0px; max-width: 800px;">
