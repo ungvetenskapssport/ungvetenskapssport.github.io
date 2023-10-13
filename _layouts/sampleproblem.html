@@ -1,0 +1,47 @@
+---
+layout: base
+---
+
+{% if page.title %}
+<h1> {{ page.title }} </h1>
+<br>
+{% endif %}
+
+
+{% if page.bonusproblem %}
+<p>Kul att du hittat hit! Nedan finns lösningsförslag samt bonusproblem.</p>
+{% else %}
+<p> Kul att du hittat hit! Nedan finns lösningsförslag till affischproblemet.</p>
+{% endif %}
+
+
+{% if page.poster and page.medlemsforening %}
+<img src="{{ page.poster }}" alt="Affisch exempelproblem {{ page.medlemsforening}}" style="width: 100%; position: relative; left: 0px; max-width: 800px;">
+{% endif %}
+
+
+{% if page.solution and page.medlemsforening %}
+<details>
+    <summary style="display:list-item">Lösning:</summary>
+    <p> {{ page.solution}} Tyckte du detta problem var roligt, vill ha en mer utförlig förklaring eller fler utmaningar? <a href="//www.ungvetenskapssport.se/medlem/">Bli medlem gratis i {{ page.medlemsforening}}</a> och gå med i vår <a href="https://discord.gg/GDfJKkTaqb">discordserver</a>! </p>
+</details>
+{% endif %}
+
+
+{% if page.bonusproblem and page.medlemsforening %}
+<br>
+<p>
+<b>Bonusproblem</b>
+<br>
+{{ page.bonusproblem }}
+<details>
+    <summary style="display:list-item">Lösning bonusproblem:</summary>
+    <p>Lösningen på denna uppgift diskuteras på <a href="https://discord.gg/GDfJKkTaqb">discord</a>. Att <a href="//www.ungvetenskapssport.se/medlem/">bli medlem gratis</a> är det bästa sättet att få ta del av fler kul problem och träffa andra intresserade! </p>
+    {% if page.bonusproblem_ledtrad %}
+    <p> <b>Ledtråd:</b> {{ page.bonusproblem_ledtrad }} </p>
+    {% endif %}
+</details>
+</p>
+{% endif %}
+
+{{ content}}
