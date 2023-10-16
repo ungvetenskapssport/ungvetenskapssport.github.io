@@ -43,3 +43,10 @@
   current: true
   img: /imgs/medlemsforeningar/uvs-astronomer.png
   sampleproblem: /affisch/astronomi
+
+- name: Lingolympiaden
+  description: Lingolympiaden är en förening som samlar lingvistikintresserade unga och anordnar varje år den svenska uttagningen med samma namn. Vinnarna utgör laget till den Internationella lingvistikolympiaden (IOL).
+  form: https://ebas.ungvetenskapssport.se/blimedlem/lingolympiaden
+  current: false
+  img: /imgs/medlemsforeningar/lingolympiaden-web.png
+  sampleproblem: /affisch/lingvistik
