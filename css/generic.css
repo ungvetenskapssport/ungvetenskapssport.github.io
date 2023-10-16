@@ -64,12 +64,12 @@ table td {
 	margin-top: 10px;
 	margin-bottom: 5px;
 	border: 2px solid #0492c2; /* Dark-blue border */
-	background-color: #1E88E5; /* fill transparently */
+	background-color: #1E88E500; /* fill transparently */
 	transition: background-color 0.3s ease-out; /* Transition effect when hovering over the button */
 	border-radius: 10px; /* Rounded corners */
 	font-weight: bold; /* Big bold text */
 	font-size: 18px; /* Adjust font size to your preference */
-	color: #FFFFFF; /* White text */
+	color: #0492c2; /* White text */
 	padding: 8px 16px; /* Adjust padding to your preference */
 	text-align: center; /* Center text horizontally */
 	text-decoration: none; /* Remove underline from text if needed */
@@ -92,7 +92,7 @@ table td {
 	}
   }
   .buttonInfo:hover {
-	background-color: #ffffff00;
+	background-color: #1E88E530;
 	color: #1E88E5;
   }
 
