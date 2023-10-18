@@ -14,6 +14,10 @@ layout: base
 <p> Kul att du hittat hit! Nedan finns lösningsförslag till affischproblemet.</p>
 {% endif %}
 
+{% if page.skrivut %}
+<p> Skriv gärna ut affischen och häng upp! <a href="{{ page.skrivut }}">Ladda ned affischen.</a> </p>
+{% endif %}
+
 
 {% if page.poster and page.medlemsforening %}
 <img src="{{ page.poster }}" alt="Affisch exempelproblem {{ page.medlemsforening}}" style="width: 100%; position: relative; left: 0px; max-width: 800px;">
