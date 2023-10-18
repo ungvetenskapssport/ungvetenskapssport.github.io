@@ -34,6 +34,13 @@ layout: base
         {% endif %}
 {% endif %} {% endif %} {% endfor %}
 
+{% if page.ledtrad %}
+<br>
+<details>
+    <summary style="display:list-item">Ledtråd:</summary>
+    <p> {{ page.ledtrad }} </p>
+</details>
+{% endif %}
 
 {% if page.solution and page.medlemsforening %}
 <details>
