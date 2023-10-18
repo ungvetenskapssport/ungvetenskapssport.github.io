@@ -28,7 +28,7 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
                 {% if member.sampleproblem %}
                     <!-- <p><a href="{{ member.sampleproblem }}" >Exempelproblem</a></p> -->
                     <div class="buttonInfo" onclick="redirectToLink('{{ member.sampleproblem }}')">
-                Exempelproblem <i class="fa fa-puzzle-piece"></i>
+                Exempel<wbr>problem <i class="fa fa-puzzle-piece"></i>
                 </div>
                 {% endif %}
 
