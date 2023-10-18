@@ -6,6 +6,7 @@
   statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
   current: true
   img: /imgs/medlemsforeningar/uvs-ingenjörer.png
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsingenjorer
 
 - name: UVS Matematiker
   description: UVS Matematiker samlar matematikintresserade unga, anordnar årliga matematikläger, tävlingar, och träningar inför den Internationella matematikolympiaden (IMO) med tillhörande kval (Skolornas matematiktävling/SMT).
@@ -14,6 +15,7 @@
   current: true
   img: /imgs/medlemsforeningar/uvs-matematiker.png
   sampleproblem: /affisch/matematik
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsmatematiker
 
 - name: UVS Fysiker
   description: UVS Fysiker samlar fysikintresserade unga, anordnar årliga fysikläger och träningar inför den Internationella fysikolympiaden (IPhO) med tillhörande kval (Wallenbergs fysikpris).
@@ -44,6 +46,7 @@
   current: true
   img: /imgs/medlemsforeningar/uvs-astronomer.png
   sampleproblem: /affisch/astronomi
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsastronomer
 
 - name: Lingolympiaden
   description: Lingolympiaden är en förening som samlar lingvistikintresserade unga och anordnar varje år den svenska uttagningen med samma namn. Vinnarna utgör laget till den Internationella lingvistikolympiaden (IOL).
@@ -51,3 +54,4 @@
   current: true
   img: /imgs/medlemsforeningar/lingolympiaden-web.png
   sampleproblem: /affisch/lingvistik
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/lingolympiaden

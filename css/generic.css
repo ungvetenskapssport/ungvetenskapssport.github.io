@@ -27,7 +27,7 @@ table td {
 .buttonMedlem {
 	margin-top: 10px;
 	margin-bottom: 5px;
-	border: 2px solid #0492c2; /* Dark-blue border */
+	border: 2px solid #1E88E5; /* Dark-blue border */
 	background-color: #1E88E5; /* fill transparently */
 	transition: background-color 0.3s ease-out; /* Transition effect when hovering over the button */
 	border-radius: 10px; /* Rounded corners */
@@ -45,32 +45,32 @@ table td {
 	.buttonMedlem {
 	  font-size: 16px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
 	  padding: 5px 10px; /* Also decrease the padding */
-	  border: 1.5px solid #0492c2; /* Dark-blue border */
+	  border: 1.5px solid #1E88E5; /* Dark-blue border */
 	}
   }
   @media screen and (max-width: 456px) {
 	.buttonMedlem {
 	  font-size: 12px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
 	  padding: 5px 10px; /* Also decrease the padding */
-	  border: 1px solid #0492c2; /* Dark-blue border */
+	  border: 1px solid #1E88E5; /* Dark-blue border */
 	}
   }
   .buttonMedlem:hover {
-	background-color: #ffffff00;
+	background-color: #1E88E500;
 	color: #1E88E5;
   }
 
   .buttonInfo {
-	margin-top: 10px;
+	margin-top: 5px;
 	margin-bottom: 5px;
 	border: 2px solid #0492c2; /* Dark-blue border */
 	background-color: #1E88E500; /* fill transparently */
 	transition: background-color 0.3s ease-out; /* Transition effect when hovering over the button */
 	border-radius: 10px; /* Rounded corners */
-	font-weight: bold; /* Big bold text */
-	font-size: 18px; /* Adjust font size to your preference */
+	font-weight: normal; /* Big bold text */
+	font-size: 16px; /* Adjust font size to your preference */
 	color: #0492c2; /* White text */
-	padding: 8px 16px; /* Adjust padding to your preference */
+	padding: 2px 2px; /* Adjust padding to your preference */
 	text-align: center; /* Center text horizontally */
 	text-decoration: none; /* Remove underline from text if needed */
 	display: inline-block; /* Display as an inline-block element */
@@ -79,21 +79,21 @@ table td {
   }
   @media screen and (max-width: 768px) {
 	.buttonInfo {
-	  font-size: 16px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
+	  font-size: 14px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
 	  padding: 5px 10px; /* Also decrease the padding */
 	  border: 1.5px solid #0492c2; /* Dark-blue border */
 	}
   }
   @media screen and (max-width: 456px) {
 	.buttonInfo {
-	  font-size: 12px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
+	  font-size: 11px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
 	  padding: 5px 10px; /* Also decrease the padding */
 	  border: 1px solid #0492c2; /* Dark-blue border */
 	}
   }
   .buttonInfo:hover {
-	background-color: #1E88E530;
-	color: #1E88E5;
+	background-color: #1E88E520;
+	color: #0492c2;
   }
 
   summary {
