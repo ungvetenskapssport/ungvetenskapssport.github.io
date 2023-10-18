@@ -15,13 +15,24 @@ layout: base
 {% endif %}
 
 {% if page.skrivut %}
-<p> Här kan du <a href="{{ page.skrivut }}">ladda ned affischen</a> som pdf. Häng gärna upp den någonstans! </p>
+<p> Här kan du <a href="{{ page.skrivut }}">ladda ned affischen som pdf</a>. Häng gärna upp den någonstans! </p>
 {% endif %}
 
 
 {% if page.poster and page.medlemsforening %}
 <img src="{{ page.poster }}" alt="Affisch exempelproblem {{ page.medlemsforening}}" style="width: 100%; position: relative; left: 0px; max-width: 800px;">
 {% endif %}
+
+<!-- Bli medlem-knappen är direkt kopplad till informationen i "medlemsforeningar.yml" och är alltid likadan. -->
+{% for member in site.data.medlemsforeningar %} {% if member.current == true %} {% if member.name == page.medlemsforening %} 
+        {% if member.form %}
+        <br>
+        <div class="buttonMedlem" style="max-width: 220px;" onclick="redirectToLink('{{ member.form }}')">
+            Bli medlem gratis <i class="fa fa-sign-in"></i>
+        </div>
+        <script src="/scripts/redirectOnClick.js"></script>
+        {% endif %}
+{% endif %} {% endif %} {% endfor %}
 
 
 {% if page.solution and page.medlemsforening %}
