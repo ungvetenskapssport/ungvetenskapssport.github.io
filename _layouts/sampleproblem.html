@@ -15,7 +15,7 @@ layout: base
 {% endif %}
 
 {% if page.skrivut %}
-<p> Här kan du <a href="{{ page.skrivut }}">ladda ned affischen som pdf</a>. Häng gärna upp den någonstans! </p>
+<p> Skriv gärna ut affischen och häng upp den någonstans så att fler får klura! </p>
 {% endif %}
 
 
@@ -26,13 +26,22 @@ layout: base
 <!-- Bli medlem-knappen är direkt kopplad till informationen i "medlemsforeningar.yml" och är alltid likadan. -->
 {% for member in site.data.medlemsforeningar %} {% if member.current == true %} {% if member.name == page.medlemsforening %} 
         {% if member.form %}
-        <br>
+        <!-- <br> -->
         <div class="buttonMedlem" style="max-width: 220px;" onclick="redirectToLink('{{ member.form }}')">
             Bli medlem gratis <i class="fa fa-sign-in"></i>
         </div>
         <script src="/scripts/redirectOnClick.js"></script>
         {% endif %}
 {% endif %} {% endif %} {% endfor %}
+
+<!-- Ladda-ned affischen-knapp -->
+{% if page.skrivut %}
+<div class="buttonInfoLarge" style="max-width: 220px;" onclick="redirectToLink('{{ page.skrivut }}')">
+    Skriv ut <i class="fa fa-print"></i>
+</div>
+<script src="/scripts/redirectOnClick.js"></script>
+{% endif %}
+
 
 {% if page.ledtrad %}
 <br>

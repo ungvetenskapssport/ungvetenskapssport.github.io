@@ -56,7 +56,43 @@ table td {
 	}
   }
   .buttonMedlem:hover {
-	background-color: #1E88E500;
+	background-color: #1E88E510;
+	color: #1E88E5;
+  }
+
+  .buttonInfoLarge {
+	margin-top: 10px;
+	margin-bottom: 5px;
+	border: 2px solid #1E88E5; /* Dark-blue border */
+	background-color: #ffffff; /* fill white */
+	transition: background-color 0.3s ease-out; /* Transition effect when hovering over the button */
+	border-radius: 10px; /* Rounded corners */
+	font-weight: normal; /* Big bold text */
+	font-size: 18px; /* Adjust font size to your preference */
+	color: #1E88E5; /* Blue text */
+	padding: 8px 16px; /* Adjust padding to your preference */
+	text-align: center; /* Center text horizontally */
+	text-decoration: none; /* Remove underline from text if needed */
+	display: inline-block; /* Display as an inline-block element */
+	cursor: pointer; /* Add cursor style to indicate clickability */
+	width: 100%;
+  }
+  @media screen and (max-width: 768px) {
+	.buttonInfoLarge {
+	  font-size: 16px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
+	  padding: 5px 10px; /* Also decrease the padding */
+	  border: 1.5px solid #1E88E5; /* Dark-blue border */
+	}
+  }
+  @media screen and (max-width: 456px) {
+	.buttonInfoLarge {
+	  font-size: 12px; /* Decrease font size for screens up to 768px wide (most mobile etc.) */
+	  padding: 5px 10px; /* Also decrease the padding */
+	  border: 1px solid #1E88E5; /* Dark-blue border */
+	}
+  }
+  .buttonInfoLarge:hover {
+	background-color: #1E88E510;
 	color: #1E88E5;
   }
 
