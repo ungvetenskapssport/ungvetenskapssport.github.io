@@ -18,6 +18,6 @@
   url: "/mattebattle"
   id: "mattebattle"
 
-- name: Höjdpunkten
-  url: "/hojdpunkten"
-  id: "hojdpunkten"
+# - name: Höjdpunkten
+#   url: "/hojdpunkten"
+#   id: "hojdpunkten"
