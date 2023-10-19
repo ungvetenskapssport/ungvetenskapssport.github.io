@@ -1,10 +1,11 @@
 ---
 layout: page
+antal_medlemsforeningar: sju
 ---
 
 Ung Vetenskapssport (UVS) är en ideell förening vars syfte är att skapa mötesplatser och träningsmöjligheter för ungdomar intresserade av problemlösning. Detta görs genom träningsläger inom matematik, programmering, fysik, kemi, biologi och lingvistik samt genom andra problemlösningsinriktade event.
 
-Bli medlem i en av förbundets [sex ämnesspecifika medlemsföreningar](./medlem)! Ung Vetenskapssport har som långsiktigt mål att förbättra svensk skolutbildning genom införandet av mer problemlösning i undervisningen vilket stimulerar både intresset och det logiska tänkandet hos eleverna.
+Bli medlem i förbundets [{{ page.antal_medlemsforeningar }} ämnesspecifika medlemsföreningar](./medlem)! Ung Vetenskapssport har som långsiktigt mål att förbättra svensk skolutbildning genom införandet av mer problemlösning i undervisningen vilket stimulerar både intresset och det logiska tänkandet hos eleverna.
 
 UVS vill ha lokala verksamheter och kan hjälpa dig som har en bra idé relaterad till vetenskapssport; om du är intresserad av att starta en sådan – [kontakta någon i styrelsen](mailto:styrelsen@ungvetenskapssport.se).
 
@@ -12,7 +13,11 @@ Välkommen hit!
 
 <img src="/imgs/medlemsforeningar/uvs-medlemsforeningar-website.gif" style="width: 800%; position: relative; left: 0px; max-width: 100px;">
 
-Hälsningar, [Styrelsen för Ung Vetenskapssport](./styrelsen.md)
+Hälsningar, <br>
+[Styrelsen för Ung Vetenskapssport](./styrelsen.md)
+
+<!-- Bli medlem-knapp som länkar till bli-medlem sidan -->
+<a href="./medlem" class="buttonInfo" style="max-width: 220px;" role="button" aria-pressed="true"><b>Våra föreningar</b></a>
 
 # Nyheter
 <ul class="posts">
