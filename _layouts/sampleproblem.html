@@ -22,7 +22,7 @@ layout: base
 {% if page.poster and page.medlemsforening %}
 <img src="{{ page.poster }}" alt="Affisch exempelproblem {{ page.medlemsforening}}" style="width: 100%; position: relative; left: 0px; max-width: 800px;">
 {% endif %}
-
+<br>
 <!-- Bli medlem-knappen är direkt kopplad till informationen i "medlemsforeningar.yml" och är alltid likadan. -->
 {% for member in site.data.medlemsforeningar %} {% if member.current == true %} {% if member.name == page.medlemsforening %} 
         {% if member.form %}
