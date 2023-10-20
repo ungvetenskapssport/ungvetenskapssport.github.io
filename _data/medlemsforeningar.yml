@@ -6,6 +6,7 @@
   statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
   current: true
   img: /imgs/medlemsforeningar/uvs-ingenjörer.png
+  sampleproblem: /affisch/teknik
   info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsingenjorer
 
 - name: UVS Matematiker
@@ -31,6 +32,7 @@
   statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
   current: true
   img: /imgs/medlemsforeningar/uvs-biologer.png
+  sampleproblem: /affisch/biologi
   
 - name: UVS Kemister
   description: UVS Kemister samlar kemiintresserade unga, anordnar kemiläger och träningar inför den Internationella kemiolympiaden (IChO) med tillhörande kval (Kemiolympiaden).
@@ -38,6 +40,7 @@
   statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
   current: true
   img: /imgs/medlemsforeningar/uvs-kemister.png
+  sampleproblem: /affisch/kemi
 
 - name: UVS Astronomer
   description: UVS Astronomer samlar astronomiintresserade unga, anordnar årliga astronomiläger och träningar inför den Internationella olympiaden i astronomi och astrofysik (IOAA) med tillhörande kval (astronomiolympiaden).
@@ -55,3 +58,10 @@
   img: /imgs/medlemsforeningar/lingolympiaden-web.png
   sampleproblem: /affisch/lingvistik
   info_ebas: https://ebas.ungvetenskapssport.se/forening/lingolympiaden
+
+- name: Kodsport
+  description: TBD
+  form: TBD
+  current: false
+  img: TBD
+  sampleproblem: /affisch/programmering
