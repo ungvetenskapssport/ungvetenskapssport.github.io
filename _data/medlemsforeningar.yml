@@ -28,11 +28,12 @@
 
 - name: UVS Biologer
   description: UVS Biologer samlar biologiintresserade unga, anordnar träningar inför den Internationella biologiolympiaden (IBO) med tillhörande kval (Biologiolympiaden). Engagera dig!
-  form: https://forms.gle/sitF5LQfZxt8A4Wu7
+  form: https://ebas.ungvetenskapssport.se/blimedlem/uvsbiologer
   statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
   current: true
   img: /imgs/medlemsforeningar/uvs-biologer.png
   sampleproblem: /affisch/biologi
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsbiologer
   
 - name: UVS Kemister
   description: UVS Kemister samlar kemiintresserade unga, anordnar kemiläger och träningar inför den Internationella kemiolympiaden (IChO) med tillhörande kval (Kemiolympiaden).
