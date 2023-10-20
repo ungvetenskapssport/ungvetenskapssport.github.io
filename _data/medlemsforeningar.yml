@@ -20,11 +20,12 @@
 
 - name: UVS Fysiker
   description: UVS Fysiker samlar fysikintresserade unga, anordnar årliga fysikläger och träningar inför den Internationella fysikolympiaden (IPhO) med tillhörande kval (Wallenbergs fysikpris).
-  form: https://forms.gle/MX1QdAissuDAkeNU6
+  form: https://ebas.ungvetenskapssport.se/blimedlem/uvsfysiker
   statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
   current: true
   img: /imgs/medlemsforeningar/uvs-fysiker.png
   sampleproblem: /affisch/fysik
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsfysiker
 
 - name: UVS Biologer
   description: UVS Biologer samlar biologiintresserade unga, anordnar träningar inför den Internationella biologiolympiaden (IBO) med tillhörande kval (Biologiolympiaden). Engagera dig!
@@ -37,11 +38,12 @@
   
 - name: UVS Kemister
   description: UVS Kemister samlar kemiintresserade unga, anordnar kemiläger och träningar inför den Internationella kemiolympiaden (IChO) med tillhörande kval (Kemiolympiaden).
-  form: https://forms.gle/5upK6oejkMDoYPds9
+  form: https://ebas.ungvetenskapssport.se/blimedlem/uvskemister
   statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
   current: true
   img: /imgs/medlemsforeningar/uvs-kemister.png
   sampleproblem: /affisch/kemi
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvskemister
 
 - name: UVS Astronomer
   description: UVS Astronomer samlar astronomiintresserade unga, anordnar årliga astronomiläger och träningar inför den Internationella olympiaden i astronomi och astrofysik (IOAA) med tillhörande kval (astronomiolympiaden).
