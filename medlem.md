@@ -74,7 +74,6 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
     {% endif %}{% endfor %}
 </div>
 
-
 Förbundets viktigaste beståndsdel är dess medlemmar. Det är medlemmarna som är delaktiga i förbundets verksamhet, och det är för medlemmarna som förbundet finns. Fler medlemmar för föreningen är bara bra: vi får bidrag och fler personer får en möjlighet att ta del av vår verksamhet!
 
 Att bli medlem är helt gratis. Som medlem får du ta del av vår verksamhet, rösta på årsmöten och vi kommer även skicka utskick till dig om våra aktiviteter.
@@ -85,7 +84,12 @@ Vi får bidrag för personer som är upp till 25 år gamla. Självfallet är du 
 Grattis! Du som är medlem kan ta del av våra aktiviteter. Du kommer att få medlemsbrev med information om planerade aktiviteter och andra nyheter. Utöver detta kan du:
 - [Gå med i vår discordserver](https://discord.gg/GDfJKkTaqb)! Här diskuteras tävlingsproblem och möjligheter.
 - Gå på något av våra läger! Information skickas ut i våra medlemsbrev och andra kanaler.
+- Om du gillar UVS får du gärna sätta upp en av våra affischer!
 - Engagera dig! Läs mer nedan.
+<div class="buttonInfo" style="max-width: 250px;" onclick="redirectToLink('../affisch/pdfs/uvs-poster-vit.pdf')">
+    Skriv ut UVS-affisch <i class="fa fa-print"></i>
+</div>
+<script src="/scripts/redirectOnClick.js"></script>
 
 ### Engagera dig
 
