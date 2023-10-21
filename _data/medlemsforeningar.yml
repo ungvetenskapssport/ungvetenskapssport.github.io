@@ -62,9 +62,10 @@
   sampleproblem: /affisch/lingvistik
   info_ebas: https://ebas.ungvetenskapssport.se/forening/lingolympiaden
 
-- name: Kodsport
-  description: TBD
-  form: TBD
+- name: Kodsport Sverige
+  description: Kodsport Sverige är en ideell förening som arbetar inom IT, främst programmering och datasäkerhet. De anordnar läger och träningar för Säkerhets-SM, Programmeringsolympiaden och uttagning till IOI, och mycket mer. <br><br> Läs mer på <a href="https://www.kodsport.se/">www.kodsport.se/</a>
+  form: https://ebas.ungvetenskapssport.se/blimedlem/kodsport # not active yet
   current: false
-  img: TBD
+  img: /imgs/medlemsforeningar/kodsport-web.png
   sampleproblem: /affisch/programmering
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/kodsport # not active yet
