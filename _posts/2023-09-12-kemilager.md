@@ -12,6 +12,12 @@ Välkomna till vårt kemiläger! Den 3:e - 5:e november äger Ung Vetenskapsspor
 Anmälan till kemilägret öppnar den **13 september klockan 16:00** och görs genom att fylla i [detta formulär](https://forms.gle/sD5nN2tBiXwVG2w57). Anmälan stänger den *20 september* 2023 eller när alla platser är fyllda.
 
 Vid frågor kontakta [kemilager@ungvetenskapssport.se](mailto:kemilager@ungvetenskapssport.se).
+*2023 års arrangörsgrupp består av: Yangyi Qi, Maya Hagbok, Markus Nilsson och Thea Ellebech.*
+
+## Schema 2023
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23D50000&ctz=Europe%2FBerlin&mode=AGENDA&showTitle=0&showNav=0&showDate=0&showTabs=1&showPrint=1&showCalendars=0&showTz=0&hl=sv&title=UVS%20Kemiläger%202023&src=Y19mM2FmMWI2ZjVlNzJiNDY2M2JlNjBiYmUzZmVlMzBiMTU4OWQwMGE2NzNkY2U1M2FlYzNhMTY3ZDMyOGIzZjdlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23D50000" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 ## Om lägret
 
