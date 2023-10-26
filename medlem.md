@@ -86,7 +86,7 @@ Grattis! Du som är medlem kan ta del av våra aktiviteter. Du kommer att få me
 - Gå på något av våra läger! Information skickas ut i våra medlemsbrev och andra kanaler.
 - Om du gillar UVS får du gärna sätta upp en av våra affischer!
 - Engagera dig! Läs mer nedan.
-<div class="buttonInfo" style="max-width: 250px;" onclick="redirectToLink('../affisch/pdfs/uvs-poster-vit.pdf')">
+<div class="buttonInfo" style="max-width: 250px;" onclick="redirectToLink('../affisch/pdfs/uvs-poster-vit-pussel.pdf')">
     Skriv ut UVS-affisch <i class="fa fa-print"></i>
 </div>
 <script src="/scripts/redirectOnClick.js"></script>
@@ -95,11 +95,19 @@ Grattis! Du som är medlem kan ta del av våra aktiviteter. Du kommer att få me
 
 Att engagera sig ideellt är bland det roligaste och mest givande man kan göra! Vill du hjälpa dig själv och UVS att utvecklas? Grunda ett nytt läger? Ge fler unga chansen att delta i våra aktiviteter? Engagera dig i Ung Vetenskapssport och/eller någon av våra medlemsföreningar! Maila mer än gärna styrelsen om du är intresserad, eller fyll i [detta formulär](https://forms.gle/ieCyvan5bkeEaa2P6)!
 
+### Förbundet Ung Vetenskapssport -- ett projekt med stöd av MUCF
+Ung Vetenskapssport har beviljats projektbidrag från Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) för att utveckla verksamheten. Detta projekt pågår höst 2023- vår 2024. Projektet syftar till att utveckla förbundet och dess medlemsföreningar till att uppnå kraven för organisationsbidrag för barn och ungdomsorganisationer. Förhoppningen är att förbundet ska kunna söka organisationsbidrag från MUCF redan med 2023 års underlag och behöver för detta bland annat uppnå totalt 1000 medlemmar i medlemsföreningarna - ett mål vi med glädje tar oss an! Att få organisationsbidrag vore ett stort steg i riktningen mot att göra vetenskapssport till ett etablerat koncept i Sverige. Det är även ett steg mot att göra förbundet mer hållbart och långsiktigt när vi växer!
+
+Projektet syftar även till att öka antalet medlemmar i förbundet och dess medlemsföreningar. Projektet finansieras med hjälp av projektbidrag från Myndigheten för Ungdoms- och Civilsamhällesfrågor.
+
+
+
+
+<img src="/imgs/MUCF-webb.png" style="width: 100%; position: relative; left: 0px; max-width: 200px;">
+
 
 ### Andra föreningar
 Om du gillar Ung Vetenskapssport så finns det många fler föreningar du kanske skulle gilla! Dessa och många fler tips finns på [vår resurssida](../resurser/#organisationer-och-f%C3%B6reningar)!
-
-
 
 
 <img src="/imgs/medlemsforeningar/uvs-medlemsforeningar-website.gif" style="width: 100%; position: relative; left: 0px; max-width: 800px;">
