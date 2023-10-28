@@ -8,7 +8,7 @@ date:   2023-10-26
 UVS växer så det knakar 📈 För att göra tillväxten hållbar har det bildats medlemsföreningar per ämne (och vissa existerande har anslutit sig! 🥳) För att fira detta och snart 1000 medlemmar i vår discord, samt för att utmana er medlemmar i något nytt så bjuder vi in er till en liten tävling! 🤩
 
 På <a href="https://ungvetenskapssport.se/medlem/">https://ungvetenskapssport.se/medlem/</a> hittar du exempelproblem till varje medlemsförening 📋 Fyll i formuläret <a href="https://forms.gle/HUWo3VtxbTbzPy799">HÄR</a>. 📝 Lösningar publiceras på hemsidan efter tävlingens slut.
-***Sista tävlingsdag:*** måndag den 15 november *(om formuläret är öppet räknas ditt svar)* 📅
+***Sista tävlingsdag:*** onsdag den 15 november *(om formuläret är öppet räknas ditt svar)* 📅
 
 
 **Priser** 🏆
