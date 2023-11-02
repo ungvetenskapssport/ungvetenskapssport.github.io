@@ -3,11 +3,11 @@ layout: page
 antal_medlemsforeningar: sju
 ---
 
-Ung Vetenskapssport (UVS) är en ideell förening vars syfte är att skapa mötesplatser och träningsmöjligheter för ungdomar intresserade av problemlösning. Detta görs genom träningsläger inom matematik, programmering, fysik, kemi, biologi och lingvistik samt genom andra problemlösningsinriktade event.
+Ung Vetenskapssport (UVS) är en ideell förening vars syfte är att skapa mötesplatser och träningsmöjligheter för ungdomar intresserade av problemlösning.
 
-Bli medlem i förbundets [{{ page.antal_medlemsforeningar }} ämnesspecifika medlemsföreningar](./medlem)! Ung Vetenskapssport har som långsiktigt mål att förbättra svensk skolutbildning genom införandet av mer problemlösning i undervisningen vilket stimulerar både intresset och det logiska tänkandet hos eleverna.
+Ta del av vår verksamhet och stötta oss genom att bli medlem i förbundets [{{ page.antal_medlemsforeningar }} ämnesspecifika medlemsföreningar](./medlem)! Mer om våra evenemang finns [här](/events).
 
-UVS vill ha lokala verksamheter och kan hjälpa dig som har en bra idé relaterad till vetenskapssport; om du är intresserad av att starta en sådan – [kontakta någon i styrelsen](mailto:styrelsen@ungvetenskapssport.se).
+Har du en bra idé, en fundering eller förfrågan – tveka inte att [kontakta styrelsen](mailto:styrelsen@ungvetenskapssport.se).
 
 Välkommen hit!
 
@@ -43,7 +43,16 @@ Hälsningar, <br>
 {% endfor %}
 </ul>
 
-# Kalender
+## Vad är vetenskapssport?
+Vetenskaplig problemlösning liknar på många sätt sport: träning ger färdighet, det är kul att göra i grupp och det kan förekomma tävlingsmoment. Ung Vetenskapssport fokuserar på två delar:
+- Löpande träningsmöjligheter inom vetenskaplig problemlösning
+- Tävlingar och förberedelser inför dessa
+
+Något många inte känner till är att det liksom fotboll finns internationella tävlingar inom vetenskapliga ämnen som varje år drar hundratals deltagare från över hundra olika länder. I vår förening finns många tidigare landslagsmedlemmar och finalister från dessa tävlingar som gärna delar med sig av sina erfarenheter och lärdomar. Vi har även många nybörjare eller personer som inte tävlar alls. Vad vi har gemensamt är vår nyfikenhet och vilja att lära oss mer om vetenskap och att lösa problem.
+
+Ung Vetenskapssport har som långsiktigt mål att förbättra svensk skolutbildning genom införandet av mer problemlösning i undervisningen vilket stimulerar både intresset och det logiska tänkandet.
+
+## Kalender
 I denna kalender lägger vi in evenemang som vi organiserar, vilka dagar kvaltävlingarna i de olika vetenskapsolympiaderna för gymnasiet är och annat som vi tror kan vara av intresse för er. Om du använder Google kalender själv så går det bra att prenumerera på den!
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FStockholm&showTitle=1&mode=MONTH&hl=sv&showNav=1&showDate=1&showPrint=1&showTabs=1&showCalendars=1&showTz=1&src=Y19kYzAxOGRlODliNDFjMjIxNDE3MGM5N2NjM2M0NDU5ZTM5NzNjZTU4YThjYzk5ZjAwNWE2NjA4N2JhNWQxMWM5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

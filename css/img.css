@@ -61,7 +61,8 @@
 {
     padding: 0em 1em 1em 1em;
     background: linear-gradient(#FFFFFF00, #FFFFFFAA, #FFFFFFEE),
-                url('/imgs/header.jpeg');
+                /* url('/imgs/header.jpeg'); */
+                url('/imgs/niklas-specrel-banner.jpg');
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center 33%;

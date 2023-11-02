@@ -10,6 +10,8 @@ THINGS TODO
 ...TO ADD:
 - Dropdown-menu in the header tabs with events
 - Info text on what Vetenskapssport is
+- Images & evaluation of FA-23 & other past events
+- Improve "Events" page!
 
 
 
