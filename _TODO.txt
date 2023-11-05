@@ -5,6 +5,7 @@ THINGS TODO
 - Consolidate _includes/header.html and _includes/header_adjustable_image.html (e.g. by making header.html a special case of header_adjustable_image.html)
 - Make a _layout for camps and other major events (they have custom ones at the moment with minor differences)
 - Move Höjdpunkten, FA-läger and Kemiläger to new _layout-template
+    - 'div-with-bg' has the header fixed (in img.css)
 
 
 ...TO ADD:
