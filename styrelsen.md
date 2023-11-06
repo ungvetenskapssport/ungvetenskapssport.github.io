@@ -4,8 +4,14 @@ id: styrelsen
 title: Ung Vetenskapssports styrelse 2023
 ---
 
-Nedan finner du information om alla våra styrelsemedlemmar. Vill du kontakta komma i kontakt med oss kan du skicka ett mail till <a href="mailto:styrelsen@ungvetenskapssport.se">styrelsen@ungvetenskapssport.se</a>
+Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kontakt med oss kan du skicka ett mail till <a href="mailto:styrelsen@ungvetenskapssport.se">styrelsen@ungvetenskapssport.se</a>
 <br>
+
+<div class="buttonInfo" style="max-width: 250px;" onclick="redirectToLink('../assets/Ung Vetenskapssport - Stadgar.pdf')">
+    Stadgar <i class="fa fa-file-text"></i>
+</div>
+<script src="/scripts/redirectOnClick.js"></script>
+
 
 <div class="row">
     {% for member in site.data.members %} {% if member.current == true %}
@@ -51,3 +57,5 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du kontakta ko
 
     {% endif %}{% endfor %}
 </div>
+
+<!-- TODO: add list of previous board members -->
