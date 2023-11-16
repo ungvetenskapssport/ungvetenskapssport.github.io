@@ -1,6 +1,6 @@
 ---
 layout: page
-antal_medlemsforeningar: sju
+antal_medlemsforeningar: åtta
 ---
 
 Ung Vetenskapssport (UVS) är en ideell förening vars syfte är att skapa mötesplatser och träningsmöjligheter för ungdomar intresserade av problemlösning.
