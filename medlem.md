@@ -40,7 +40,7 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
                 {% endif %}
 
                 <details>
-                    <summary style="display:list-item; font-size:11" >Om {{ member.name }}</summary>
+                    <summary style="display:list-item; font-size:8pt;">Om {{ member.name }}</summary>
                     <p>{{ member.description }}</p>
                 </details>
                 
