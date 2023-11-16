@@ -7,13 +7,20 @@
         <div id="div-with-bg-img" class="jumbotron" style="margin-top: -20px;">
             <div class="image-container" style="padding-bottom: 25%;">
               <img src="{{ page.header-img }}" alt="Image">
-              <div class="text-container" style="left: 50%;text-align: center;top: 2vw;transform: translateX(-50%);height: 6vw; width: 90vw; display: block; color: {{ page.title-color }}">
-                <h1 style="
-    font-size: calc(min( {{ page.title-size }} ));
-">{{ page.title }}</h1>
+              <div class="text-container" style="left: 50%;text-align: center;top: 2vw;transform:
+               translateX(-50%);height: 6vw; width: 90vw;display: block; color: {{ page.title-color }}">
+              
+              {% if page.pagetitle %}
+              <h1 style="font-size: calc(min( {{ page.title-size }} ));">{{ page.pagetitle }}</h1>
+              {% else %}
+              <h1 style="font-size: calc(min( {{ page.title-size }} ));">{{ page.title }}</h1>
+              {% endif %}
+
               </div>
-              <div class="text-container" style="left: 50%;text-align: center;top: calc(min(10.5vw, 120px));transform: translateX(-50%); color: {{ page.subtitle-color }}">
-                <h1 style="font-weight: normal;font-size: calc(min( {{ page.subtitle-size }} ));"><em style="">{{ page.subtitle }}</em></h1>
+              <div class="text-container" style="left: 50%;text-align: center;top:
+                calc(min(7.5vw, 120px));transform: translateX(-50%); color: {{ page.subtitle-color }}">
+                <h1 style="font-weight: normal;font-size: calc(min( {{ page.subtitle-size }} ));"><em style="
+">{{ page.subtitle }}</em></h1>
               </div>
             </div>
         </div>

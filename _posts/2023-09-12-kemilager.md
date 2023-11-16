@@ -1,9 +1,19 @@
 ---
-layout: kemi_layout
-title: Kemiläger 2023
+# META
+layout: special_event_layout
 id: kemilager
-permalink: /kemilager/
+header-img: /imgs/kemilager/kemilager_header.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
+permalink: /kemilager/                           # link to be used to access page
+# CONTENT
+title: Kemiläger 2023    # for news etc
+pagetitle: Kemiläger
+title-size: 4.8vw,65px
+title-color: '#e6e6e6'
+subtitle: Chalmers, Göteborg 2023
+subtitle-size: 2.2vw, 26px
+subtitle-color: '#e6e6e6'
 ---
+
 
 ## Anmälan 2023
 

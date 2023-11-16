@@ -1,8 +1,17 @@
 ---
-layout: prog_layout
-title: Programmeringsläger för tjejer och ickebinära
+# META
+layout: special_event_layout
 id: proglager
+header-img: /imgs/proglager/proglager_header.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 permalink: /proglager/
+# CONTENT
+title: Programmeringsläger för tjejer och ickebinära    # used in news etc
+pagetitle: Programmeringsläger          # optional, used on page if different from title (default is page.title)
+title-size: 4.8vw,65px                  # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
+title-color: antiquewhite               # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
+subtitle: för tjejer och ickebinära
+subtitle-size: 2.2vw, 26px              # Adjust to make text wrapping ok. Run through min(), e.g.: min(2.2vw, 26px)
+subtitle-color: antiquewhite            # color of subtitle
 ---
 
 
