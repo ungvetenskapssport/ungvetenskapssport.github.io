@@ -16,7 +16,7 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
 <div class="row">
     {% for member in site.data.members %} {% if member.current == true %}
 
-    <div class="col-xs-5 col-sm-4 col-md-3 col-lg-3">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
         <div class="thumbnail">
             {% if member.img %}
             <img class="contact-image" src="{{ member.img }}" alt="{{ member.name }}">
