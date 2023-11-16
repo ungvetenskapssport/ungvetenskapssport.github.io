@@ -3,9 +3,8 @@ THINGS TODO
 
 ...TO STRUCTURE WEBSITE BETTER:
 - Consolidate _includes/header.html and _includes/header_adjustable_image.html (e.g. by making header.html a special case of header_adjustable_image.html)
-- Make a _layout for camps and other major events (they have custom ones at the moment with minor differences)
-- Move Höjdpunkten, FA-läger and Kemiläger to new _layout-template
-    - 'div-with-bg' has the header fixed (in img.css)
+- Make events-page nicer, e.g. with grid elements as other pages!
+    - Also some "standard events" having their own pages?
 
 
 ...TO ADD:
@@ -13,6 +12,8 @@ THINGS TODO
 - Info text on what Vetenskapssport is
 - Images & evaluation of FA-23 & other past events
 - Improve "Events" page!
+- Resurser: fixa mallar osv för engagerade
 
+- Arkiv med tidigare styrelsemedlemmar... bara ta nuvarande sidan 
 
 
