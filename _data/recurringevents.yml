@@ -1,0 +1,29 @@
+- name: Höjdpunkten
+  current: true
+  url: /hojdpunkten/
+  img: /imgs/hojdpunkten/icon-img-hojdpunkten.png
+
+- name: Fysik- och astronomiläger
+  current: true
+  url: /fa-lager/
+  img: /imgs/fa-lager/icon-img-fa.png
+
+- name: Programmeringsläger för tjejer och ickebinära
+  current: true
+  url: /proglager/
+  img: /imgs/proglager/icon-img-proglager.png
+
+- name: Kemiläger
+  current: true
+  url: /kemilager/
+  img: /imgs/kemilager/icon-img-kemilager.png
+
+#   - name: Matematikläger
+#   current: false
+#   url: /mattelager/
+#   img:
+
+# - name: Lingvistikläger
+#   current: false
+#   url: /lingvistiklager/
+#   img:

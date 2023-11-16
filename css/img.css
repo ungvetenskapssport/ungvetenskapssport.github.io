@@ -10,10 +10,14 @@
 
 .thumbnail {
   word-break: break-word;
+  transition: box-shadow 300ms;
   /* box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
   padding: auto;
   margin-bottom: 10px; */
   /* background-color: #999; */
+}
+.thumbnail:hover {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 
