@@ -1,7 +1,15 @@
 ---
-layout: hojdpunkten_layout
-title: Höjdpunkten
+layout: special_event_layout
 id: hojdpunkten
+header-img: /imgs/hojdpunkten_header.png
+permalink: /hojdpunkten/
+# content
+title: Höjdpunkten
+title-size: 7vw,60px
+title-color: black
+subtitle: En lagtävling i matematisk problemlösning för  högstadiet, gymnasiet och övriga!
+subtitle-size: 2.6vw, 27px
+subtitle-color: black
 ---
 
 # Tidigare upplagor av Höjdpunkten
