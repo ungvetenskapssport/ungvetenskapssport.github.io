@@ -4,8 +4,7 @@ title: Evenemang
 id: events
 ---
 
-# Kommande evenemang
-
+## Kommande evenemang
 <ul>
 {% for event in site.data.events %} {% if event.upcoming == true %}
 <li>
@@ -21,8 +20,11 @@ id: events
 {% endif %}{% endfor %}
 </ul>
 
-# Tidigare Evenemang
 
+
+
+
+## Tidigare Evenemang
 <ul>
 {% for event in site.data.events %} {% if event.upcoming != true %}
 <li>
