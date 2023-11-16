@@ -5,9 +5,10 @@ id: medlem
 
 ---
 
-Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medlemsförening blir du automatiskt också medlem i förbundet Ung Vetenskapssport! Läs nedan om de ämnen som intresserar dig och välj alla du vill bli medlem i genom att fylla i respektive formulär. ***Det är helt gratis!***
+Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medlemsförening blir du automatiskt också medlem i förbundet Ung Vetenskapssport! ***Att bli medlem är helt gratis!***
 
 <br>
+
 
 <div class="row">
     {% for member in site.data.medlemsforeningar %} {% if member.current == true %}
@@ -17,7 +18,7 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
             {% if member.img %}
             <img class="contact-image-no-border" src="{{ member.img }}" alt="{{ member.name }}" style="padding: 5px;">
             {% endif %}
-            <div class="caption">
+            <div class="caption" style="margin-bottom: -15px">
                 {% if member.form %}
                 <script src="../scripts/redirectOnClick.js"></script>
                 <div class="buttonMedlem" onclick="redirectToLink('{{ member.form }}')">
@@ -39,7 +40,7 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
                 {% endif %}
 
                 <details>
-                    <summary style="display:list-item">Om {{ member.name }}</summary>
+                    <summary style="display:list-item; font-size:11" >Om {{ member.name }}</summary>
                     <p>{{ member.description }}</p>
                 </details>
                 
