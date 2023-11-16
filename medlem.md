@@ -16,11 +16,11 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
         <div class="thumbnail" style="padding: 0px;">
             {% if member.img %}
-            <img class="contact-image-no-border" src="{{ member.img }}" alt="{{ member.name }}" style="padding: 5px;">
+            <img class="contact-image-no-border" src="{{ member.img }}" alt="{{ member.name }}" style="padding: 5px;" onclick="redirectToLink('{{ member.form }}')">
             {% endif %}
             <div class="caption" style="margin-bottom: -15px">
                 {% if member.form %}
-                <script src="../scripts/redirectOnClick.js"></script>
+                <script src="/scripts/redirectOnClick.js"></script>
                 <div class="buttonMedlem" onclick="redirectToLink('{{ member.form }}')">
                 Bli medlem <i class="fa fa-sign-in"></i>
                 </div>
@@ -57,6 +57,7 @@ Ung Vetenskapssport är ett förbund av medlemsföreningar. Som medlem i en medl
                 </h3>
             </div>
         </div>
+        <script src="/scripts/redirectOnClick.js"></script>
     </div>
     {% assign mod4 = forloop.index | modulo:4 %}
     {% assign mod3 = forloop.index | modulo:3 %}
