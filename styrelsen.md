@@ -24,11 +24,12 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
     var clickCount = 0;
     var tripleClickThreshold = 3;
     var active = false;
+    var notDelayed = true;
 
     function handleTripleClick(event, link) {
         clickCount++;
 
-        if (active) {
+        if (active && notDelayed) {
             // Execute your redirection logic or any other action
             window.location.href = link;
             
@@ -40,13 +41,21 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
             // Change background color to gray after 3 clicks & activate redirection if one more click is made
             document.body.style.backgroundColor = 'gray';
             active = true;
+            notDelayed = false; // requires a short pause before allowing another click
+
+            // set a 0.5 s delay before allowing another click
+            setTimeout(function () {
+                notDelayed = true;  // then allow it again
+            }, 500);
+
 
             // Reset background color & deactivate after a delay (e.g., 3 seconds)
             setTimeout(function () {
                 document.body.style.backgroundColor = '';
                 clickCount = 0; // and reset the click count
                 active = false;
-            }, 5000);
+            }, 3000);
+
         }
 
         // Reset click count if the time between clicks is too long (e.g., 2 second)
@@ -63,7 +72,7 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
     {% for member in site.data.members %} {% if member.current == true %}
 
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-        <div class="thumbnail" {% if member.name == "Benjamin Verbeek" %} onclick="handleTripleClick(event, '../engagerade')" {% endif %} > <!-- EASTER EGG -->
+        <div class="thumbnail" {% if member.name == "Benjamin Verbeek" %} onclick="handleTripleClick(event, '../engagerade')" {% endif %} >
         <!-- <div class="thumbnail"> -->
             {% if member.img %}
             <img class="contact-image" src="{{ member.img }}" alt="{{ member.name }}">
