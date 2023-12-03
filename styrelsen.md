@@ -12,12 +12,59 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
 </div>
 <script src="/scripts/redirectOnClick.js"></script>
 
+<!-- SECRET EASTER-EGG -->
+<!-- Benjamin's shenanigans... shhh -->
+<style>
+    body {
+        transition: background-color 0.5s ease-in-out;
+    }
+</style>
 
+<script>
+    var clickCount = 0;
+    var tripleClickThreshold = 3;
+    var active = false;
+
+    function handleTripleClick(event, link) {
+        clickCount++;
+
+        if (active) {
+            // Execute your redirection logic or any other action
+            window.location.href = link;
+            
+            // Reset click count for future clicks
+            clickCount = 0;
+        }
+
+        if (clickCount === tripleClickThreshold) {
+            // Change background color to gray after 3 clicks & activate redirection if one more click is made
+            document.body.style.backgroundColor = 'gray';
+            active = true;
+
+            // Reset background color & deactivate after a delay (e.g., 3 seconds)
+            setTimeout(function () {
+                document.body.style.backgroundColor = '';
+                clickCount = 0; // and reset the click count
+                active = false;
+            }, 5000);
+        }
+
+        // Reset click count if the time between clicks is too long (e.g., 2 second)
+        setTimeout(function () {
+            clickCount = 0;
+        }, 2000);
+    }
+</script>
+<!-- END OF EASTER EGG -->
+
+
+<!-- This generates the boxes -->
 <div class="row">
     {% for member in site.data.members %} {% if member.current == true %}
 
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-        <div class="thumbnail">
+        <div class="thumbnail" {% if member.name == "Benjamin Verbeek" %} onclick="handleTripleClick(event, '../engagerade')" {% endif %} > <!-- EASTER EGG -->
+        <!-- <div class="thumbnail"> -->
             {% if member.img %}
             <img class="contact-image" src="{{ member.img }}" alt="{{ member.name }}">
             {% endif %}
