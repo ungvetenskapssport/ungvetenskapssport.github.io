@@ -35,7 +35,7 @@ Ung Vetenskapssport är ett levande förbund med många olika evenemang, och vi 
             <!-- <a href="{{ event.url }}"><img class="contact-image" src="{{ event.img }}" alt="{{ event.name }}"></a> -->
             <img class="contact-image" style="border:0px" src="{{ event.img }}" alt="{{ event.name }}">
             {% else %} 
-            <img class="contact-image" style="border:0px" src="/imgs/default-eventicon.png" alt="{{ event.name }}">
+            <img class="contact-image" style="border:0px" src="/imgs/other-eventicons/default-eventicon.png" alt="{{ event.name }}">
             {% endif %}
 
 

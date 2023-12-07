@@ -17,11 +17,26 @@
   current: true
   url: /kemilager/
   img: /imgs/kemilager/icon-img-kemilager.png
+  
+- name: Matematikläger
+  current: true
+  url: /mattelager/
+  img: /imgs/other-eventicons/icon-img-matematiklager.png
 
-#   - name: Matematikläger
-#   current: false
-#   url: /mattelager/
-#   img:
+- name: Programmeringsolympiaden
+  current: true
+  url: https://progolymp.se/
+  img: /imgs/other-eventicons/icon-img-PO.png
+
+- name: Säkerhets-SM
+  current: true
+  url: https://sakerhetssm.se/
+  img: /imgs/other-eventicons/icon-img-SSM.png
+  
+- name: Söndagsträffar (discord)
+  current: true
+  url: https://discord.gg/GDfJKkTaqb/
+  img: /imgs/other-eventicons/icon-img-sondagstraffar.png
 
 # - name: Lingvistikläger
 #   current: false
