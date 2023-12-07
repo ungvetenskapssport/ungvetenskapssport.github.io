@@ -13,7 +13,9 @@ THINGS TODO
 - Images & evaluation of FA-23 & other past events
 - Improve "Events" page!
 - Resurser: fixa mallar osv för engagerade
+- hemliga effekter vid klick, snyggare visuellt med css...
+- Downsampla styrelsebilderna (laddar snabbare då)
+- Formattera stadgarna snyggare
+- snyggare sidor för varje återkommande event (även med artiklar, utvärderingsresultat, tidigare arrangörer, sverigekarta, stats, ...)
 
-- Arkiv med tidigare styrelsemedlemmar... bara ta nuvarande sidan 
-
-
+- Arkiv med tidigare styrelsemedlemmar... bara ta nuvarande sidan och lägg till en till för varje år
