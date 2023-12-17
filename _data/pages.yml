@@ -14,9 +14,13 @@
   url: "/resurser"
   id: "resurser"
 
-- name: Mattebattle
-  url: "/mattebattle"
-  id: "mattebattle"
+- name: Stöd oss
+  url: "/stod-oss"
+  id: "stod-oss"
+
+# - name: Mattebattle
+#   url: "/mattebattle"
+#   id: "mattebattle"
 
 # - name: Höjdpunkten
 #   url: "/hojdpunkten"
