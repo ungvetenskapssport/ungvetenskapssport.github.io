@@ -1,0 +1,31 @@
+- name: Jane Street
+  img: /imgs/sponsors/janestreet.png
+  url: https://www.janestreet.com/
+
+- name: Beijerstiftelsen
+  img: /imgs/sponsors/beijerstiftelsen.png
+  url: https://www.beijerstiftelsen.se/
+
+- name: Svenska fysikersamfundet
+  img: /imgs/sponsors/sfs.png
+  url: https://www.fysikersamfundet.se/
+
+- name: Tage Swahns Stiftelse
+  img: /imgs/sponsors/tage-swahn.png
+  url: 
+
+- name: European Space Agency
+  img: /imgs/sponsors/ESA.png
+  url: https://www.esa.int/ESA
+
+- name: Uppsala universitet
+  img: /imgs/sponsors/uu.png
+  url: https://www.uu.se/
+
+- name: Göteborgs universitet
+  img: /imgs/sponsors/gu.png
+  url: https://www.gu.se/
+
+- name: Chalmers tekniska högskola
+  img: /imgs/sponsors/chalmers.png
+  url: https://www.chalmers.se/

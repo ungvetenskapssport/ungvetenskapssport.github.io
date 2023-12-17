@@ -300,6 +300,9 @@ Chalmers Coding Club är en ideell förening på Chalmers. Verksamheten går huv
 Code@LTH är en studentförening i Lund som uppmuntrar till kodglädje och hobbyprogrammering. Föreningen anordnar en blandning av olika event: föreläsningar, programmeringstävlingar, workshops med mera. Länk till discordserver finns [här](https://discord.gg/DzFM9GpJfJ)
 
 ---
+## [Regler mattebattle](/mattebattle/) {#regler-mattebattle}
+
+---
 
 ## Andra resurser
 **Hemsidor att öva matematik på:**
@@ -310,3 +313,4 @@ Code@LTH är en studentförening i Lund som uppmuntrar till kodglädje och hobby
 
 **Hemsidor för CTF (datasäkerhet):**
 [ctftime.org](https://ctftime.org/), [picoctf.org](https://picoctf.org/)
+
