@@ -10,7 +10,7 @@ title-size: 4.8vw,65px       # Adjust to make text wrapping ok. Run through min(
 title-color: antiquewhite    # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color 
 subtitle: Ett nationellt helgläger i matematik och problemlösning för intresserade gymnasieungdomar!
 subtitle-size: 2.2vw, 26px   # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
-subtitle-color: antiquewhite # color of subtitle
+subtitle-color: antiquewhite # color of subtitle. '#000000' is black, '#ffffff' is white (hex also work)
 ---
 ## Om lägret
 
@@ -24,7 +24,7 @@ Deltagarna kommer att delas in i flera nivåanpassade grupper, så att alla elev
 
 ## Anmälan och intresseanmälan
 
-Anmälan öppnar 6 januari 3:14 p.m. och stänger 12 januari 23:59. Dock så är det är först till kvarn som gäller. Vi förväntar oss ungefär 70 deltagare på varje läger. Länken till anmälan kommer att publiceras här när anmälan har släppts. Om du vill bli påmind när anmälan släpps så kan du fylla i denna [intresseanmälan](https://docs.google.com/forms/d/1rRn2aIIXWAUZgMlHmrKtEuNa6Q6MB-30khdmNFPGAvY/edit)!\\
+Anmälan öppnar 6 januari kl 11:23 och stänger 12 januari 23:59. Dock så är det är först till kvarn som gäller. Vi förväntar oss ungefär 70 deltagare på varje läger. Länken till anmälan kommer att publiceras här när anmälan har släppts. Om du vill bli påmind när anmälan släpps så kan du fylla i denna [intresseanmälan](https://docs.google.com/forms/d/1rRn2aIIXWAUZgMlHmrKtEuNa6Q6MB-30khdmNFPGAvY/edit)!\\
 OBS: Vi vill att så många som möjligt får ta del av möjligheten, därför får varje deltagare åka på max ett läger! 
 
 Här finns lägrets [inbjudan](/assets/event_invites/20231217_inbjudan_mattelager.pdf)!\\
