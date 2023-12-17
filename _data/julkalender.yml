@@ -1,0 +1,143 @@
+- date: 12
+  id: "julkalender_2023_12"
+  url: "/julkalender/2023/12"
+  available: false
+  forening: "/Kodsport"
+
+- date: 4
+  id: "julkalender_2023_04"
+  url: "/julkalender/2023/04"
+  available: true
+  forening: "/Kodsport"
+
+- date: 19
+  id: "julkalender_2023_19"
+  url: "/julkalender/2023/19"
+  available: false
+  forening: "/UVS-astronomer"
+
+- date: 3
+  id: "julkalender_2023_03"
+  url: "/julkalender/2023/03"
+  available: true
+  forening: "/UVS-astronomer"
+
+- date: 9
+  id: "julkalender_2023_09"
+  url: "/julkalender/2023/09"
+  available: false
+  forening: "/UVS-matematiker"
+
+- date: 17
+  id: "julkalender_2023_17"
+  url: "/julkalender/2023/17"
+  available: false
+  forening: "/UVS-matematiker"
+
+- date: 24
+  id: "julkalender_2023_24"
+  url: "/julkalender/2023/24"
+  available: false
+  forening: "/UVS-ingenjorer"
+
+- date: 8
+  id: "julkalender_2023_08"
+  url: "/julkalender/2023/08"
+  available: false
+  forening: "/UVS-ingenjorer"
+
+- date: 14
+  id: "julkalender_2023_14"
+  url: "/julkalender/2023/14"
+  available: false
+  forening: "/Lingolympiaden"
+
+- date: 22
+  id: "julkalender_2023_22"
+  url: "/julkalender/2023/22"
+  available: false
+  forening: "/Lingolympiaden"
+
+- date: 7
+  id: "julkalender_2023_07"
+  url: "/julkalender/2023/07"
+  available: false
+  forening: "/UVS-kemister"
+
+- date: 23
+  id: "julkalender_2023_23"
+  url: "/julkalender/2023/23"
+  available: false
+  forening: "/UVS-kemister"
+
+- date: 5
+  id: "julkalender_2023_05"
+  url: "/julkalender/2023/05"
+  available: false
+  forening: "/UVS-fysiker"
+
+- date: 13
+  id: "julkalender_2023_13"
+  url: "/julkalender/2023/13"
+  available: false
+  forening: "/UVS-fysiker"
+
+- date: 20
+  id: "julkalender_2023_20"
+  url: "/julkalender/2023/20"
+  available: false
+  forening: "/Kodsport"
+
+- date: 2
+  id: "julkalender_2023_02"
+  url: "/julkalender/2023/02"
+  available: true
+  forening: "/UVS-biologer"
+
+- date: 18
+  id: "julkalender_2023_18"
+  url: "/julkalender/2023/18"
+  available: false
+  forening: "/UVS-biologer"
+
+- date: 10
+  id: "julkalender_2023_10"
+  url: "/julkalender/2023/10"
+  available: false
+  forening: "/UVS-biologer"
+
+- date: 21
+  id: "julkalender_2023_21"
+  url: "/julkalender/2023/21"
+  available: false
+  forening: "/UVS-fysiker"
+
+- date: 15
+  id: "julkalender_2023_15"
+  url: "/julkalender/2023/15"
+  available: false
+  forening: "/UVS-kemister"
+
+- date: 16
+  id: "julkalender_2023_16"
+  url: "/julkalender/2023/16"
+  available: false
+  forening: "/UVS-ingenjorer"
+
+- date: 1
+  id: "julkalender_2023_01"
+  url: "/julkalender/2023/01"
+  available: true
+  forening: "/UVS-matematiker"
+
+- date: 11
+  id: "julkalender_2023_11"
+  url: "/julkalender/2023/11"
+  available: false
+  forening: "/UVS-astronomer"
+
+- date: 6
+  id: "julkalender_2023_06"
+  url: "/julkalender/2023/06"
+  available: false
+  forening: "/Lingolympiaden"

@@ -15,8 +15,12 @@
   id: "resurser"
 
 - name: Mattebattle
-  url: "/mattebattle"
+  url: "/mattebattle/mattebattle_kort"
   id: "mattebattle"
+
+# - name: Julkalender
+#   url: "/julkalender"
+#   id: "julkalender"
 
 # - name: Höjdpunkten
 #   url: "/hojdpunkten"
