@@ -24,7 +24,7 @@ Deltagarna kommer att delas in i flera nivåanpassade grupper, så att alla elev
 
 ## Anmälan och intresseanmälan
 
-Anmälan öppnar 6 januari 3:14 p.m. och stänger 12 januari 23:59. Dock så är det är först till kvarn som gäller. Vi förväntar oss ungefär 70 deltagare på varje läger. Länken till anmälan kommer att publiceras här när anmälan har släppts. Om du vill bli påmind när anmälan släpps så kan du fylla i denna [intresseanmälan](https://docs.google.com/forms/d/1rRn2aIIXWAUZgMlHmrKtEuNa6Q6MB-30khdmNFPGAvY/edit)!\\
+Anmälan öppnar 6 januari kl 11:23 och stänger 13 januari kl 03:14. Dock så är det är först till kvarn som gäller. Vi förväntar oss ungefär 70 deltagare på varje läger. Länken till anmälan kommer att publiceras här när anmälan har släppts. Om du vill bli påmind när anmälan släpps så kan du fylla i denna [intresseanmälan](https://forms.gle/y3tLBKE2KARtKPRV6)!\\
 OBS: Vi vill att så många som möjligt får ta del av möjligheten, därför får varje deltagare åka på max ett läger! 
 
 Här finns lägrets [inbjudan](/assets/event_invites/20231217_inbjudan_mattelager.pdf)!\\
