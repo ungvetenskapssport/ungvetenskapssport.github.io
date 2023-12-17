@@ -1,10 +1,18 @@
-- name: "Matematikläger 2024"
+- name: "Matematikläger Lund 2024"
   upcoming: true
-  inbjudan: 
-  startdate: TBD
-  enddate: TBD
-  location: TBD, potentiellt två upplagor. Mer info inom kort.
-  no_participants:
+  inbjudan: ../mattelager/
+  startdate: 2024-02-22
+  enddate: 2024-02-25
+  location: Lund
+  no_participants: 70
+
+- name: "Matematikläger Stockholm 2024"
+  upcoming: true
+  inbjudan: ../mattelager/
+  startdate: 2024-04-18
+  enddate: 2024-04-21
+  location: Stockholm
+  no_participants: 70
 
 - name: "Kemiläger 2023"
   upcoming: false

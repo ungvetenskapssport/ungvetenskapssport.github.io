@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Mattebattle - regler (kortversion)
+title: Mattebattle - kortversion
 ---
+
+*Det finns en långversion av reglerna (om du undrar om någon detalj eller är en riktig matteperson och vill ha vattentäta regler och rigorösa beskrivningar av allt) [här](/mattebattle/mattebattle_lang).*
 
 **Vad är en mattebattle?**\\
 En mattebattle är en problemlösningstävling mellan två lag. Man får ett antal problem som vart och ett är värt upp till 12 poäng, och vinner gör man om man i slutet har minst 4 poäng mer än det andra laget. Annars blir det oavgjort.

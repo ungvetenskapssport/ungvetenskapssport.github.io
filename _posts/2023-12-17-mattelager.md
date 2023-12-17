@@ -8,7 +8,7 @@ permalink: /mattelager/    # link to be used to access page
 title: UVS Matematikläger    # used on image
 title-size: 4.8vw,65px       # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
 title-color: antiquewhite    # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color 
-subtitle: Ett nationellt helgläger i problemlösning för intresserade gymnasieungdomar!
+subtitle: Ett nationellt helgläger i matematik och problemlösning för intresserade gymnasieungdomar!
 subtitle-size: 2.2vw, 26px   # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
 subtitle-color: antiquewhite # color of subtitle
 ---
@@ -41,7 +41,7 @@ Deltagaravgiften för årets matematikläger har inte fastställts än, men tidi
 **Lund**: 2024-02-22 – 2024-02-25\\
 **Stockholm**: 2024-04-18 – 2024-04-21 
 
-I schemat nedan ser ni den ungefärliga strukturen på lägret. Det varar från torsdagen till söndagen, med föreläsningar och kvällsaktiviteter samt en liten tävling (i formen av UVS [mattebattle](../mattebattle/mattebattle_lang)) på slutet. Schemat nedan är preliminärt och kan komma att ändras.
+I schemat nedan ser ni den ungefärliga strukturen på lägret. Det varar från torsdagen till söndagen, med föreläsningar och kvällsaktiviteter samt en liten tävling (i formen av en UVS [mattebattle](../mattebattle/mattebattle_kort)) på slutet. Schemat nedan är preliminärt och kan komma att ändras.
 
 *Tips: Lägg i detta i din egen kalender genom att trycka på plustecknet!*
 
