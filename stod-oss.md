@@ -49,7 +49,7 @@ their image in a grid with name as alttext and link to their page onklick. Shado
 ### Ge en gåva som privatperson eller företag
 Vill du stötta vår verksamhet med en allmän gåva? Nästan alla medel vi får är bundna till någon specifik budgetpost. En allmän gåva ger oss friheten att göra vad vi anser är bäst för Ung Vetenskapssport just nu! Det går bra att sätta in valfritt belopp på vårt bankgiro. Donationer är i regel anonyma, men vi publicerar donerat belopp nedan. Om du vill att vi publicerar ditt namn eller företagsnamn i listan nedan tillsammans med donerat belopp, [mejla förbundets kassör](mailto:kassor@ungvetenskapssport.se?subject=Gåva). Detsamma gäller om du önskar en faktura eller ett tackbrev för din gåva, eller har någon annan förfrågan rörande din gåva. Tusen tack för ditt stöd!
 
-**Bankgiro: XXXX-XXXX** 
+**Bankgiro: 392-5492** 
 <!-- TODO! Add method to donate. Cross-read section. -->
 
 
