@@ -6,7 +6,7 @@ id: stod-oss
 Det enklaste sättet att stötta oss är att bli medlem, [ge en gåva](./#ge-en-gava) eller inleda ett samarbete.
 
 ### Bli medlem
-Ett enkelt sätt att stötta Ung Vetenskapssport är att bli medlem. Våra föreningar får bidrag från MUCF per medlem 6-25 år. Det är helt gratis att bli medlem och tar bara någon minut. [Bli medlem här!](/bli-medlem)
+Ett enkelt sätt att stötta Ung Vetenskapssport är att bli medlem. Våra föreningar får bidrag från MUCF per medlem 6-25 år. Det är helt gratis att bli medlem och tar bara någon minut. [Bli medlem här!](/medlem)
 
 ### Engagera dig
 Våra engagerade får ingen ekonomisk ersättning för sitt arbete (däremot är det otroligt lärorikt och kul!) Vi har alltid plats för fler engagerade, så om du vill hjälpa till med något, hör av dig till oss! [Kontakta oss här](mailto:styrelsen@ungvetenskapssport.se?subject=Engagemang) eller fyll i [detta formulär](https://forms.gle/ieCyvan5bkeEaa2P6)!
