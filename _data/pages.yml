@@ -2,10 +2,6 @@
   url: "/medlem"
   id: "medlem"
 
-- name: Styrelsen
-  url: "/styrelsen"
-  id: "styrelsen"
-
 - name: Evenemang
   url: "/events"
   id: "events"
@@ -14,9 +10,17 @@
   url: "/resurser"
   id: "resurser"
 
-- name: Mattebattle
-  url: "/mattebattle/mattebattle_kort"
-  id: "mattebattle"
+- name: Stöd oss
+  url: "/stod-oss"
+  id: "stod-oss"
+  
+- name: Styrelsen
+  url: "/styrelsen"
+  id: "styrelsen"
+
+# - name: Mattebattle
+#   url: "/mattebattle"
+#   id: "mattebattle"
 
 # - name: Julkalender
 #   url: "/julkalender"
