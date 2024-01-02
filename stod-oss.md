@@ -3,7 +3,7 @@ layout: page
 title: Stöd oss
 id: stod-oss
 ---
- Det finns flera sätt att stödja oss på.
+ Det enklaste sättet att stötta oss är att bli medlem, ge en gåva eller inleda ett samarbete.
 
 ### Bli medlem
 Ett enkelt sätt att stötta Ung Vetenskapssport är att bli medlem. Våra föreningar får bidrag från MUCF per medlem 6-25 år. Det är helt gratis att bli medlem och tar bara någon minut. [Bli medlem här!](/bli-medlem)
@@ -50,11 +50,16 @@ their image in a grid with name as alttext and link to their page onklick. Shado
 Vill du stötta vår verksamhet med en allmän gåva? Nästan alla medel vi får är bundna till någon specifik budgetpost. En allmän gåva ger oss friheten att göra vad vi anser är bäst för Ung Vetenskapssport just nu! Det går bra att sätta in valfritt belopp på vårt bankgiro. Donationer är i regel anonyma, men vi publicerar donerat belopp nedan. Om du vill att vi publicerar ditt namn eller företagsnamn i listan nedan tillsammans med donerat belopp, [mejla förbundets kassör](mailto:kassor@ungvetenskapssport.se?subject=Gåva). Detsamma gäller om du önskar en faktura eller ett tackbrev för din gåva, eller har någon annan förfrågan rörande din gåva. Tusen tack för ditt stöd!
 
 **Bankgiro: 392-5492** 
-<!-- TODO! Add method to donate. Cross-read section. -->
 
+<!-- Sum all donation.amount and display it -->
+{% assign total = 0 %}
+{% for amount in site.data.donations %}
+  {% assign integerAmount = amount.amount | plus: 0 %}
+  {% assign total = total | plus: integerAmount %}
+{% endfor %}
+**Totalt:**  {{ total }} kr
 
-**Totalt:** 0 kr
 
 {% for donation in site.data.donations %}
-- {{ donation.date }}: {% if donation.name %}{{ donation.name }}{% else %}En anonym hjälte{% endif %} skänkte {{ donation.amount }} kr. {% if donation.message %} *"{{ donation.message }}"* {% endif %}
+- {{ donation.date }}: {% if donation.name %}{{ donation.name }}{% else %}Någon{% endif %} skänkte {{ donation.amount }} kr. {% if donation.message %} *"{{ donation.message }}"* {% endif %}
 {% endfor %}
