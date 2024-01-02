@@ -116,10 +116,17 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
 
 
 ## Tidigare styrelser
+<!-- Ändra 2023 nedan i framtiden. -->
+{% for year in (2015..2023) reversed %}
+<details>
+  <summary style="font-size: larger;">{{ year }}</summary>
+  <ul>
+    {% for member in site.data.members %}
+      {% if member.year == year %}
+        <li><b>{{ member.name }}</b> - {{ member.role }}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</details>
+{% endfor %}
 
-### 2023
-<!-- TODO: add list of previous board members -->
-{% for member in site.data.members %} {% if member.year == 2023 %}
-<!-- Just write the members' names in a list together with their titles -->
-<b>{{ member.name }}</b> - {{ member.role }}
-{% endif %} {% endfor %}

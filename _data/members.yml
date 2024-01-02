@@ -1,62 +1,6 @@
-# Members
+# Members of the board
 
-- name: Julia Mårtensson
-  role: Ordförande
-  mail: julia.martensson@ungvetenskapssport.se
-  current: false
-  img: /imgs/styrelsen/julia_square.jpg
-  year: 2023
-
-- name: Erik Bryland
-  role: Kassör
-  mail: erik.bryland@ungvetenskapssport.se
-  current: false
-  img: /imgs/styrelsen/erik_square.jpg
-  year: 2023
-
-- name: Benjamin Verbeek
-  role: Vice Ordförande
-  mail: benjamin.verbeek@ungvetenskapssport.se
-  current: false
-  img: /imgs/styrelsen/benjamin_square.jpg
-  year: 2023
-
-- name: Hugo Eberhard
-  role: Ledamot
-  mail: hugo.eberhard@ungvetenskapssport.se
-  current: false
-  img: /imgs/styrelsen/hugo_square.jpg
-  year: 2023
-
-- name: Kevin Haagensen Strömberg
-  mail: kevin.hs@ungvetenskapssport.se
-  role: Ledamot
-  current: false
-  img: /imgs/styrelsen/kevin_square.jpg
-  year: 2023
-
-- name: Jiachen Mi
-  role: Ledamot
-  mail: jiachen.mi@ungvetenskapssport.se
-  current: false
-  img: /imgs/styrelsen/milly_square.jpg
-  year: 2023
-
-- name: Sebastian Westerlund
-  role: Ledamot
-  mail: sebastian.westerlund@ungvetenskapssport.se
-  current: false
-  img: /imgs/styrelsen/sebastian_square.jpg
-  year: 2023
-
-- name: Ruth Risberg
-  role: Ledamot
-  mail: ruth.risberg@ungvetenskapssport.se
-  current: false
-  img: /imgs/styrelsen/ruth_square.jpg
-  year: 2023
-
-# # # # # # # # # # # # # # # 
+# # # # # 2024 # # # # # # #
 
 - name: Julia Mårtensson
   role: Ordförande
@@ -135,3 +79,310 @@
   current: true
   img: /imgs/other-eventicons/default-personicon.png
   year: 2024
+
+
+# # # # # 2023 # # # # # # #
+
+
+- name: Julia Mårtensson
+  role: Ordförande
+  mail: julia.martensson@ungvetenskapssport.se
+  current: false
+  img: /imgs/styrelsen/julia_square.jpg
+  year: 2023
+
+- name: Erik Bryland
+  role: Kassör
+  mail: erik.bryland@ungvetenskapssport.se
+  current: false
+  img: /imgs/styrelsen/erik_square.jpg
+  year: 2023
+
+- name: Benjamin Verbeek
+  role: Vice Ordförande
+  mail: benjamin.verbeek@ungvetenskapssport.se
+  current: false
+  img: /imgs/styrelsen/benjamin_square.jpg
+  year: 2023
+
+- name: Hugo Eberhard
+  role: Ledamot
+  mail: hugo.eberhard@ungvetenskapssport.se
+  current: false
+  img: /imgs/styrelsen/hugo_square.jpg
+  year: 2023
+
+- name: Kevin Haagensen Strömberg
+  mail: kevin.hs@ungvetenskapssport.se
+  role: Ledamot
+  current: false
+  img: /imgs/styrelsen/kevin_square.jpg
+  year: 2023
+
+- name: Jiachen Mi
+  role: Ledamot
+  mail: jiachen.mi@ungvetenskapssport.se
+  current: false
+  img: /imgs/styrelsen/milly_square.jpg
+  year: 2023
+
+- name: Sebastian Westerlund
+  role: Ledamot
+  mail: sebastian.westerlund@ungvetenskapssport.se
+  current: false
+  img: /imgs/styrelsen/sebastian_square.jpg
+  year: 2023
+
+- name: Ruth Risberg
+  role: Ledamot
+  mail: ruth.risberg@ungvetenskapssport.se
+  current: false
+  img: /imgs/styrelsen/ruth_square.jpg
+  year: 2023
+
+- name: Emilio Youssef
+  role: Ledamot (t.o.m. maj 2023)
+  current: false
+  year: 2023
+
+
+  # # # # # 2022 # # # # # # #
+
+
+- name: Hugo Eberhard
+  role: Ordförande
+  year: 2022
+
+- name: Linn Rydberg
+  role: Kassör
+  year: 2022
+
+- name: Marcus Gehrmann
+  role: Ledamot
+  year: 2022
+
+- name: Sebastian Westerlund
+  role: Ledamot
+  year: 2022
+
+- name: Julia Mårtensson
+  role: Ledamot
+  year: 2022
+
+- name: Björn Magnusson
+  role: Ledamot
+  year: 2022
+
+- name: Manja Rönngren
+  role: Ledamot
+  year: 2022
+
+- name: Ruth Risberg
+  role: Ledamot
+  year: 2022
+
+
+  # # # # # 2021 # # # # # # #
+
+- name: Hugo Eberhard
+  role: Ordförande
+  year: 2021
+
+- name: Linn Rydberg
+  role: Kassör
+  year: 2021
+
+- name: Nicole Hedblom
+  role: Ledamot
+  year: 2021
+
+- name: Björn Magnusson
+  role: Ledamot
+  year: 2021
+
+- name: Julia Mårtensson
+  role: Ledamot
+  year: 2021
+
+- name: Ellinor Jönson
+  role: Ledamot
+  year: 2021
+
+- name: Erik Amirell Eklöf
+  role: Ledamot
+  year: 2021
+
+- name: Marcus Gehrmann
+  role: Ledamot
+  year: 2021
+
+- name: Harun Gürhan
+  role: Ledamot
+  year: 2021
+
+
+  # # # # # 2020 # # # # # # #
+
+
+- name: Nicole Hedblom
+  role: Ordförande
+  year: 2020
+
+- name: Linn Rydberg
+  role: Kassör
+  year: 2020
+
+- name: Björn Magnusson
+  role: Ledamot
+  year: 2020
+
+- name: Ellinor Jönson
+  role: Ledamot
+  year: 2020
+
+- name: Erik Amirell Eklöf
+  role: Ledamot
+  year: 2020
+
+- name: Hugo Eberhard
+  role: Ledamot
+  year: 2020
+
+- name: Mattias Akke
+  role: Ledamot
+  year: 2020
+
+
+  # # # # # 2019 # # # # # # #
+
+
+- name: Nicole Hedblom
+  role: Ordförande
+  year: 2019
+
+- name: Linn Rydberg
+  role: Kassör
+  year: 2019
+
+- name: Tianfang Zhang
+  role: Ledamot
+  year: 2019
+
+- name: Lars Åström
+  role: Ledamot
+  year: 2019
+
+- name: Adam Pettersson
+  role: Ledamot
+  year: 2019
+
+- name: Teodor Bucht
+  role: Ledamot
+  year: 2019
+
+- name: Björn Magnusson
+  role: Ledamot
+  year: 2019
+
+- name: Måns Magnusson
+  role: Ledamot
+  year: 2019
+
+
+  # # # # # 2018 # # # # # # #
+
+
+- name: Måns Magnusson
+  role: Ordförande
+  year: 2018
+
+- name: Lars Åström
+  role: Kassör
+  year: 2018
+
+- name: Anton Grensjö
+  role: Ledamot
+  year: 2018
+
+- name: Tianfang Zhang
+  role: Ledamot
+  year: 2018
+
+- name: Nicole Hedblom
+  role: Ledamot
+  year: 2018
+
+- name: Linn Rydberg
+  role: Ledamot
+  year: 2018
+
+
+  # # # # # 2017 # # # # # # #
+
+
+- name: Johan Sannemo
+  role: Ordförande
+  year: 2017
+
+- name: Lars Åström
+  role: Kassör
+  year: 2017
+
+- name: Anton Grensjö
+  role: Ledamot
+  year: 2017
+
+- name: Lisa Lokteva
+  role: Ledamot
+  year: 2017
+
+- name: Martin Hesselborn
+  role: Ledamot
+  year: 2017
+
+- name: Måns Magnusson
+  role: Ledamot
+  year: 2017
+
+- name: Tianfang Zhang
+  role: Ledamot
+  year: 2017
+
+
+  # # # # # 2016 # # # # # # #
+
+
+- name: Lars Åström
+  role: Ordförande
+  year: 2016
+
+- name: Johan Sannemo
+  role: Kassör
+  year: 2016
+
+- name: Anton Grensjö
+  role: Ledamot
+  year: 2016
+
+- name: Lisa Lokteva
+  role: Ledamot
+  year: 2016
+
+- name: Martin Hesselborn
+  role: Ledamot
+  year: 2016
+
+- name: Måns Magnusson
+  role: Ledamot
+  year: 2016
+
+- name: Tianfang Zhang
+  role: Ledamot
+  year: 2016
+
+
+  # # # # # 2015 # # # # # # #
+
+- name: Föreningen grundas 2015-11-30!
+  role: Samma styrelse som 2016. Verksamhets- och räkneskapsår följde ej kalenderår vid den här tiden.
+  year: 2015
