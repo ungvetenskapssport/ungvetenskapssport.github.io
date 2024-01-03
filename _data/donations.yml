@@ -5,13 +5,13 @@
 #   message: "Gott nytt år bästa UVS!"
 
 - id: 1
-  date: 2024-01-01
+  date: 2024-01
   amount: 100
-  name: "Benjamin Verbeek"
+  name:
   message: "Gott nytt år bästa UVS!"
 
 - id: 0
-  date: 2023-12-20
+  date: 2023-12
   amount: 0
   name: Exempel
   message: "Såhär kan din donation se ut. Tack för att du vill ge en gåva!"
