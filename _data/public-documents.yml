@@ -1,15 +1,121 @@
+# # # # # MALLAR # # # # # #
+
+- name: Årsmötesprotokoll
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  file-url:  https://docs.google.com/document/d/13Ssw29I66OWIdg86z39psjkaCuoPBpVt9ugrq_36wzY/edit?usp=sharing
+  img: /imgs/public-documents/årsmötesprotokoll.jpg
+  description: Årsmötesprotokoll upprättas och signeras efter en förenings årsmöte.
+  example-url: 
+
+
+- name: Dagordning årsmöte
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  file-url:  https://docs.google.com/document/d/13J0il2VjhvzlisNq8dCR08SAZ7C-6QIk0Iv5gdSbFL4/edit?usp=sharing
+  img: /imgs/public-documents/dagordning-årsmöte.jpg
+  description: Dagordning för årsmöte skickas normal ut inför årsmötet.
+  example-url:
+
+
+- name: Motion
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  file-url:  https://docs.google.com/document/d/1ajpvxFgpMfWVN9xxsZ70otaC184Jn8ph0DQd2D5pHl0/edit?usp=sharing
+  img: /imgs/public-documents/motion.jpg
+  description: En motion är ett förslag från en medlem till årsmötet om att föreningen ska fatta ett visst beslut.
+  example-url:
+
+
+- name: Proposition
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  file-url:  https://docs.google.com/document/d/16H0NtxrymUrT4Dpoln4YwdTGXR3KbLLOErM_WxpzKJc/edit?usp=sharing
+  img: /imgs/public-documents/proposition.jpg
+  description: En proposition är ett förslag från styrelsen till årsmötet om att föreningen ska fatta ett visst beslut.
+  example-url:
+
+
 - name: Konstituerande styrelsemöte
-  category: Mall     # Välj från: "Mall", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
   file-url:  https://docs.google.com/document/d/18AT4XStlrDSR3NqTV4ZVzJ0eGL3p8OBqlIK7PHk7J0k/edit?usp=sharing
   img: /imgs/public-documents/konstituerande-styrelsemote.jpg
   description: Under konstituerande styrelsemöte fördelar styrelsen ansvarsområden och poster internt.
   example-url: #https://dn.se # Om länk till ifyllt exempel finns (annars: lämna tomt)
+
+
+- name: Styrelsemötes<wbr>protokoll   # <wbr> is a word break opportunity.
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  file-url:  https://docs.google.com/document/d/1I-sEIv38-t2IFRyE2uOqoGe9JNWiO73vsF95hPeS_Cc/edit?usp=sharing
+  img: /imgs/public-documents/styrelsemötesprotokoll.jpg
+  description: Styrelsemötesprotokoll upprättas och signeras efter ett styrelsemöte.
+  example-url:
   
+
+- name: Verksamhets<wbr>berättelse
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  file-url:  https://docs.google.com/document/d/1t4HFkauu3jBHGDEoNuqyCt27J0cjSTiJDPs1Xspb-9Y/edit?usp=sharing
+  img: /imgs/public-documents/verksamhetsberättelse.jpg
+  description: Verksamhetsberättelsen är en sammanfattning av föreningens verksamhet under det gångna året. Den ska innehålla en beskrivning av föreningens verksamhet och medlemsantal. Verksamhetsberättelsen granskas av revisorn och läggs fram på årsmötet.
+  example-url:
+
+
+- name: Rekvisition
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  file-url:  https://docs.google.com/document/d/1xvKY-BIkH-H0CY_Mn1pJjE2ERe4Us5FnEdXUvGr9xJc/edit?usp=sharing
+  img: /imgs/public-documents/rekvisition.jpg
+  description: En rekvisition är ett dokument som används för att begära utbetalning av pengar från en förening eller stiftelse. Många stiftelser har egna rekvisitionsblanketter som ska användas. Rekvisitionen är ett underlag för bokföringen och ska därför vara så korrekt som möjligt.
+  example-url:
+
+
+- name: Protokoll extrainsatt årsmöte
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  file-url:  https://docs.google.com/document/d/128aIHnR4__v3eV8PXzKlSO_py8mV5ZPJPVksqRMjS0g/edit?usp=sharing
+  img: /imgs/public-documents/protokoll-extrainsatt-årsmöte.jpg
+  description: Protokoll från ett extrainsatt årsmöte.
+  example-url:
+
+
+- name: Dagordning extrainsatt årsmöte
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  file-url:  https://docs.google.com/document/d/1ewUJq-7CQYCFGrLX0ZKRtjwyHa37WjNbRM1HfIRS2CM/edit?usp=sharing
+  img: /imgs/public-documents/dagordning-extrainsatt-årsmöte.jpg
+  description: Dagordning för extrainsatt årsmöte skickas normal ut inför det extrainsatta årsmötet.
+  example-url:
+
+
+- name: Exempelstadgar
+  category: Mallar     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  file-url:  https://docs.google.com/document/d/1-dzF5UWnhBLQCM5M67jkCShJdUCAeSLss_9t-ObKmw0/edit?usp=sharing
+  img: /imgs/public-documents/exempelstadgar.jpg
+  description: Exempel på stadgar för en ideell förening, lik den UVS medlemsföreningar använder.
+  example-url:
+
+
+# TODO: 
+# - BUDGET
+# - VERKSAMHETSPLAN
+# - EKONOMISK BERÄTTELSE
+# - REVISIONSBERÄTTELSE
+# - VALBEREDNINGENS FÖRSLAG
+
+
+# # # # # STYRDOKUMENT # # # # # #
+# Stadgar, styrelseprotokoll mm. 
+
+
+
+# # # # # LÄGER # # # # # #
+# Lägewermappen med mallar
+
+
+
+# # # # # MARKNADSFÖRING # # # # # #
+# Loggor etc.
+
+
+
+# # # # # ÖVRIGT # # # # # #
+
 - name: Exempeldokument
-  category: Övrigt     # Välj från: "Mall", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
+  category: Övrigt     # Välj från: "Mallar", "Läger", "Styrdokument", "Marknadsföring", "Övrigt"  
   file-url:  https://docs.google.com/document/d/1fWj6PMBM2-jSd5t7vc-zIvi8IVWPUOcRgjyYuusKP0U/edit?usp=sharing
   img: /imgs/public-documents/exempeldokument.jpg
   description: Ett exempeldokument.
   example-url: https://docs.google.com/document/d/1fWj6PMBM2-jSd5t7vc-zIvi8IVWPUOcRgjyYuusKP0U/edit?usp=sharing
-
-  
