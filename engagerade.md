@@ -19,7 +19,7 @@ Här är några länkar hittills:
 Dokument öppnas i Google Drive. Du kan skapa en redigerbar kopia av dokumentet till din egen Google Drive genom att välja "Arkiv" > "Kopia" i menyn. Om du har tillgång till UVS interna drive kan du även nå mallarna direkt när du skapar ett nytt dokument genom att högerklicka, hovra över pilen för "Mer" och välja "From a template".
 <!-- Display sample documents! -->
 <div class="row">
-    {% assign categories = "Mall,Läger,Styrdokument,Marknadsföring,Övrigt" | split: "," %}
+    {% assign categories = "Mallar,Läger,Styrdokument,Marknadsföring,Övrigt" | split: "," %}
 
     {% for category in categories %}
         <div class="col-xs-12">
