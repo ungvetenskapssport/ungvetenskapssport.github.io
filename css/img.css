@@ -8,6 +8,18 @@
   border: 0px solid #999;
 }
 
+.contact-image-doc {
+  border-radius: 0em;
+  border: 1px solid #999;
+  transition: box-shadow 150ms, transform 150ms, border 150ms;; 
+}
+.contact-image-doc:hover {
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+  transform: scale(1.01);
+  border: 1px solid #000000;
+}
+
+
 .thumbnail {
   word-break: break-word;
   transition: box-shadow 300ms;
@@ -19,7 +31,6 @@
 .thumbnail:hover {
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
-
 
 .navbar-nav {
   float: none;
