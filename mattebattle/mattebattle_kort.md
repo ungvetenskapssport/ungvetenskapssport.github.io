@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mattebattle - kortversion
+id: mattebattle_kort
 ---
 
 *Det finns en långversion av reglerna (om du undrar om någon detalj eller är en riktig matteperson och vill ha vattentäta regler och rigorösa beskrivningar av allt) [här](/mattebattle/mattebattle_lang).*

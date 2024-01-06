@@ -26,7 +26,7 @@ Hälsningar, <br>
     {% endfor %}
 
     <details>
-    <summary>more...</summary>
+    <summary>äldre nyheter...</summary>
 
     {% for post in site.posts offset:6 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>

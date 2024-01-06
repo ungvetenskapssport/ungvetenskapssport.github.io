@@ -1,6 +1,6 @@
 ---
 layout: julkalender
-id: julkalender_2023_**
+id: julkalender_2023_xxxxx
 header-img: ../imgs/julkalender_2023/header.jpeg # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 # content
 title: Lucka *    # used on image
@@ -10,8 +10,8 @@ subtitle: från ****!
 subtitle-size: 2.2vw, 26px   # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
 subtitle-color: darkolivegreen # color of subtitle
 ---
-{% assign targetId = {{page.id}} %}
 
+<!-- 
 {% for obj in site.data.julkalender %}
   {% if obj.id == targetId %}
     {% if obj.available == true %}
@@ -20,4 +20,4 @@ subtitle-color: darkolivegreen # color of subtitle
       Du havar ej tillåtelse att tjuvkika!
     {% endif %}
   {% endif %}
-{% endfor %}
+{% endfor %} -->

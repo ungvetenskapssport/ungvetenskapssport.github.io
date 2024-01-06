@@ -69,7 +69,7 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
 
 <!-- This generates the boxes -->
 <div class="row">
-    {% for member in site.data.members %} {% if member.current == true %}
+    {% for member in site.data.members %} {% if member.current == true %} {% if member.year == 2024 %}
 
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
         <div class="thumbnail" {% if member.name == "Benjamin Verbeek" %} onclick="handleTripleClick(event, '../engagerade')" {% endif %} >
@@ -111,7 +111,22 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
     <div class="clearfix visible-lg-block"></div>
     {% endif %}
 
-    {% endif %}{% endfor %}
+    {% endif %} {% endif %} {% endfor %}
 </div>
 
-<!-- TODO: add list of previous board members -->
+
+## Tidigare styrelser
+<!-- Ändra 2023 nedan i framtiden. -->
+{% for year in (2015..2023) reversed %}
+<details>
+  <summary style="font-size: larger;">{{ year }}</summary>
+  <ul>
+    {% for member in site.data.members %}
+      {% if member.year == year %}
+        <li><b>{{ member.name }}</b> - {{ member.role }}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</details>
+{% endfor %}
+
