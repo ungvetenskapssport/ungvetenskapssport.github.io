@@ -24,15 +24,15 @@ Deltagarna kommer att delas in i flera nivåanpassade grupper, så att alla elev
 
 *Förvänta dig bland annat intressanta föreläsningar med kluriga problem, mattebattles samt mycket sociala aktiviteter!*
 
-## Anmälan och intresseanmälan
+## Anmälan
 
-Anmälan öppnar 6 januari kl 11:23 och stänger 13 januari kl 03:14. Dock så är det är först till kvarn som gäller. Vi förväntar oss ungefär 70 deltagare på varje läger. Länken till anmälan kommer att publiceras här när anmälan har släppts. Om du vill bli påmind när anmälan släpps så kan du fylla i denna [intresseanmälan](https://forms.gle/y3tLBKE2KARtKPRV6)!\\
-**OBS**: Vi vill att så många som möjligt får ta del av möjligheten, därför får varje deltagare åka på max ett läger! 
+[Anmälan](https://forms.gle/wCNWj6P8w7UtKQJ59) öppnar 6 januari kl 11:23 och stänger 13 januari kl 03:14. Dock så är det är först till kvarn som gäller. Vi förväntar oss ungefär 70 deltagare på varje läger. \\
+**OBS**: Vi vill att så många som möjligt får ta del av denna möjlighet, därför får varje deltagare åka på max ett läger! 
 
 
 ## Kostnad
 
-Deltagaravgiften för årets matematikläger har inte fastställts än, men tidigare år har den legat på ungefär 1 500 kr. I deltagaravgiften ingår mat, boende och samtliga resor under programmets gång. Deltagare ansvarar själva för resa till och från Lund C respektive Stockholm C.
+Deltagaravgiften för årets matematikläger är 1250 kr. I deltagaravgiften ingår mat, boende och samtliga resor under programmets gång. Deltagare ansvarar själva för resa till och från Lund C respektive Stockholm C.
 
 *Tips: Gymnasieskolor kan ofta sponsra resan till och från Lund respektive Stockholm, så hör gärna med din skola! Annars finns möjlighet att söka ekonomiskt stöd från Ung Vetenskapssport, vilket görs i samband med anmälan.*
 
