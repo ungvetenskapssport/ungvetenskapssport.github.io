@@ -148,3 +148,17 @@ details[open] {
 details[open] summary {
     margin-bottom: 0.1em;
 }
+
+/* UVS font for some titles/text */
+.uvs-font {
+	font-family: 'Trebuchet MS', sans-serif;
+  }
+
+.uvs-title {
+	font-family: 'Trebuchet MS', sans-serif;
+	text-transform: uppercase;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Trebuchet MS', sans-serif;
+}
