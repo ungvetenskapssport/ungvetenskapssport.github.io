@@ -14,6 +14,9 @@ subtitle-color: antiquewhite # color of subtitle. '#000000' is black, '#ffffff' 
 ---
 *Här finns lägrets [inbjudan](/assets/event_invites/20231217_inbjudan_mattelager.pdf) samt en [poster](/imgs/mattelager/mattelager_poster.png) som du gärna får skriva ut och sätta upp på skolan!*
 
+*Lund 22-25/2*  (platser kvar)\\
+*Stockholm 18-21/4*  (reservlistan öppen)
+
 ## Om lägret
 
 **I vår är det äntligen dags för den tionde upplagan av UVS matematikläger! I år arrangeras två lager, i Lund 22–25 februari, samt i Stockholm 18–21 april. Kommer vi att se dig där?**
@@ -26,7 +29,7 @@ Deltagarna kommer att delas in i flera nivåanpassade grupper, så att alla elev
 
 ## Anmälan
 
-[Anmälan](https://forms.gle/wCNWj6P8w7UtKQJ59) öppnar 6 januari kl 11:23 och stänger 13 januari kl 03:14. Dock så är det är först till kvarn som gäller. Vi förväntar oss ungefär 70 deltagare på varje läger. \\
+Platserna på Stockholmslägret är fyllda men ännu finns det några platser kvar i Lund! Därför har vi förlängt [anmälan](https://forms.gle/wCNWj6P8w7UtKQJ59) till den 19 januari. Som vanligt är det först till kvarn som gäller. \\
 **OBS**: Vi vill att så många som möjligt får ta del av denna möjlighet, därför får varje deltagare åka på max ett läger! 
 
 
