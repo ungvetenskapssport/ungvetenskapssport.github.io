@@ -29,7 +29,7 @@ Deltagarna kommer att delas in i flera nivåanpassade grupper, så att alla elev
 
 ## Anmälan
 
-Platserna på Stockholmslägret är fyllda men ännu finns det några platser kvar i Lund! Därför har vi förlängt [anmälan](https://forms.gle/wCNWj6P8w7UtKQJ59) till den 19 januari. Som vanligt är det först till kvarn som gäller. \\
+Platserna på Stockholmslägret är fyllda men ännu finns det några platser kvar i Lund! Därför har vi förlängt [anmälan](https://forms.gle/wCNWj6P8w7UtKQJ59) till den 26 januari. Som vanligt är det först till kvarn som gäller. \\
 **OBS**: Vi vill att så många som möjligt får ta del av denna möjlighet, därför får varje deltagare åka på max ett läger! 
 
 
