@@ -56,8 +56,7 @@ I schemat nedan ser ni den ungefärliga strukturen på lägret. Det varar från 
 
 ## Kontakt
 
-Vid frågor kontakta oss på [mejl
-](mailto:mattelager@ungvetenskapssport.se).
+Vid frågor kontakta oss på [mejl](mailto:mattelager@ungvetenskapssport.se).
 
 <!-- 
 
