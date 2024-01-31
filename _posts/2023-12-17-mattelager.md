@@ -1,7 +1,7 @@
 ---
 # meta
 layout: special_event_layout
-id: fa-lager
+id: mattelager
 header-img: ../imgs/mattelager/mattelager_banner.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 permalink: /mattelager/    # link to be used to access page
 # content
@@ -56,8 +56,7 @@ I schemat nedan ser ni den ungefärliga strukturen på lägret. Det varar från 
 
 ## Kontakt
 
-Vid frågor kontakta oss på [mejl
-](mailto:mattelager@ungvetenskapssport.se).
+Vid frågor kontakta oss på [mejl](mailto:mattelager@ungvetenskapssport.se).
 
 <!-- 
 
