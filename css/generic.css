@@ -148,6 +148,25 @@ details[open] {
 details[open] summary {
     margin-bottom: 0.1em;
 }
+.overlay-blob {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(255, 255, 255, 0.7); /* Semi-transparent white overlay */
+  }
+.overlay-text {
+	position: absolute;
+	top: 0;
+    left: 0;
+	padding: 0.4em;
+    width: 100%;
+	top: 50%; /* Adjust to vertically center the text */
+	left: 50%; /* Adjust to horizontally center the text */
+	transform: translate(-50%, -50%); /* Center the text precisely */
+	text-align: center; /* Center-align the text */
+  }
 
 /* UVS font for some titles/text */
 .uvs-font {

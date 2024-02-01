@@ -71,11 +71,19 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
 <div class="row">
     {% for member in site.data.members %} {% if member.current == true %} {% if member.year == 2024 %}
 
-    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3" style="display: flex; flex-direction: column;">
         <div class="thumbnail" {% if member.name == "Benjamin Verbeek" %} onclick="handleTripleClick(event, '../engagerade')" {% endif %} >
-        <!-- <div class="thumbnail"> -->
             {% if member.img %}
-            <img class="contact-image" src="{{ member.img }}" alt="{{ member.name }}">
+                {% if member.img2 %}
+                    <div class="contact-image-hover"
+                    style="background-image: url({{ member.img }})"
+                    onmouseover="this.style.backgroundImage='url({{ member.img2 }})'" 
+                    onmouseout="this.style.backgroundImage='url({{ member.img }})'">
+                    </div>
+                {% else %}
+                    <img class="contact-image" src="{{ member.img }}" alt="{{ member.name }}">
+                {% endif %}
+                
             {% endif %}
             <div class="caption">
                 <h4>{{ member.name }}</h4>

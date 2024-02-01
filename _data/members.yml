@@ -6,14 +6,14 @@
   role: Ordförande
   mail: julia.martensson@ungvetenskapssport.se
   current: true
-  img: /imgs/styrelsen/julia_square.jpg
+  img: /imgs/styrelsen/2023/julia_square.jpg
   year: 2024
 
 - name: Benjamin Verbeek
   role: Vice Ordförande
   mail: benjamin.verbeek@ungvetenskapssport.se
   current: true
-  img: /imgs/styrelsen/benjamin_square.jpg
+  img: /imgs/styrelsen/2023/benjamin_square.jpg
   year: 2024
   website: verbeek.se
 
@@ -28,21 +28,22 @@
   role: Ledamot
   mail: erik.bryland@ungvetenskapssport.se
   current: true
-  img: /imgs/styrelsen/erik_square.jpg
+  img: /imgs/styrelsen/2023/erik_square.jpg
   year: 2024
 
 - name: Kevin Haagensen Strömberg
   mail: kevin.hs@ungvetenskapssport.se
   role: Ledamot
   current: true
-  img: /imgs/styrelsen/kevin_square.jpg
+  img: /imgs/styrelsen/2023/kevin_square.jpg
   year: 2024
 
 - name: Jiachen Mi
   role: Ledamot
   mail: jiachen.mi@ungvetenskapssport.se
   current: true
-  img: /imgs/styrelsen/milly_square.jpg
+  img: /imgs/styrelsen/2024/milly_closed.png
+  img2: /imgs/styrelsen/2024/milly_open.png
   year: 2024
   
 - name: Klara Bragesjö Björkén
@@ -63,14 +64,14 @@
   role: Suppleant (I)
   mail: sebastian.westerlund@ungvetenskapssport.se
   current: true
-  img: /imgs/styrelsen/sebastian_square.jpg
+  img: /imgs/styrelsen/2023/sebastian_square.jpg
   year: 2024
 
 - name: Ruth Risberg
   role: Suppleant (II)
   mail: ruth.risberg@ungvetenskapssport.se
   current: true
-  img: /imgs/styrelsen/ruth_square.jpg
+  img: /imgs/styrelsen/2023/ruth_square.jpg
   year: 2024
   
 - name: Martin Wennberg
@@ -88,56 +89,56 @@
   role: Ordförande
   mail: julia.martensson@ungvetenskapssport.se
   current: false
-  img: /imgs/styrelsen/julia_square.jpg
+  img: /imgs/styrelsen/2023/julia_square.jpg
   year: 2023
 
 - name: Erik Bryland
   role: Kassör
   mail: erik.bryland@ungvetenskapssport.se
   current: false
-  img: /imgs/styrelsen/erik_square.jpg
+  img: /imgs/styrelsen/2023/erik_square.jpg
   year: 2023
 
 - name: Benjamin Verbeek
   role: Vice Ordförande
   mail: benjamin.verbeek@ungvetenskapssport.se
   current: false
-  img: /imgs/styrelsen/benjamin_square.jpg
+  img: /imgs/styrelsen/2023/benjamin_square.jpg
   year: 2023
 
 - name: Hugo Eberhard
   role: Ledamot
   mail: hugo.eberhard@ungvetenskapssport.se
   current: false
-  img: /imgs/styrelsen/hugo_square.jpg
+  img: /imgs/styrelsen/2023/hugo_square.jpg
   year: 2023
 
 - name: Kevin Haagensen Strömberg
   mail: kevin.hs@ungvetenskapssport.se
   role: Ledamot
   current: false
-  img: /imgs/styrelsen/kevin_square.jpg
+  img: /imgs/styrelsen/2023/kevin_square.jpg
   year: 2023
 
 - name: Jiachen Mi
   role: Ledamot
   mail: jiachen.mi@ungvetenskapssport.se
   current: false
-  img: /imgs/styrelsen/milly_square.jpg
+  img: /imgs/styrelsen/2023/milly_square.jpg
   year: 2023
 
 - name: Sebastian Westerlund
   role: Ledamot
   mail: sebastian.westerlund@ungvetenskapssport.se
   current: false
-  img: /imgs/styrelsen/sebastian_square.jpg
+  img: /imgs/styrelsen/2023/2023/sebastian_square.jpg
   year: 2023
 
 - name: Ruth Risberg
   role: Ledamot
   mail: ruth.risberg@ungvetenskapssport.se
   current: false
-  img: /imgs/styrelsen/ruth_square.jpg
+  img: /imgs/styrelsen/2023/2023/ruth_square.jpg
   year: 2023
 
 - name: Emilio Youssef
