@@ -76,9 +76,9 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
             {% if member.img %}
                 {% if member.img2 %}
                     <div class="contact-image-hover"
-                    style="background-image: url({{ member.img }})"
-                    onmouseover="this.style.backgroundImage='url({{ member.img2 }})'" 
-                    onmouseout="this.style.backgroundImage='url({{ member.img }})'">
+                    style="background-image: url({{ member.img2 }})"
+                    onmouseover="this.style.backgroundImage='url({{ member.img }})'" 
+                    onmouseout="this.style.backgroundImage='url({{ member.img2 }})'">
                     </div>
                 {% else %}
                     <img class="contact-image" src="{{ member.img }}" alt="{{ member.name }}">
