@@ -21,6 +21,22 @@
 }
 
 
+.contact-image-hover {
+  border-radius: 0.4em;
+  border: 1px solid #999;
+  width: 100%;
+  height: 0;  /* see below */
+  padding-bottom: 100%; /* super-cursed hack... */
+  background-image: url('/imgs/other-eventicons/default-personicon.png');
+  background-size: cover;
+  transition: background-image 0.3s ease;
+} 
+.contact-image-hover:hover {
+  background-image: url('/imgs/other-eventicons/default-personicon.png');
+  transition: background-image 0.3s ease;
+} 
+
+
 .thumbnail {
   word-break: break-word;
   transition: box-shadow 300ms;
