@@ -11,7 +11,7 @@ Har du en bra idé, en fundering eller förfrågan – tveka inte att [kontakta 
 
 Välkommen hit!
 
-<img src="/imgs/medlemsforeningar/uvs-medlemsforeningar-website-small.webp" style="width: 800%; position: relative; left: 0px; max-width: 100px;">
+<img src="/imgs/medlemsforeningar/uvs-medlemsforeningar-website-small.webp" style="width: 100%; position: relative; left: 0px; max-width: 100px;">
 
 Hälsningar, <br>
 [Styrelsen för Ung Vetenskapssport](./styrelsen.md)
