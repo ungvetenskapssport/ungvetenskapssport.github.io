@@ -13,12 +13,8 @@ subtitle-color: black
 ---
 
 # Tidigare upplagor av Höjdpunkten
-<ul>
-<li>
 <h3> 2024 </h3>
 Mer info kommer snart!
-</li>
-</ul>
 
 
 <ul>
