@@ -14,6 +14,9 @@ subtitle-color: black
 
 # Tidigare upplagor av Höjdpunkten
 
+<h3> 2024 </h3>
+Mer info kommer snart!
+
 <ul>
 {% for event in site.data.hojdpunkten %} {% if event.upcoming == false %}
 <li>
