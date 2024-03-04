@@ -29,9 +29,14 @@ id: medlem
                 {% endif %}
 
                 {% if member.info_ebas %}
-                <div class="buttonInfo" onclick="redirectToLink('{{ member.info_ebas }}')">
-                Mer info <i class="fa fa-info-circle"></i>
-                </div>
+                <div class="button-container">
+                    <div class="buttonInfo" onclick="redirectToLink('{{ member.info_ebas }}')">
+                    Mer info <i class="fa fa-info-circle"></i>
+                    </div>
+                    {% if member.email %}
+                     <a href="mailto:{{ member.email }}" class="buttonInfo" style="max-width: 3em; margin-left: 0.5em;" role="button" aria-pressed="true"><i class="fa fa-envelope-square"></i></a>
+                    {% endif %}
+                </div> 
                 {% endif %}
 
                 <details>

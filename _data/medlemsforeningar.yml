@@ -8,6 +8,7 @@
   img: /imgs/medlemsforeningar/uvs-ingenjörer.png
   sampleproblem: /affisch/teknik
   info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsingenjorer
+  email: uvs-ingenjorer@ungvetenskapssport.se
 
 - name: UVS Matematiker
   description: UVS Matematiker samlar matematikintresserade unga, anordnar årliga matematikläger, tävlingar, och träningar inför den Internationella matematikolympiaden (IMO) med tillhörande kval (Skolornas matematiktävling/SMT).
@@ -17,6 +18,7 @@
   img: /imgs/medlemsforeningar/uvs-matematiker.png
   sampleproblem: /affisch/matematik
   info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsmatematiker
+  email: uvs-matematiker@ungvetenskapssport.se
 
 - name: UVS Fysiker
   description: UVS Fysiker samlar fysikintresserade unga, anordnar årliga fysikläger och träningar inför den Internationella fysikolympiaden (IPhO) med tillhörande kval (Wallenbergs fysikpris).
@@ -26,6 +28,7 @@
   img: /imgs/medlemsforeningar/uvs-fysiker.png
   sampleproblem: /affisch/fysik
   info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsfysiker
+  email: uvs-fysiker@ungvetenskapssport.se
 
 - name: UVS Biologer
   description: UVS Biologer samlar biologiintresserade unga, anordnar träningar inför den Internationella biologiolympiaden (IBO) med tillhörande kval (Biologiolympiaden). Engagera dig!
@@ -35,6 +38,7 @@
   img: /imgs/medlemsforeningar/uvs-biologer.png
   sampleproblem: /affisch/biologi
   info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsbiologer
+  email: uvs-biologer@ungvetenskapssport.se
   
 - name: UVS Kemister
   description: UVS Kemister samlar kemiintresserade unga, anordnar kemiläger och träningar inför den Internationella kemiolympiaden (IChO) med tillhörande kval (Kemiolympiaden).
@@ -44,6 +48,7 @@
   img: /imgs/medlemsforeningar/uvs-kemister.png
   sampleproblem: /affisch/kemi
   info_ebas: https://ebas.ungvetenskapssport.se/forening/uvskemister
+  email: uvs-kemister@ungvetenskapssport.se
 
 - name: UVS Astronomer
   description: UVS Astronomer samlar astronomiintresserade unga, anordnar årliga astronomiläger och träningar inför den Internationella olympiaden i astronomi och astrofysik (IOAA) med tillhörande kval (astronomiolympiaden).
@@ -53,6 +58,7 @@
   img: /imgs/medlemsforeningar/uvs-astronomer.png
   sampleproblem: /affisch/astronomi
   info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsastronomer
+  email: uvs-astronomer@ungvetenskapssport.se
 
 - name: Lingolympiaden
   description: Lingolympiaden är en förening som samlar lingvistikintresserade unga och anordnar varje år den svenska uttagningen med samma namn. Vinnarna utgör laget till den Internationella lingvistikolympiaden (IOL).
@@ -69,3 +75,4 @@
   img: /imgs/medlemsforeningar/kodsport-web.png
   sampleproblem: /affisch/programmering
   info_ebas: https://kodsport.se 
+  email: kontakt@kodsport.se

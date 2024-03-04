@@ -181,3 +181,8 @@ details[open] summary {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Trebuchet MS', sans-serif;
 }
+
+.button-container {
+    display: flex; /* Use flexbox layout */
+    align-items: center; /* Center vertically */
+}
