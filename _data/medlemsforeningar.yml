@@ -67,6 +67,7 @@
   img: /imgs/medlemsforeningar/lingolympiaden-web.png
   sampleproblem: /affisch/lingvistik
   info_ebas: https://ebas.ungvetenskapssport.se/forening/lingolympiaden
+  email: lingo@lingolympiad.org
 
 - name: Kodsport Sverige
   description: Kodsport Sverige är en ideell förening som arbetar inom IT, främst programmering och datasäkerhet. De anordnar läger och träningar för Säkerhets-SM, Programmeringsolympiaden och uttagning till IOI, och mycket mer. <br><br> Läs mer på <a href="https://www.kodsport.se/">www.kodsport.se/</a>
