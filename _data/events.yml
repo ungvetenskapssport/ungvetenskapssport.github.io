@@ -1,12 +1,20 @@
-- name: "Matematikläger Lund 2024"
+- name: "Biologiläger"
   upcoming: true
+  inbjudan: ../biolager/
+  startdate: 2024-04-26
+  enddate: 2024-04-28
+  location: Lund
+  no_participants: 40
+
+- name: "Matematikläger"
+  upcoming: false
   inbjudan: ../mattelager/
   startdate: 2024-02-22
   enddate: 2024-02-25
   location: Lund
   no_participants: 70
 
-- name: "Matematikläger Stockholm 2024"
+- name: "Matematikläger"
   upcoming: true
   inbjudan: ../mattelager/
   startdate: 2024-04-18
