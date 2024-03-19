@@ -16,3 +16,8 @@
   open_losningar: "/hojdpunkten_gamla_problem/2023/open_losningar.pdf"
   open_resultat: "/hojdpunkten_gamla_problem/2023/open_resultat.pdf"
   sources: "/hojdpunkten_gamla_problem/2023/sources.pdf"
+
+- year: 2024
+  upcoming: true
+  inbjudan: /assets/event_invites/20240316_inbjudan_hojdpunkten_2024.pdf
+  
