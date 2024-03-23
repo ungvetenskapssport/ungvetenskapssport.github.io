@@ -1,3 +1,12 @@
+- name: "Mattetävlingen Höjdpunkten 2024"
+  upcoming: true
+  inbjudan: "https://ungvetenskapssport.se/assets/event_invites/20240316_inbjudan_hojdpunkten_2024.pdf"
+  startdate: 2024-05-08
+  enddate: 2024-05-10
+  location: På respektive skola & Digitalt
+  no_participants:
+  resultat_och_problem:
+
 - name: "Biologiläger"
   upcoming: true
   inbjudan: ../biolager/

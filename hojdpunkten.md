@@ -12,15 +12,14 @@ subtitle-size: 2.6vw, 27px
 subtitle-color: black
 ---
 
-
-I [inbjudan](ungvetenskapssport.se/assets/event_invets/20240316_inbjudan_hojdpunkten_2024.pdf) kan du läsa mer om årets tävling. Skriv gärna ut förstasidan och sätt upp på din skola!
+I [inbjudan](https://ungvetenskapssport.se/assets/event_invites/20240316_inbjudan_hojdpunkten_2024.pdf) kan du läsa mer om årets tävling. Skriv gärna ut förstasidan och sätt upp på din skola!
 
 ## Är du intresserad av mattetävlingar i lag?
 Höjdpunkten med tre klasser: en för högstadieelever, en för gymnasieelever och en öppen klass. På högstadie- och gymnasieskolor kommer tävlingen äga rum den 8 maj. För de som tävlar i öppen klass eller de som inte haft möjlighet att delta på sina skolor, kommer tävlingen äga rum digitalt den 9 maj.
 
 Joina gärna Ung Vetenskapssports [discordserver](https://discord.gg/GDfJKkTaqb). Den 10 maj kommer vi hålla en läsningsgenomgång för intresserade.
 
-Det kommer finnas fina problem att lösa och fina priser att vinna! Kolla in [inbjudan](ungvetenskapssport.se/assets/event_invets/20240316_inbjudan_hojdpunkten_2024.pdf), och tveka inte att mejla [mattetavling@ungvetenskapssport.se](mailto:mattetavling@ungvetenskapssport.se) om du har frågor.
+Det kommer finnas fina problem att lösa och fina priser att vinna! Kolla in [inbjudan](https://ungvetenskapssport.se/assets/event_invites/20240316_inbjudan_hojdpunkten_2024.pdf), och tveka inte att mejla [mattetavling@ungvetenskapssport.se](mailto:mattetavling@ungvetenskapssport.se) om du har frågor.
 
 Lycka till önskar arrangörsgruppen!
 
