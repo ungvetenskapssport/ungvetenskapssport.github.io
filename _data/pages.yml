@@ -18,6 +18,10 @@
   url: "/styrelsen"
   id: "styrelsen"
 
+- name: Mer
+  url: "/mer"
+  id: "mer"
+
 # - name: Mattebattle
 #   url: "/mattebattle"
 #   id: "mattebattle"

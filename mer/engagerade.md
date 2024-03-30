@@ -2,6 +2,7 @@
 layout: page
 id: engagerade
 title: För engagerade
+# permalink: /engagerade/
 ---
 
 *Sidan är under konstruktion.*

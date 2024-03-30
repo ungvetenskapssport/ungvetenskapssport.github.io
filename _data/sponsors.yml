@@ -5,6 +5,7 @@
 - name: Beijerstiftelsen
   img: /imgs/sponsors/beijerstiftelsen.png
   url: https://www.beijerstiftelsen.se/
+  finansiellt-stod: True
 
 - name: Svenska fysikersamfundet
   img: /imgs/sponsors/sfs.png
