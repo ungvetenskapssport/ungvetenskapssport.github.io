@@ -14,7 +14,7 @@ Här är några länkar hittills:
 - [Mallar](https://drive.google.com/drive/folders/1vu4aOGeZxKOR3maN3p_OpigPUMD3Lfc9?usp=sharing) *(möten, budget, ...)*
 - [Exempelansökan stiftelse för läger](https://docs.google.com/document/d/1alnCEtfmpyWw4kQwl3XT5tfZRlYzJcUmT5jgVqTk8TI/edit?usp=sharing) *(delvis beviljad)*
 - [Handbok för läger](https://drive.google.com/drive/folders/1IpKrQGh6He2wKRPClcEic8xZXqc907SK?usp=sharing) *(allt du behöver)*
-
+- [Informationsmaterial för skolbesök mm](/mer/informationsmaterial)
 
 ## Dokument & mallar
 Dokument öppnas i Google Drive. Du kan skapa en redigerbar kopia av dokumentet till din egen Google Drive genom att välja "Arkiv" > "Kopia" i menyn. Om du har tillgång till UVS interna drive kan du även nå mallarna direkt när du skapar ett nytt dokument genom att högerklicka, hovra över pilen för "Mer" och välja "From a template".
