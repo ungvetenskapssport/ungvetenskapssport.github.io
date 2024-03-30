@@ -72,7 +72,7 @@ Nedan finner du information om alla våra styrelsemedlemmar. Vill du komma i kon
     {% for member in site.data.members %} {% if member.current == true %} {% if member.year == 2024 %}
 
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3" style="display: flex; flex-direction: column;">
-        <div class="thumbnail" {% if member.name == "Benjamin Verbeek" %} onclick="handleTripleClick(event, '../engagerade')" {% endif %} >
+        <div class="thumbnail" {% if member.name == "Benjamin Verbeek" %} onclick="handleTripleClick(event, '/mer/engagerade')" {% endif %} >
             {% if member.img %}
                 {% if member.img2 %}
                     <div class="contact-image-hover"
