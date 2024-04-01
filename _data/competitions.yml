@@ -1,27 +1,57 @@
 - subject: Matematik
   name: Skolornas Matematiktävling
   url: https://mattetavling.se/
+  display-details: False
+
 - subject: Fysik
   name: Wallenbergs fysikpris
+  alt-name: fysikolympiaden
   url: https://www.fysikersamfundet.se/wallenbergs-fysikpris/
-- subject: Experimentell Fysik
+  display-details: True
+  organizer: Svenska fysikersamfundet
+  target: Gymnasieelever
+  participants-qualifiers: ca 500
+  international-name: Internationella fysikolympiaden (IPhO)
+  participated-since: 1976
+  description: 
+  flowchart: /imgs/vetenskapstavlingar/flowchart-fysik.svg
+
+- subject: Experimentell fysik
   name: IYPT
   url: http://www.iypt.se/sv/vad-ar-iypt-what-is-iypt/
+  display-details: False
+
 - subject: Programmering
   name: Programmeringsolympiaden
   url: https://www.progolymp.se/
+  display-details: False
+
 - subject: Kemi
   name: Kemiolympiaden
   url: https://kemisamfundet.se/kemi-i-skolan/kemiolympiaden/
+  display-details: False
+
 - subject: Biologi
   name: Biologiolympiaden
   url: https://biologilararna.se/internationella-biologiolympiaden-ibo/
+  display-details: False
+
 - subject: Lingvistik
   name: Lingolympiaden
   url: http://www.lingolympiad.org/
+  display-details: False
+
 - subject: Datasäkerhet
   name: Säkerhets-SM
   url: https://sakerhetssm.se/
+  display-details: False
+
 - subject: Astronomi
   name: Astronomiolympiaden
   url: https://www.astronomiskungdom.se/astronomiolympiaden/
+  display-details: False
+
+- subject: Experimentell naturvetenskap
+  name: European Olympiad of Experimental Science
+  url: https://www.eoes.se/
+  display-details: False
