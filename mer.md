@@ -8,3 +8,4 @@ title: Mer
 - [För engagerade](/mer/engagerade)
 - [Förbundets stadgar](/assets/Ung Vetenskapssport - Stadgar.pdf)
 - [Informationsmaterial](/mer/informationsmaterial)
+- [Mer information om vetenskapstävlingar *(under konstruktion)*](/mer/vetenskapstavlingar)
