@@ -5,7 +5,7 @@ id: events
 ---
 
 ## Kommande evenemang
-<ul>
+<!-- <ul>
 {% for event in site.data.events %} {% if event.upcoming == true %}
 <li>
     <h3> {{ event.name }} </h3>
@@ -18,7 +18,48 @@ id: events
     {% endif %}
 </li>
 {% endif %}{% endfor %}
-</ul>
+</ul> -->
+
+<!-- Make same kind of grid as below for upcoming event. -->
+<div class="row">
+    {% for event in site.data.events %} {% if event.upcoming == true %}
+
+    <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+    
+        <div class="thumbnail" onclick="redirectToLink('{{ event.inbjudan }}')">
+            {% if event.img %}
+            <!-- <a href="{{ event.inbjudan }}"><img class="contact-image" src="{{ event.img }}" alt="{{ event.name }}"></a> -->
+            <img class="contact-image" style="border:0px" src="{{ event.img }}" alt="{{ event.name }}">
+            {% else %} 
+            <img class="contact-image" style="border:0px" src="/imgs/other-eventicons/default-eventicon.png" alt="{{ event.name }}">
+            {% endif %}
+            <div class="overlay-blob"></div>
+            <div class="overlay-text">
+                <a href="{{ event.inbjudan }}"> <h4>{{ event.name }}</h4> </a>
+                <p> {{ event.startdate }} {% if event.enddate %} - {{ event.enddate }} {% endif %} </p>
+                {% if event.location %}
+                <p> Plats: {{ event.location }} </p>
+                {% endif %}
+            </div>
+        </div>
+        <script src="/scripts/redirectOnClick.js"></script>
+    </div>
+    {% assign mod4 = forloop.index | modulo:4 %}
+    {% assign mod3 = forloop.index | modulo:3 %}
+    {% assign mod2 = forloop.index | modulo:2 %}
+    {% if mod2 == 0 %}
+    <div class="clearfix visible-xs-block"></div>
+    {% endif %}
+    {% if mod3 == 0 %}
+    <div class="clearfix visible-sm-block"></div>
+    {% endif %}
+    {% if mod4 == 0 %}
+    <div class="clearfix visible-md-block"></div>
+    <div class="clearfix visible-lg-block"></div>
+    {% endif %}
+
+    {% endif %}{% endfor %}
+</div>
 
 
 ## Återkommande evenemang

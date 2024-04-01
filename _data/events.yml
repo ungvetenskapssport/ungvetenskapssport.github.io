@@ -6,6 +6,7 @@
   location: På respektive skola & Digitalt
   no_participants:
   resultat_och_problem:
+  img: /imgs/hojdpunkten/icon-img-hojdpunkten.png
 
 - name: "Biologiläger"
   upcoming: true
@@ -22,6 +23,7 @@
   enddate: 2024-02-25
   location: Lund
   no_participants: 70
+  img: /imgs/other-eventicons/icon-img-matematiklager.png
 
 - name: "Matematikläger"
   upcoming: true
@@ -30,6 +32,7 @@
   enddate: 2024-04-21
   location: Stockholm
   no_participants: 70
+  img: /imgs/other-eventicons/icon-img-matematiklager.png
 
 - name: "Kemiläger 2023"
   upcoming: false
