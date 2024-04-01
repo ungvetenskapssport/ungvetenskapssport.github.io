@@ -30,3 +30,19 @@
 - name: Chalmers tekniska högskola
   img: /imgs/sponsors/chalmers.png
   url: https://www.chalmers.se/
+
+- name: Skolverket
+  img: /imgs/sponsors/skolverket.png
+  url: https://www.skolverket.se/
+
+- name: FRA
+  img: /imgs/sponsors/fra.png
+  url: https://www.fra.se/
+
+- name: Kattis
+  img: /imgs/sponsors/kattis.png
+  url: https://open.kattis.com/
+
+- name: GleSYS
+  img: /imgs/sponsors/glesys.png
+  url: https://glesys.se/

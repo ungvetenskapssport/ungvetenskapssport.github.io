@@ -22,7 +22,7 @@ En av Ung Vetenskapssports största finansieringskällor är MUCF - Myndigheten 
 ### Sponsorer och samarbetspartners
 Vi är alltid intresserade av att samarbeta med företag och organisationer som delar våra värderingar och mål. Vi kan erbjuda exponering på vår hemsida, i våra sociala medier och på våra läger. [Kontakta oss](mailto:styrelsen@ungvetenskapssport.se?subject=Samarbete) gärna för att diskutera samarbeten! 
 
-Tack till våra samarbetspartners och sponsorer!
+Tack till våra samarbetspartners och sponsorer! Observera att vissa enbart stöttar specifika projekt eller medlemsföreningar.
 <!-- Grid of sponsor logos -->
 <!-- use jekyll to iterate through the members of "sponsors.yml" and display
 their image in a grid with name as alttext and link to their page onklick. Shadow on hover. No border. -->
