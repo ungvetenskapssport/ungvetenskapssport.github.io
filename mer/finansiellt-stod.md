@@ -20,7 +20,7 @@ Vi försöker att vara så flexibla som möjligt, så tveka inte att kontakta os
 För att ansöka om finansiellt stöd, fyll i ansökningsformuläret nedan. Ansökan behandlas löpande och du får besked så snart som möjligt. Om du har frågor eller funderingar, tveka inte att kontakta oss. Observera att ansökningar måste skickas in i god tid före aktiviteten. Fler detaljer finns i ansökningsformuläret.
 <!-- Button with a link to the questionnaire -->
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdh0aJxxRBZdEBbk72K2Jdhi-msMSUSYS6jMdapw89waOMUrQ/viewform?usp=sf_link" class="btn btn-primary">Ansökningsformulär</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdh0aJxxRBZdEBbk72K2Jdhi-msMSUSYS6jMdapw89waOMUrQ/viewform?usp=sf_link" class="buttonMedlem" style="max-width: 250px;">Ansökningsformulär</a>
 
 ## Kontakt
 Vid frågor om finansiellt stöd, kontakta oss på [stod@ungvetenskapssport.se](mailto:stod@ungvetenskapssport.se).
