@@ -292,7 +292,7 @@ En ideell förening som erbjuder gratis mentorskap där studenter ideellt hjälp
 **Chalmers Coding Club**
 [chalmerscoding.club](https://chalmerscoding.club/)
 
-Chalmers Coding Club är en ideell förening på Chalmers. Verksamheten går huvudsakligen ut på att skapa tränings- och tävlingsmöjligheter samt mötesplatser för personer intresserade av tävlingsprogrammering. Länk till discordserver finns [här](https://discord.gg/PndPHgJpKm)
+Chalmers Coding Club är en ideell förening på Chalmers. Verksamheten går huvudsakligen ut på att skapa tränings- och tävlingsmöjligheter samt mötesplatser för personer intresserade av tävlingsprogrammering. Länk till discordserver finns [här](https://discord.com/invite/PtsMAyXHxj)
 
 **Code@LTH**
 [codeatlth.org](https://codeatlth.org/)
