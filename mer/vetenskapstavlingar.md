@@ -25,6 +25,8 @@ Här kan du hitta information om olika vetenskapstävlingar och hur uttagningspr
         </object>
         {% endif %}
         <br>
+        <br>
+        <br>
 </div>
 {% endif %}
 {% endfor %}
