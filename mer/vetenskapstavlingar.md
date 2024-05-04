@@ -24,7 +24,7 @@ Här kan du hitta information om olika vetenskapstävlingar och hur uttagningspr
             Your browser does not support SVG
         </object>
         {% endif %}
-        ---
+        <br>
 </div>
 {% endif %}
 {% endfor %}
