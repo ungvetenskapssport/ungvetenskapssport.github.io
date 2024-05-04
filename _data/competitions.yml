@@ -6,9 +6,11 @@
   organizer: Svenska matematiksällskapet
   target: Gymnasieelever (högstadieelever får också vara med)
   participants-qualifiers: ca 1000
-  participated-since:
+  participated-since: 1967
+  description:
   international-name: Internationella matematikolympiaden (IMO)
   flowchart: /imgs/vetenskapstavlingar/flowchart-matematik.svg
+
 
 - subject: Fysik
   name: Wallenbergs fysikpris
@@ -23,47 +25,104 @@
   description:
   flowchart: /imgs/vetenskapstavlingar/flowchart-fysik.svg
 
+
 - subject: Experimentell fysik
   name: IYPT
+  alt-name: experimentell fysik-VM
   url: http://www.iypt.se/sv/vad-ar-iypt-what-is-iypt/
   display-details: True
   organizer: IYPT Sweden
   target: Gymnasieelever
+  participants-qualifiers:
   international-name: International Young Physicists' Tournament (IYPT)
+  participated-since:
+  description:
   flowchart: /imgs/vetenskapstavlingar/flowchart-iypt.svg
 
 
 - subject: Programmering
   name: Programmeringsolympiaden
   url: https://www.progolymp.se/
-  display-details: False
+  display-details: True
+  organizer: Kodsport
+  target: Gymnasieelever (även högstadieelever)
+  participants-qualifiers: ca 500
+  international-name: International Olympiad in Informatics (IOI)
+  participated-since: 1990
+  description:
+  flowchart: /imgs/vetenskapstavlingar/flowchart-programmering.svg
+
 
 - subject: Kemi
   name: Kemiolympiaden
   url: https://kemisamfundet.se/kemi-i-skolan/kemiolympiaden/
-  display-details: False
+  display-details: True
+  organizer: Svenska kemisamfundet
+  target: Gymnasieelever
+  participants-qualifiers: ca 300
+  international-name: International Chemistry Olympiad (IChO)
+  participated-since: 1974
+  description:
+  flowchart: /imgs/vetenskapstavlingar/flowchart-kemi.svg
 
 - subject: Biologi
   name: Biologiolympiaden
   url: https://biologilararna.se/internationella-biologiolympiaden-ibo/
-  display-details: False
+  display-details: True
+  organizer: Biologilärarnas förening
+  target: Gymnasieelever
+  participants-qualifiers: ca 200
+  international-name: International Biology Olympiad (IBO)
+  participated-since: 1992
+  description:
+  flowchart: /imgs/vetenskapstavlingar/flowchart-biologi.svg
 
 - subject: Lingvistik
   name: Lingolympiaden
   url: http://www.lingolympiad.org/
-  display-details: False
+  display-details: True
+  organizer: Lingolympiaden
+  target: Gymnasieelever (högstadieelever får också vara med)
+  participants-qualifiers: ca 250
+  international-name: International Linguistics Olympiad (IOL)
+  participated-since: 2007
+  description:
+  flowchart: /imgs/vetenskapstavlingar/flowchart-lingvistik.svg
 
-- subject: Datasäkerhet
-  name: Säkerhets-SM
-  url: https://sakerhetssm.se/
-  display-details: False
+- subject: Cybersäkerhet
+  name: Swedish National Hacking Team
+  alt-name: [Säkerhets-SM](https://sakerhetssm.se) + ECSC-uttagning
+  url: https://snht.se/
+  display-details: True
+  organizer: Kodsport
+  target: Max 25 år (SSM är för gymnasie- och högstadieelever)
+  participants-qualifiers: ca 300
+  international-name: European Cybersecurity Challenge (ECSC)
+  participated-since: 2022
+  description:
+  flowchart: /imgs/vetenskapstavlingar/flowchart-ecsc.svg
+
 
 - subject: Astronomi
   name: Astronomiolympiaden
   url: https://www.astronomiskungdom.se/astronomiolympiaden/
-  display-details: False
+  display-details: True
+  organizer: Astronomisk Ungdom
+  target: Gymnasieelever (högstadieelever får också vara med)
+  participants-qualifiers: ca 100
+  international-name: International Olympiad on Astronomy and Astrophysics (IOAA)
+  participated-since: 2021 (tisigare deltog Sverige i IAO)
+  description:
+  flowchart: /imgs/vetenskapstavlingar/flowchart-astronomi.svg
 
 - subject: Experimentell naturvetenskap
   name: European Olympiad of Experimental Science
   url: https://www.eoes.se/
-  display-details: False
+  display-details: True
+  organizer: EOES Sverige
+  target: årkurs 9 i grundskolan och årskurs i på gymnasiet
+  participant-qualiiers:
+  international-name: European Olympiad of Experimental Science (EOES)
+  participated-since: 2003 (tidigare hette tävlingen EUSO)
+  description:
+  flowchart: /imgs/vetenskapstavlingar/flowchart-eoes.svg
