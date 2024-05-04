@@ -1,7 +1,13 @@
 - subject: Matematik
   name: Skolornas Matematiktävling
+  alt-name: matematikolympiaden
   url: https://mattetavling.se/
-  display-details: False
+  display-details: True
+  organizer: Svenska matematiksällskapet
+  target: Gymnasieelever (högstadieelever får också vara med)
+  participants-qualifiers: ca 1000
+  international-name: Internationella matematikolympiaden (IMO)
+  flowchart: /imgs/vetenskapstavlingar/flowchart-matematik.svg
 
 - subject: Fysik
   name: Wallenbergs fysikpris
@@ -13,7 +19,7 @@
   participants-qualifiers: ca 500
   international-name: Internationella fysikolympiaden (IPhO)
   participated-since: 1976
-  description: 
+  description:
   flowchart: /imgs/vetenskapstavlingar/flowchart-fysik.svg
 
 - subject: Experimentell fysik
