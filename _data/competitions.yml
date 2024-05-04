@@ -147,7 +147,7 @@
 
 - subject: Cybersakerhet
   name: Swedish National Hacking Team
-  alt-name: [Säkerhets-SM](https://sakerhetssm.se) + ECSC-uttagning
+  alt-name: "[Säkerhets-SM](https://sakerhetssm.se) + ECSC-uttagning"
   url: https://snht.se/
   display-details: True
   organizer: Kodsport
