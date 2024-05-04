@@ -3,7 +3,7 @@ layout: page
 title: Vetenskapstävlingar
 id: vetenskapstavlingar
 ---
-*Denna sida är under konstruktion. <i class="fas fa-wrench"></i>* 
+*Denna sida är under konstruktion. <i class="fas fa-wrench"></i>*
 
 Här kan du hitta information om olika vetenskapstävlingar och hur uttagningsprocesserna för dem går till.
 
@@ -19,17 +19,19 @@ Här kan du hitta information om olika vetenskapstävlingar och hur uttagningspr
         {% if comp.participated-since %} <p><b>Deltagit sedan:</b> {{ comp.participated-since }}</p> {% endif %}
         {% if comp.description %} <p>{{ comp.description }}</p> {% endif %}
         {% if comp.url %} <p><a href="{{ comp.url }}">Läs mer om tävlingen här</a></p> {% endif %}
-        {% if comp.flowchart %} 
+        {% if comp.flowchart %}
         <object data="{{ comp.flowchart }}" type="image/svg+xml" width="90%" height="90%">
             Your browser does not support SVG
         </object>
         {% endif %}
+        ---
 </div>
 {% endif %}
 {% endfor %}
 
 
-<!-- 
+
+<!--
 ## Fysikolympiaden (Wallenbergs fysikpris)
 **Tävlingens namn:** Fysikolympiaden
 
