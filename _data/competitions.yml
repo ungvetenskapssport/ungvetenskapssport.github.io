@@ -145,9 +145,9 @@
   flowchart: /imgs/vetenskapstavlingar/flowchart-eoes.svg
 
 
-- subject: Cybersakerhet
+- subject: Cybersäkerhet
   name: Swedish National Hacking Team
-  alt-name: "[Säkerhets-SM](https://sakerhetssm.se) + ECSC-uttagning"
+  alt-name: Säkerhets-SM + ECSC-uttagning
   url: https://snht.se/
   display-details: True
   organizer: Kodsport
