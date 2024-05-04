@@ -6,6 +6,7 @@
   organizer: Svenska matematiksällskapet
   target: Gymnasieelever (högstadieelever får också vara med)
   participants-qualifiers: ca 1000
+  participated-since:
   international-name: Internationella matematikolympiaden (IMO)
   flowchart: /imgs/vetenskapstavlingar/flowchart-matematik.svg
 
@@ -25,7 +26,12 @@
 - subject: Experimentell fysik
   name: IYPT
   url: http://www.iypt.se/sv/vad-ar-iypt-what-is-iypt/
-  display-details: False
+  display-details: True
+  organizer: IYPT Sweden
+  target: Gymnasieelever
+  international-name: International Young Physicists' Tournament (IYPT)
+  flowchart: /imgs/vetenskapstavlingar/flowchart-iypt.svg
+
 
 - subject: Programmering
   name: Programmeringsolympiaden
