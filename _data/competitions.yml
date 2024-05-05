@@ -166,8 +166,8 @@
   display-details: True
   organizer: Unga Forskare
   target: Gymnasieelever
-  participant-qualifiers: ca 700
+  participants-qualifiers: ca 700
   international-name: Flera internationella tävlingar! Bland annat ISEF, EUCYS, SJWP etc.
-  participated since: Olika årtal för olika tävlingar. Utställningen har ägt rum sedan 1963
+  participated-since: Olika årtal för olika tävlingar. Utställningen har ägt rum sedan 1963
   description:
   flowchart: /imgs/vetenskapstavlingar/flowchart-uuf.svg
