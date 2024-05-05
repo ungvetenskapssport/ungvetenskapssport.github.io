@@ -3,7 +3,6 @@ layout: page
 title: Vetenskapstävlingar
 id: vetenskapstavlingar
 ---
-*Denna sida är under konstruktion. <i class="fas fa-wrench"></i>*
 
 Här kan du hitta information om olika vetenskapstävlingar och hur uttagningsprocesserna för dem går till.
 
