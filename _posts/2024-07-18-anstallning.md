@@ -2,7 +2,7 @@
 # meta
 layout: special_event_layout
 id: lediga-jobb
-header-img: ../imgs/anstallning_header.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
+header-img: ../imgs/anstallning_header.jpg # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 permalink: /lediga-jobb/    # link to be used to access page
 # content
 title: Bli UVS första anställda!    # used on image
@@ -28,5 +28,5 @@ Har du frågor om rollen? Kontakta Julia Mårtensson, förbundsordförande:
 eller +4673-042 21 60.
 
 Läs mer om Ung Vetenskapssport på
-[ungvetenskapssport.se](https://ungvetenskapssport.se)
+[ungvetenskapssport.se](https://ungvetenskapssport.se).
 *Tjänsten finansieras med generöst stöd från STEM Talent Fund.*
