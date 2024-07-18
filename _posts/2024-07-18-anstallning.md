@@ -2,15 +2,16 @@
 # meta
 layout: special_event_layout
 id: lediga-jobb
-header-img: ../imgs/anstallning_header.jpg # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
+header-img: ../imgs/anstallning_header.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 permalink: /lediga-jobb/    # link to be used to access page
 # content
-
-<div text-align: center; align-items: center;>
-    title: Bli UVS första anställda!    # used on image
-</div>
+title: Bli UVS första anställda!    # used on image
 title-size: 4.8vw,65px       # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
 title-color: black    # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
+subtitle: Jobba hos oss och gör skillnad för vetenskapssverige!
+subtitle-size: 2.2vw, 26px   # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
+subtitle-color: black # color of subtitle
+
 ---
 
 ## Ung Vetenskapssports första anställning
