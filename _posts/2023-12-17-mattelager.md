@@ -26,7 +26,7 @@ Deltagarna kommer att delas in i flera nivåanpassade grupper, så att alla elev
 
 ## Anmälan
 
-Anmälan är nu stängd för båda upplagorna. Reservlistan är öppen för Stockholmslägret.
+Anmälan är nu stängd för båda upplagorna.
 
 ## Kostnad
 
