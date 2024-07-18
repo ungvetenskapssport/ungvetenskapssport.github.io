@@ -7,15 +7,12 @@ permalink: /mattelager/    # link to be used to access page
 # content
 title: UVS Matematikläger    # used on image
 title-size: 4.8vw,65px       # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
-title-color: antiquewhite    # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color 
+title-color: antiquewhite    # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 subtitle: Ett nationellt helgläger i matematik och problemlösning för intresserade gymnasieungdomar!
 subtitle-size: 2.2vw, 26px   # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
 subtitle-color: antiquewhite # color of subtitle. '#000000' is black, '#ffffff' is white (hex also work)
 ---
 *Här finns lägrets [inbjudan](/assets/event_invites/20231217_inbjudan_mattelager.pdf) samt en [poster](/imgs/mattelager/mattelager_poster.png) som du gärna får skriva ut och sätta upp på skolan!*
-
-*Lund 22-25/2*  (platser kvar)\\
-*Stockholm 18-21/4*  (reservlistan öppen)
 
 ## Om lägret
 
@@ -29,7 +26,7 @@ Deltagarna kommer att delas in i flera nivåanpassade grupper, så att alla elev
 
 ## Anmälan
 
-Anmälan är nu stängd för båda upplagorna. Reservlistan är öppen för Stockholmslägret. 
+Anmälan är nu stängd för båda upplagorna. Reservlistan är öppen för Stockholmslägret.
 
 ## Kostnad
 
@@ -40,7 +37,7 @@ Deltagaravgiften för årets matematikläger är 1250 kr. I deltagaravgiften ing
 ## Tider och schema
 
 **Lund**: 2024-02-22 – 2024-02-25\\
-**Stockholm**: 2024-04-18 – 2024-04-21 
+**Stockholm**: 2024-04-18 – 2024-04-21
 
 I schemat nedan ser ni den ungefärliga strukturen på lägret. Det varar från torsdagen till söndagen, med föreläsningar och kvällsaktiviteter samt en liten tävling (i formen av en UVS [mattebattle](../mattebattle/mattebattle_kort)) på slutet. Schemat nedan är preliminärt och kan komma att ändras.
 
@@ -50,13 +47,13 @@ I schemat nedan ser ni den ungefärliga strukturen på lägret. Det varar från 
 
 ## Arrangörsgrupp
 
-2024 års arrangörsgrupp består av Daniel Nordström, Dennis Cejvan, Harry Zhang, Jiachen Mi, John Enbäck, Kevin Haagensen Strömberg, Klara Bragesjö Björkén, Rickard Mårtensson och Sebastian Westerlund. 
+2024 års arrangörsgrupp består av Daniel Nordström, Dennis Cejvan, Harry Zhang, Jiachen Mi, John Enbäck, Kevin Haagensen Strömberg, Klara Bragesjö Björkén, Rickard Mårtensson och Sebastian Westerlund.
 
 ## Kontakt
 
 Vid frågor kontakta oss på [mejl](mailto:mattelager@ungvetenskapssport.se).
 
-<!-- 
+<!--
 
 ## Anmälan 2023
 Fysik- och astronomiläger 2023 har sett 140 deltagande gymnasieelever från hela Sverige. Nya upplagor kommer under 2024!
@@ -65,7 +62,7 @@ Mer information finns i [inbjudan.](/imgs/fa-lager/FA_läger_2023_inbjudan.pdf)
 En poster som du gärna får skriva ut och sätta upp på skolan hittar du [här!](/imgs/fa-lager/fysikläger-poster23.png)
 
 
-Anmälan till Fysik- och astronomiläger 2023 stänger den ~~*23 augusti 2023*~~ förlängt till *1 oktober* (Göteborg) eller så fort alla platser är fyllda. Anmälan görs genom att fylla i [detta formulär](https://forms.gle/1FSMV1jQnHD5ypkbA). 
+Anmälan till Fysik- och astronomiläger 2023 stänger den ~~*23 augusti 2023*~~ förlängt till *1 oktober* (Göteborg) eller så fort alla platser är fyllda. Anmälan görs genom att fylla i [detta formulär](https://forms.gle/1FSMV1jQnHD5ypkbA).
 
 *Uppsala den 28/9-1/10*  (genomfört)
 
@@ -101,7 +98,7 @@ Lägret arrangeras av ideellt engagerade inom UVS Fysiker och UVS Astronomer, oc
 Lägret arrangeras helt och hållet ideellt av engagerade ungdomar. För att kunna hålla nere deltagaravgiften och låta så många som möjligt delta på våra läger är vi beroende av sponsorer och samarbetspartners. Vi är väldigt tacksamma för allt stöd vi får. Om du eller ditt företag är intresserade av att sponsra eller samarbeta med oss, kontakta oss gärna på [fa-lager@ungvetenskapssport.se](mailto:fa-lager+spons@ungvetenskapssport.se)
 
 Ett stort tack till våra sponsorer och samarbetspartners:
-    
+
 [<img src="/imgs/fa-lager/sponsors/tage-swahn.png" style="width: 100%; position: relative; left: 0px; max-width: 400px;">]()
 [<img src="/imgs/fa-lager/sponsors/sfs.png" style="width: 100%; position: relative; left: 0px; max-width: 350px;">](https://www.fysikersamfundet.se/)
 [<img src="/imgs/fa-lager/sponsors/beijerstiftelsen.png" style="width: 100%; position: relative; left: 0px; max-width: 350px;">](https://beijerstiftelsen.se/)
