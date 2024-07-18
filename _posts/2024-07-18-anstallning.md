@@ -5,7 +5,10 @@ id: lediga-jobb
 header-img: ../imgs/anstallning_header.jpg # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 permalink: /lediga-jobb/    # link to be used to access page
 # content
-title: Bli UVS första anställda!    # used on image
+
+<div text-align: center; align-items: center;>
+    title: Bli UVS första anställda!    # used on image
+</div>
 title-size: 4.8vw,65px       # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
 title-color: black    # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 ---
