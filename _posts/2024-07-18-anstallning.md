@@ -7,10 +7,7 @@ permalink: /lediga-jobb/    # link to be used to access page
 # content
 title: Bli UVS första anställda!    # used on image
 title-size: 4.8vw,65px       # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
-title-color: antiquewhite    # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
-subtitle: Jobba hos oss och gör skillnad för vetenskapssverige!
-subtitle-size: 2.2vw, 26px   # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
-subtitle-color: antiquewhite # color of subtitle
+title-color: black    # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 ---
 
 ## Ung Vetenskapssports första anställning
@@ -18,7 +15,8 @@ Ung Vetenskapssport har växt i rekordfart och vi söker därför nu en engagera
 verksamhetsutvecklare som vill bidra till förbundets tillväxt och utveckling. Jobbet
 är en heltidstjänst och mer information om Ung Vetenskapssport, vad rollen innebär,
 ansvarsområden och annan information finns
-**[HÄR](/assets/anstallning-verksamhetsutvecklare.pdf)**
+**[HÄR](/assets/anstallning-verksamhetsutvecklare.pdf)**. Ta chansen och få ett
+meriterande jobb som samtidigt gör skillnad för vetenskapssverige!
 
 ***Intervjuer och rekrytering sker löpande.*** Skicka in ansökan med CV och personligt brev till
 [jobba@ungvetenskapssport.se](mailto:jobba@ungvetenskapssport.se)
