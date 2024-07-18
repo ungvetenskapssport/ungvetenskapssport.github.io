@@ -18,9 +18,9 @@ Ung Vetenskapssport har växt i rekordfart och vi söker därför nu en engagera
 verksamhetsutvecklare som vill bidra till förbundets tillväxt och utveckling. Jobbet
 är en heltidstjänst och mer information om Ung Vetenskapssport, vad rollen innebär,
 ansvarsområden och annan information finns
-[HÄR](/assets/anstallning-verksamhetsutvecklare.pdf)
+**[HÄR](/assets/anstallning-verksamhetsutvecklare.pdf)**
 
-Intervjuer och rekrytering sker löpande. Skicka in ansökan med CV och personligt brev till
+***Intervjuer och rekrytering sker löpande.*** Skicka in ansökan med CV och personligt brev till
 [jobba@ungvetenskapssport.se](mailto:jobba@ungvetenskapssport.se)
 
 Har du frågor om rollen? Kontakta Julia Mårtensson, förbundsordförande:
