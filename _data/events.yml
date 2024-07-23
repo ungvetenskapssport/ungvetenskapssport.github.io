@@ -1,5 +1,25 @@
-- name: "Mattetävlingen Höjdpunkten 2024"
+- name: "Fysik- och astronomiläger 2024"
   upcoming: true
+  inbjudan: "https://ungvetenskapssport.se/fa-lager/"
+  startdate: 2024-09-26
+  enddate: 2024-09-29
+  location: Uppsala
+  no_participants: 70
+  resultat_och_problem:
+  img: /imgs/fa-lager/icon-img-fa.png
+
+- name: "Fysik- och astronomiläger 2024"
+  upcoming: true
+  inbjudan: "https://ungvetenskapssport.se/fa-lager/"
+  startdate: 2024-11-07
+  enddate: 2024-11-10
+  location: Göteborg
+  no_participants: 70
+  resultat_och_problem:
+  img: /imgs/fa-lager/icon-img-fa.png
+
+- name: "Mattetävlingen Höjdpunkten 2024"
+  upcoming: false
   inbjudan: "https://ungvetenskapssport.se/assets/event_invites/20240316_inbjudan_hojdpunkten_2024.pdf"
   startdate: 2024-05-08
   enddate: 2024-05-10
@@ -9,7 +29,7 @@
   img: /imgs/hojdpunkten/icon-img-hojdpunkten.png
 
 - name: "Biologiläger"
-  upcoming: true
+  upcoming: false
   inbjudan: ../biolager/
   startdate: 2024-04-26
   enddate: 2024-04-28
@@ -26,7 +46,7 @@
   img: /imgs/other-eventicons/icon-img-matematiklager.png
 
 - name: "Matematikläger"
-  upcoming: true
+  upcoming: false
   inbjudan: ../mattelager/
   startdate: 2024-04-18
   enddate: 2024-04-21
