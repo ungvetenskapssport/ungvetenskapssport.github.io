@@ -290,9 +290,9 @@ grundskoleelever.
 En ideell förening som erbjuder gratis mentorskap där studenter ideellt hjälper andra att lära sig matematik. Vårt syfte är att inspirera till ett ökat intresse för samt öka kunskaperna i matematik och matematiskt tänkande.
 
 **Chalmers Coding Club**
-[codingclub.chs.chalmers.se](https://codingclub.chs.chalmers.se/)
+[chalmerscoding.club](https://chalmerscoding.club/)
 
-Chalmers Coding Club är en ideell förening på Chalmers. Verksamheten går huvudsakligen ut på att skapa tränings- och tävlingsmöjligheter samt mötesplatser för personer intresserade av tävlingsprogrammering. Länk till discordserver finns [här](https://discord.gg/PndPHgJpKm)
+Chalmers Coding Club är en ideell förening på Chalmers. Verksamheten går huvudsakligen ut på att skapa tränings- och tävlingsmöjligheter samt mötesplatser för personer intresserade av tävlingsprogrammering. Länk till discordserver finns [här](https://discord.com/invite/PtsMAyXHxj)
 
 **Code@LTH**
 [codeatlth.org](https://codeatlth.org/)
