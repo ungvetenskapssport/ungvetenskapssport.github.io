@@ -49,7 +49,7 @@ Lycka till önskar arrangörsgruppen!
 
     <p>Öppen tävling: {% if event.open_problem_sv %} <a href="{{ event.open_problem_sv }}" >Svenska</a>{% endif %} {% if event.open_problem_en %}<a href="{{ event.open_problem_en }}" >English</a>{% endif %} {% if event.open_losningar %}<a href="{{ event.open_losningar }}" >Solutions</a>{% endif %} {% if event.open_resultat %}<a href="{{ event.open_resultat }}" >Resultat</a>{% endif %} </p>
 
-    <p> {% if event.sources %} <a href="{{ event.sources }}" >Sources</a>{% endif %} and proposers of problems </p>
+    <p> {% if event.sources %} <a href="{{ event.sources }}" >Sources</a> and proposers of problems {% endif %}</p>
 
 </li>
 {% endif %}{% endfor %}
