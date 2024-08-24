@@ -10,10 +10,12 @@
 - name: Svenska fysikersamfundet
   img: /imgs/sponsors/sfs.png
   url: https://www.fysikersamfundet.se/
+  fa_lager: True
 
 - name: Tage Swahns Stiftelse
   img: /imgs/sponsors/tage-swahn.png
   url: 
+  fa_lager: True
 
 - name: European Space Agency
   img: /imgs/sponsors/ESA.png
@@ -22,14 +24,17 @@
 - name: Uppsala universitet
   img: /imgs/sponsors/uu.png
   url: https://www.uu.se/
+  fa_lager: True
 
 - name: Göteborgs universitet
   img: /imgs/sponsors/gu.png
   url: https://www.gu.se/
+  fa_lager: True
 
 - name: Chalmers tekniska högskola
   img: /imgs/sponsors/chalmers.png
   url: https://www.chalmers.se/
+  fa_lager: True
 
 - name: Skolverket
   img: /imgs/sponsors/skolverket.png
@@ -46,3 +51,9 @@
 - name: GleSYS
   img: /imgs/sponsors/glesys.png
   url: https://glesys.se/
+
+- name: Kungliga och Hvitfeldtska stiftelsen
+  img: /imgs/sponsors/kungl_hvitfeldtska.png
+  url: https://wp.hvitfeldtskastiftelsen.se/
+  fa_lager: True
+  

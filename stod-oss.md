@@ -32,7 +32,7 @@ their image in a grid with name as alttext and link to their page onklick. Shado
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
         <div class="sponsor">
             <a href="{{ sponsor.url }}" target="_blank">
-                <img src="{{ sponsor.img }}" alt="{{ sponsor.name }}" class="img-responsive" style="width: 100%; position: relative; left: 0px; max-width: 200px;">
+                <img src="{{ sponsor.img }}" alt="{{ sponsor.name }}" class="img-responsive" style="height: 100%; position: relative; left: 0px; max-height: 80px;">
             </a>
         </div>
     </div>
