@@ -18,9 +18,12 @@ subtitle-color: antiquewhite            # color of subtitle
 ## Anmälan 2024
 Varmt välkomna till vårt programmeringsläger! Den 31 oktober till 3 november äger Kodsports programmeringsläger för tjejer och ickebinära rum! Är du nyfiken på att lära dig mer om programmering och identifierar dig som tjej eller ickebinär? Tveka då inte att anmäla dig! Mer information finns i [inbjudan](/imgs/proglager/proglager24_info.pdf). En poster som ni gärna får skriva ut och sätta upp på skolan hittar du [här!](/imgs/proglager/proglager24_poster.png)
 
+<div class="buttonInfo" style="max-width: 200px;" onclick="redirectToLink('https://forms.gle/qKp6fFFyVSkjLhhb9')">Anmälan</div>
+<script src="/scripts/redirectOnClick.js"></script>
+
 Deltagaravgiften för lägret är 700 kr och där ingår mat, boende och samtliga resor under programmets gång. Deltagare ansvarar själva för resa till och från Göteborg C. *Tips: gymnasieskolor kan ofta sponsra deltagaravgiften, så hör med din skola. I annat fall är det möjligt att söka* [finansiellt stöd](https://forms.gle/VDPqSbknKQz2ukNt5) *från Ung Vetenskapssport*.
 
-Anmälan till Programmeringsläger för tjejer och ickebinära stänger den *22 september 2024* eller när alla platser är fyllda. Anmälan görs genom att fylla i [detta formulär](https://forms.gle/43xs8QGNCfGKKxhKA).
+Anmälan till Programmeringsläger för tjejer och ickebinära stänger den *27 september 2024* eller när alla platser är fyllda. Anmälan görs genom att fylla i [detta formulär](https://forms.gle/43xs8QGNCfGKKxhKA).
 
 Vid frågor kontakta
 [proglager@ungvetenskapssport.se](mailto:proglager@ungvetenskapssport.se)
