@@ -5,7 +5,7 @@ id: unilager
 header-img: ../imgs/mattelager/unimattelager2024_banner.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 permalink: /unimattelager/    # link to be used to access page
 # content
-title: UVS Matematikläger    # used on image
+title: Matematikläger för universitetsstudenter!    # used on image
 title-size: 4.8vw,65px       # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
 title-color:  '#ffffff00'   # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 subtitle: Ett nationellt helgläger i matematik och problemlösning för intresserade gymnasieungdomar!
