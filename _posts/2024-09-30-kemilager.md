@@ -17,7 +17,7 @@ subtitle-color: '#ffffff00'
 
 Välkommen på kemiläger! Den 1-3 november kommer det att ske ett kemiläger i Göteborg. Har du tankar på att tävla i Kemiolympiaden? Eller är du en kemi intresserad gymnasieelev? Då borde du anmäla dig till Ung Vetenskapssport kemiläger! 
 
-Anmälningsformuläret öppnar måndagen den 7 oktober. Sista anmälningsdatumet är 13 oktober eller när alla platser tar slut. När anmälningen öppnar kommer du finna en länk här: (här kommer det en länk)
+Anmälningsformuläret öppnar klockan 12 måndagen den 7 oktober. Sista anmälningsdatumet är 13 oktober eller när alla platser tar slut. Anmälningen sker via detta [formulär](https://docs.google.com/forms/d/e/1FAIpQLScPTgD51suOtr0uhE2lLMZc3EdPcK1G7n580CXC1V2QL663rQ/viewform?usp=sf_link). 
 
 Det kommer att finnas en deltagaravgift på 1 400 kr (detta täcker bland annat mat, boende och eventuella resor inom lägret). 
 
