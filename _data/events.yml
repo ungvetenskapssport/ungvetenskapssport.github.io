@@ -1,3 +1,21 @@
+- name: "Universitetsmatteläger 2024"
+  upcoming: true
+  inbjudan: "https://ungvetenskapssport.se/unimattelager/"
+  startdate: 2024-11-14
+  enddate: 2024-11-17
+  location: Uppsala
+  no_participants: 30
+  img: /imgs/other-eventicons/icon-img-matematiklager.png
+
+- name: "Kemiläger 2024"
+  upcoming: true
+  inbjudan: "https://ungvetenskapssport.se/kemilager/"
+  startdate: 2024-11-01
+  enddate: 2024-11-03
+  location: Göteborg
+  no_participants: 30
+  img: \imgs\kemilager\icon-img-kemilager.png
+
 - name: "Programmeringsläger för tjejer 2024"
   upcoming: true
   inbjudan: "https://ungvetenskapssport.se/proglager/"
@@ -5,7 +23,6 @@
   enddate: 2024-11-03
   location: Göteborg
   no_participants: 70
-  resultat_och_problem:
   img: \imgs\proglager\icon-img-proglager.png
 
 - name: "Fysik- och astronomiläger 2024"
@@ -15,7 +32,6 @@
   enddate: 2024-09-29
   location: Uppsala
   no_participants: 70
-  resultat_och_problem:
   img: /imgs/fa-lager/icon-img-fa.png
 
 - name: "Fysik- och astronomiläger 2024"
@@ -25,7 +41,6 @@
   enddate: 2024-11-10
   location: Göteborg
   no_participants: 70
-  resultat_och_problem:
   img: /imgs/fa-lager/icon-img-fa.png
 
 - name: "Mattetävlingen Höjdpunkten 2024"
