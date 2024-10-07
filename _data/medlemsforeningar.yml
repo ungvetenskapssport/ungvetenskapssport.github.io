@@ -1,15 +1,26 @@
 # Members
 
-- name: UVS Ingenjörer
-  description: UVS Ingenjörer samlar teknikintresserade unga, anordnar läger inom programmering och föreläsningar. Föreningen verkar även för robotikintresserade och tillhörande tävlingsverksamhet. Engagera dig!
-  form: https://ebas.ungvetenskapssport.se/blimedlem/uvsingenjorer
+- name: UVS Fysiker
+  description: UVS Fysiker samlar fysikintresserade unga, anordnar årliga fysikläger och träningar inför den Internationella fysikolympiaden (IPhO) med tillhörande kval (Wallenbergs fysikpris).
+  form: https://ebas.ungvetenskapssport.se/blimedlem/uvsfysiker
   statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
   current: true
-  img: /imgs/medlemsforeningar/uvs-ingenjörer.png
-  sampleproblem: /affisch/teknik
-  sampleproblem_poster: /affisch/pdfs/uvs-poster-teknik.pdf
-  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsingenjorer
-  email: uvs-ingenjorer@ungvetenskapssport.se
+  img: /imgs/medlemsforeningar/uvs-fysiker.png
+  sampleproblem: /affisch/fysik
+  sampleproblem_poster: /affisch/pdfs/uvs-poster-fysik.pdf
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsfysiker
+  email: uvs-fysiker@ungvetenskapssport.se
+
+- name: UVS Kemister
+  description: UVS Kemister samlar kemiintresserade unga, anordnar kemiläger och träningar inför den Internationella kemiolympiaden (IChO) med tillhörande kval (Kemiolympiaden).
+  form: https://ebas.ungvetenskapssport.se/blimedlem/uvskemister
+  statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
+  current: true
+  img: /imgs/medlemsforeningar/uvs-kemister.png
+  sampleproblem: /affisch/kemi
+  sampleproblem_poster: /affisch/pdfs/uvs-poster-kemi.pdf
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvskemister
+  email: uvs-kemister@ungvetenskapssport.se
 
 - name: UVS Matematiker
   description: UVS Matematiker samlar matematikintresserade unga, anordnar årliga matematikläger, tävlingar, och träningar inför den Internationella matematikolympiaden (IMO) med tillhörande kval (Skolornas matematiktävling/SMT).
@@ -22,17 +33,6 @@
   info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsmatematiker
   email: uvs-matematiker@ungvetenskapssport.se
 
-- name: UVS Fysiker
-  description: UVS Fysiker samlar fysikintresserade unga, anordnar årliga fysikläger och träningar inför den Internationella fysikolympiaden (IPhO) med tillhörande kval (Wallenbergs fysikpris).
-  form: https://ebas.ungvetenskapssport.se/blimedlem/uvsfysiker
-  statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
-  current: true
-  img: /imgs/medlemsforeningar/uvs-fysiker.png
-  sampleproblem: /affisch/fysik
-  sampleproblem_poster: /affisch/pdfs/uvs-poster-fysik.pdf
-  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsfysiker
-  email: uvs-fysiker@ungvetenskapssport.se
-
 - name: UVS Biologer
   description: UVS Biologer samlar biologiintresserade unga, anordnar träningar inför den Internationella biologiolympiaden (IBO) med tillhörande kval (Biologiolympiaden). Engagera dig!
   form: https://ebas.ungvetenskapssport.se/blimedlem/uvsbiologer
@@ -43,28 +43,6 @@
   sampleproblem_poster: /affisch/pdfs/uvs-poster-biologi.pdf
   info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsbiologer
   email: uvs-biologer@ungvetenskapssport.se
-  
-- name: UVS Kemister
-  description: UVS Kemister samlar kemiintresserade unga, anordnar kemiläger och träningar inför den Internationella kemiolympiaden (IChO) med tillhörande kval (Kemiolympiaden).
-  form: https://ebas.ungvetenskapssport.se/blimedlem/uvskemister
-  statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
-  current: true
-  img: /imgs/medlemsforeningar/uvs-kemister.png
-  sampleproblem: /affisch/kemi
-  sampleproblem_poster: /affisch/pdfs/uvs-poster-kemi.pdf
-  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvskemister
-  email: uvs-kemister@ungvetenskapssport.se
-
-- name: UVS Astronomer
-  description: UVS Astronomer samlar astronomiintresserade unga, anordnar årliga astronomiläger och träningar inför den Internationella olympiaden i astronomi och astrofysik (IOAA) med tillhörande kval (astronomiolympiaden).
-  form: https://ebas.ungvetenskapssport.se/blimedlem/uvsastronomer
-  statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
-  current: true
-  img: /imgs/medlemsforeningar/uvs-astronomer.png
-  sampleproblem: /affisch/astronomi
-  sampleproblem_poster: /affisch/pdfs/uvs-poster-astronomi.pdf
-  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsastronomer
-  email: uvs-astronomer@ungvetenskapssport.se
 
 - name: Lingolympiaden
   description: Lingolympiaden är en förening som samlar lingvistikintresserade unga och anordnar varje år den svenska uttagningen med samma namn. Vinnarna utgör laget till den Internationella lingvistikolympiaden (IOL).
@@ -85,3 +63,25 @@
   sampleproblem_poster: /affisch/pdfs/uvs-poster-programmering.pdf
   info_ebas: https://kodsport.se 
   email: kontakt@kodsport.se
+
+- name: UVS Ingenjörer
+  description: UVS Ingenjörer samlar teknikintresserade unga, anordnar läger inom programmering och föreläsningar. Föreningen verkar även för robotikintresserade och tillhörande tävlingsverksamhet. Engagera dig!
+  form: https://ebas.ungvetenskapssport.se/blimedlem/uvsingenjorer
+  statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
+  current: true
+  img: /imgs/medlemsforeningar/uvs-ingenjörer.png
+  sampleproblem: /affisch/teknik
+  sampleproblem_poster: /affisch/pdfs/uvs-poster-teknik.pdf
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsingenjorer
+  email: uvs-ingenjorer@ungvetenskapssport.se
+  
+- name: UVS Astronomer
+  description: UVS Astronomer samlar astronomiintresserade unga, anordnar årliga astronomiläger och träningar inför den Internationella olympiaden i astronomi och astrofysik (IOAA) med tillhörande kval (astronomiolympiaden).
+  form: https://ebas.ungvetenskapssport.se/blimedlem/uvsastronomer
+  statues: https://drive.google.com/drive/folders/1L0YWanRmzOFRzzMZwfYtf9cwgUnZ0zU3?usp=sharing 
+  current: true
+  img: /imgs/medlemsforeningar/uvs-astronomer.png
+  sampleproblem: /affisch/astronomi
+  sampleproblem_poster: /affisch/pdfs/uvs-poster-astronomi.pdf
+  info_ebas: https://ebas.ungvetenskapssport.se/forening/uvsastronomer
+  email: uvs-astronomer@ungvetenskapssport.se
