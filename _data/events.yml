@@ -1,4 +1,4 @@
-- name: "Universitetsmatteläger 2024"
+- name: "Universitetsmatteläger"
   upcoming: true
   inbjudan: "https://ungvetenskapssport.se/unimattelager/"
   startdate: 2024-11-14
@@ -7,7 +7,7 @@
   no_participants: 30
   img: /imgs/other-eventicons/icon-img-matematiklager.png
 
-- name: "Kemiläger 2024"
+- name: "Kemiläger"
   upcoming: true
   inbjudan: "https://ungvetenskapssport.se/kemilager/"
   startdate: 2024-11-01
@@ -16,7 +16,7 @@
   no_participants: 30
   img: \imgs\kemilager\icon-img-kemilager.png
 
-- name: "Programmeringsläger för tjejer 2024"
+- name: "Programmeringsläger för tjejer"
   upcoming: true
   inbjudan: "https://ungvetenskapssport.se/proglager/"
   startdate: 2024-10-31
@@ -25,7 +25,7 @@
   no_participants: 70
   img: \imgs\proglager\icon-img-proglager.png
 
-- name: "Fysik- och astronomiläger 2024"
+- name: "Fysik- och astronomiläger"
   upcoming: false
   inbjudan: "https://ungvetenskapssport.se/fa-lager/"
   startdate: 2024-09-26
@@ -34,7 +34,7 @@
   no_participants: 70
   img: /imgs/fa-lager/icon-img-fa.png
 
-- name: "Fysik- och astronomiläger 2024"
+- name: "Fysik- och astronomiläger"
   upcoming: true
   inbjudan: "https://ungvetenskapssport.se/fa-lager/"
   startdate: 2024-11-07
