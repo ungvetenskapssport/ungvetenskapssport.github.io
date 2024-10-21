@@ -9,4 +9,4 @@ title: Mer
 - [Förbundets stadgar](/assets/Ung Vetenskapssport - Stadgar.pdf)
 - [Informationsmaterial](/mer/informationsmaterial)
 - [Mer information om vetenskapstävlingar](/mer/vetenskapstavlingar)
-- [Lediga jobb][/lediga-jobb]
+- [Lediga jobb](/lediga-jobb)
