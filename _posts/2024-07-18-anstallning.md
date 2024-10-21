@@ -5,7 +5,7 @@ id: lediga-jobb
 header-img: ../imgs/anstallning_header.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 permalink: /lediga-jobb/    # link to be used to access page
 # content
-title: Bli UVS första anställda!    # used on image
+title: Jobba med UVS!    # used on image
 title-size: 4.8vw,65px       # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
 title-color: black    # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 subtitle: Jobba hos oss och gör skillnad för vetenskapssverige!
@@ -15,19 +15,16 @@ subtitle-color: black # color of subtitle
 ---
 
 ## Ung Vetenskapssports första anställning
-Ung Vetenskapssport har växt i rekordfart och vi söker därför nu en engagerad
-verksamhetsutvecklare som vill bidra till förbundets tillväxt och utveckling. Jobbet
-är en heltidstjänst och mer information om Ung Vetenskapssport, vad rollen innebär,
-ansvarsområden och annan information finns
-**[HÄR](/assets/anstallning-verksamhetsutvecklare.pdf)**. Ta chansen och få ett
-meriterande jobb som samtidigt gör skillnad för vetenskapssverige!
+Ung Vetenskapssport har växt i rekordfart och vi söker därför nu ett antal engagerad
+verksamhetsutvecklare som vill bidra till förbundets tillväxt och utveckling. Rollerna är deltidstjänster och mer information om vad rollen innebär finns här:
+**[verksamhetsutvecklare_deltid.pdf](\assets\verksamhetsutvecklare deltid 202410.pdf)**. Ta chansen och få ett
+meriterande jobb som gör skillnad för vetenskapssverige!
 
-***Intervjuer och rekrytering sker löpande.*** Skicka in ansökan med CV och personligt brev till
+***Intervjuer och rekrytering sker löpande. Ansök senast den 3 november.*** Skicka in ansökan med simpelt CV och personligt brev till
 [jobba@ungvetenskapssport.se](mailto:jobba@ungvetenskapssport.se)
 
-Har du frågor om rollen? Kontakta Julia Mårtensson, förbundsordförande:
-[julia.martensson@ungvetenskapssport.se](mailto:julia.martensson@ungvetenskapssport.se)
-eller +4673-042 21 60.
+Har du frågor om rollen? Kontakta Benjamin Verbeek, vice förbundsordförande:
+[benjamin.verbeek@ungvetenskapssport.se](mailto:benjamin.verbeek@ungvetenskapssport.se)
 
 Läs mer om Ung Vetenskapssport på
 [ungvetenskapssport.se](https://ungvetenskapssport.se).
