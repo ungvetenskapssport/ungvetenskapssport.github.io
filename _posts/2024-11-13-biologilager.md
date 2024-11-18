@@ -20,7 +20,7 @@ subtitle-color: '#ffffff00'
 I programmet kommer vi bland annat att hålla på med detta: genmodifiering, paleobiologi, mikrobiologi, kvantbiologi och cellbiologi! Samt laborationer/workshops inom klimatvetenskap,  bioinformatik, artlära och artnyckning och studiebesök vid forskarlabb. Utöver detta verkar Biologilägret som en anknytningsplats där ungdomar från hela Sverige med ett stort biologi intresse kan finna en gemenskap som fortsätter långt efter lägrets slut! Förutom detta kommer lägret även bestå av kvällsaktiviteter, hotellboende med hotellfrukost och massa annat roligt!
 
 # Anmälan
-Anmälan öppnar klockan 12:00 den 1:a mars och stänger den 19:e mars. Deltagaruttagningen baseras på en motivationstext (900 karaktärer) som skickas in i formuläret för lägrets anmälan genom detta [formulär](https://docs.google.com/forms/d/e/1FAIpQLSfFwopO-cZuRxcedbV65SjV2QPVJaw07XlGS6O8ANu4TGPVTw/viewform?usp=sf_link). 
+Anmälan öppnar klockan 12:00 den 1:a mars och stänger den 19:e mars. Anmälan sker genom detta [formulär](https://docs.google.com/forms/d/e/1FAIpQLSfFwopO-cZuRxcedbV65SjV2QPVJaw07XlGS6O8ANu4TGPVTw/viewform?usp=sf_link) och principen först-till-kvarn gäller. 
 
 # Vilka arrangerar biologilägret 2025?
 Biologilägret anordnas volontärt av UVS Biologer som är en förening inom förbundet Ung Vetenskapssport (UVS). UVS är ett ideellt förbund med målet att skapa möjligheter för ungdomar som är intresserade av vetenskaplig problemlösning att utvidga sina vyer och möta andra engagerade ungdomar. Förbundet arbetar mot detta genom att arrangera mötesplatser för ungdomar och träningsläger inom olika vetenskapliga fält med det slutgiltiga målet att stimulera logiskt resonerande och vetenskapligt intresse i Sveriges framtida befolkning.
