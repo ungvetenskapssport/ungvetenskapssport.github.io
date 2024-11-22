@@ -1,3 +1,21 @@
+- name: "Matematikläger"
+  upcoming: true
+  inbjudan: ../mattelager/
+  startdate: 2025-02-13
+  enddate: 2025-02-16
+  location: Uppsala
+  no_participants: 70
+  img: /imgs/other-eventicons/icon-img-matematiklager.png
+
+- name: "Matematikläger"
+  upcoming: true
+  inbjudan: ../mattelager/
+  startdate: 2025-04-24
+  enddate: 2025-04-27
+  location: Lund
+  no_participants: 85
+  img: /imgs/other-eventicons/icon-img-matematiklager.png
+
 - name: "Universitetsmatteläger"
   upcoming: true
   inbjudan: "https://ungvetenskapssport.se/unimattelager/"
@@ -110,7 +128,6 @@
   enddate: 2023-11-12
   location: Göteborg
   no_participants: 70
-
 
 - name: "Lingvistikläger 2023"
   upcoming: false
