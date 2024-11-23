@@ -17,7 +17,7 @@ _Här finns lägrets [inbjudan](/assets/event_invites/20241123_inbjudan_mattelag
 
 ## Om lägret
 
-**Våren 2025 bjuder UVS in till två inspirerande matematikläger, där du får chansen att fördjupa dig i matematik samtidigt som du träffar nya vänner! Lägret arrangeras i Uppsala den 13–16 februari och i Lund den 24–27 april. Är du redo att anta utmaningen och utvecklas tillsammans med andra som delar ditt intresse för matematik?**
+**Våren 2025 bjuder UVS in till två inspirerande matematikläger, där du får chansen att fördjupa dig i matematik samtidigt som du träffar nya vänner! Lägren arrangeras i Uppsala den 13–16 februari och i Lund den 24–27 april. Är du redo att anta utmaningen och utvecklas tillsammans med andra som delar ditt intresse för matematik?**
 
 Matematiklägren är till för dig som har ett stort intresse för matematik och vill utmanas och utvecklas. De riktar sig främst till gymnasieelever, men även högstadieelever som har kommit upp till gymnasienivå är välkomna. Du behöver inte ha tävlat i matematik tidigare – det räcker att du är nyfiken och motiverad!
 
@@ -27,7 +27,7 @@ Lägret bjuder på inspirerande föreläsningar, kluriga problem, roliga matteut
 
 ## Anmälan
 
-Anmälan öppnar den 23 november 2024 och stänger den 12 januari 2025. Platserna är begränsade, så se till att anmäla dig i tid!
+Anmälan öppnar den 23 november 2024 och stänger den 12 januari 2025. Platserna är begränsade, så se till att anmäla dig i tid! Anmälningsformuläret finns [här](https://forms.gle/QFJGKJ6rLnYPZq9v5).
 
 ## Kostnad
 
