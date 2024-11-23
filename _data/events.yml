@@ -17,7 +17,7 @@
   img: /imgs/other-eventicons/icon-img-matematiklager.png
 
 - name: "Universitetsmatteläger"
-  upcoming: true
+  upcoming: false
   inbjudan: "https://ungvetenskapssport.se/unimattelager/"
   startdate: 2024-11-14
   enddate: 2024-11-17
@@ -26,7 +26,7 @@
   img: /imgs/other-eventicons/icon-img-matematiklager.png
 
 - name: "Kemiläger"
-  upcoming: true
+  upcoming: false
   inbjudan: "https://ungvetenskapssport.se/kemilager/"
   startdate: 2024-11-01
   enddate: 2024-11-03
@@ -35,7 +35,7 @@
   img: \imgs\kemilager\icon-img-kemilager.png
 
 - name: "Programmeringsläger för tjejer"
-  upcoming: true
+  upcoming: false
   inbjudan: "https://ungvetenskapssport.se/proglager/"
   startdate: 2024-10-31
   enddate: 2024-11-03
@@ -53,7 +53,7 @@
   img: /imgs/fa-lager/icon-img-fa.png
 
 - name: "Fysik- och astronomiläger"
-  upcoming: true
+  upcoming: false
   inbjudan: "https://ungvetenskapssport.se/fa-lager/"
   startdate: 2024-11-07
   enddate: 2024-11-10
