@@ -2,7 +2,7 @@
 # meta
 layout: special_event_layout
 id: mattelager
-header-img: ../imgs/mattelager/mattelager_banner.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
+header-img: /imgs/mattelager/mattelager_banner.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 # content
 title: UVS Matematikläger    # used on image
 title-size: 4.8vw,65px       # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
