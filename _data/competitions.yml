@@ -109,7 +109,7 @@
   alt-name: experimentell fysik-VM
   url: http://www.iypt.se/sv/vad-ar-iypt-what-is-iypt/
   display-details: True
-  organizer: IYPT Sweden
+  organizer: IYPTSweden
   target: Gymnasieelever
   participants-qualifiers:
   international-name: International Young Physicists' Tournament (IYPT)
@@ -157,6 +157,19 @@
   participated-since: 2022
   description:
   flowchart: /imgs/vetenskapstavlingar/flowchart-ecsc.svg
+
+
+- subject: Cybersäkerhet
+  name: Säkerhets-SM
+  alt-name: Säkerhets-SM
+  url: https://sakerhetssm.se/
+  display-details: True
+  organizer: Kodsport
+  target: Gymnasie- och högstadieelever
+  participants-qualifiers: ca 300
+  international-name: European Cybersecurity Challenge (ECSC)
+  participated-since: 2017
+  description:
 
 
 - subject: Forskning
