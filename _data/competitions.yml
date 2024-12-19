@@ -146,6 +146,19 @@
 
 
 - subject: Cybersäkerhet
+  name: Säkerhets-SM
+  alt-name: Säkerhets-SM
+  url: https://sakerhetssm.se/
+  display-details: True
+  organizer: Kodsport
+  target: Gymnasie- och högstadieelever
+  participants-qualifiers: ca 300
+  international-name: European Cybersecurity Challenge (ECSC)
+  participated-since: 2017
+  description:
+
+
+- subject: Cybersäkerhet
   name: Swedish National Hacking Team
   alt-name: Säkerhets-SM + ECSC-uttagning
   url: https://snht.se/
@@ -157,19 +170,6 @@
   participated-since: 2022
   description:
   flowchart: /imgs/vetenskapstavlingar/flowchart-ecsc.svg
-
-
-- subject: Cybersäkerhet
-  name: Säkerhets-SM
-  alt-name: Säkerhets-SM
-  url: https://sakerhetssm.se/
-  display-details: True
-  organizer: Kodsport
-  target: Gymnasie- och högstadieelever
-  participants-qualifiers: ca 300
-  international-name: European Cybersecurity Challenge (ECSC)
-  participated-since: 2017
-  description:
 
 
 - subject: Forskning
