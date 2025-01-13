@@ -25,6 +25,12 @@ Under lägret delas deltagarna in i nivåanpassade grupper så att alla får mö
 
 Lägret bjuder på inspirerande föreläsningar, kluriga problem, roliga matteutmaningar och många sociala aktiviteter. Förvänta dig en rolig och lärorik upplevelse!
 
+## Schema
+Schemat nedan är preliminärt och kan komma att ändras. \\
+Åker du på lägret är ett tips att prenumerera på kalendern så att den dyker upp på i era egna kalendrar! Om du aldrig gjort det tidigare finns en guide [här](https://support.google.com/calendar/answer/37100?hl=sv&co=GENIE.Platform%3DDesktop&oco=1). 
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_3f6b20714c9561a21a53194012d4dc4ec1ab57d1b48396159a710060a7228005%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Anmälan
 
 Anmälan öppnar den 23 november 2024 och stänger den 12 januari 2025. Platserna är begränsade, så se till att anmäla dig i tid! Anmälningsformuläret finns [här](https://forms.gle/QFJGKJ6rLnYPZq9v5).
@@ -44,6 +50,8 @@ Vi ser fram emot att träffa dig i Uppsala eller Lund!
 ## Kontakt
 
 Vid frågor kontakta oss på [mejl](mailto:mattelager@ungvetenskapssport.se).
+
+
 
 <!--
 
