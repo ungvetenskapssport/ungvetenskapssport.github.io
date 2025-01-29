@@ -87,6 +87,16 @@ Något många inte känner till är att det liksom fotboll finns internationella
 Ung Vetenskapssport har som långsiktigt mål att förbättra svensk skolutbildning genom införandet av mer problemlösning i undervisningen vilket stimulerar både intresset och det logiska tänkandet.
 
 ## Kalender
+
+<style>
+  @media (max-width: 768px) {
+    .calendar-iframe {
+      width: 100%;
+      height: 400px;
+    }
+  }
+</style>
+
 I denna kalender lägger vi in evenemang som vi organiserar, vilka dagar kvaltävlingarna i de olika vetenskapsolympiaderna för gymnasiet är och annat som vi tror kan vara av intresse för er. Om du använder Google kalender själv så går det bra att prenumerera på den!
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FStockholm&showTitle=1&mode=MONTH&hl=sv&showNav=1&showDate=1&showPrint=1&showTabs=1&showCalendars=1&showTz=1&src=Y19kYzAxOGRlODliNDFjMjIxNDE3MGM5N2NjM2M0NDU5ZTM5NzNjZTU4YThjYzk5ZjAwNWE2NjA4N2JhNWQxMWM5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe class="calendar-iframe" src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FStockholm&showTitle=1&mode=MONTH&hl=sv&showNav=1&showDate=1&showPrint=1&showTabs=1&showCalendars=1&showTz=1&src=Y19kYzAxOGRlODliNDFjMjIxNDE3MGM5N2NjM2M0NDU5ZTM5NzNjZTU4YThjYzk5ZjAwNWE2NjA4N2JhNWQxMWM5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
