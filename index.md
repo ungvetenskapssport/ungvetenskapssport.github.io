@@ -3,6 +3,40 @@ layout: page
 antal_medlemsforeningar: åtta
 ---
 
+<!--textbook style definition with syllable division of vetenskapssport-->
+
+<div className="max-w-3xl mx-auto">
+  <Card className="bg-white shadow-lg">
+    <CardContent className="p-8 font-times">
+      <div style="border: 2px solid black; padding: 10px;">
+        <h1 className="text-4xl font-bold text-[#403E43] mb-2">
+          ve·ten·skaps·sport
+        </h1>
+        
+        <div className="text-lg text-[#8A898C] mb-4">
+          /veːtənskapsspoːʈ/ <span className="italic font-bold text-black text-xl ml-4"><strong>subs.</strong></span>
+        </div>
+
+        <hr style="border: 1px solid black;"> 
+        <!-- Black horizontal line -->
+
+        <div className="space-y-6">
+          <section>
+            <p className="text-black leading-relaxed">
+                Vetenskaplig problemlösning med eller utan tävlingsmoment. Kan innefatta både individuella och lagbaserade utmaningar.
+            </p>
+          </section>
+        </div>
+      </div>
+    </CardContent>
+  </Card>
+</div>
+
+<!--Vetenskapssport, substantiv
+Betydelse: Vetenskaplig problemlösning med eller utan tävlingsmoment
+Exempel: "Läger för vetenskapssport lockar ungdomar från hela landet."-->
+<br>
+
 Ung Vetenskapssport (UVS) är en ideell förening vars syfte är att skapa mötesplatser och träningsmöjligheter för ungdomar intresserade av problemlösning.
 
 Ta del av vår verksamhet och stötta oss genom att bli medlem i förbundets [{{ page.antal_medlemsforeningar }} ämnesspecifika medlemsföreningar](./medlem)! Mer om våra evenemang finns [här](/events).
