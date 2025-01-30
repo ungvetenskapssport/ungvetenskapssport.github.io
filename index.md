@@ -23,7 +23,7 @@ antal_medlemsforeningar: åtta
         <div className="space-y-6">
           <section>
             <p className="text-black leading-relaxed">
-                Vetenskaplig problemlösning med eller utan tävlingsmoment. Kan innefatta både individuella och lagbaserade utmaningar.
+                Vetenskaplig problemlösning med eller utan tävlingsmoment. Innefattar både individuella och lagbaserade utmaningar.
             </p>
           </section>
         </div>
