@@ -1,15 +1,24 @@
 ---
-layout: page
+<!--layout: page-->
+layout: landing_page
+header-img: ../favcon_w_caps.svg # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 antal_medlemsforeningar: åtta
 ---
+<style>
+  @media (max-width: 768px) {
+    .calendar-iframe {
+      width: 100%;
+      height: 400px;
+    }
+</style>
 
 <!--textbook style definition with syllable division of vetenskapssport-->
 
-<div className="max-w-3xl mx-auto">
+<div className="max-w-2l mx-auto">
   <Card className="bg-white shadow-lg">
     <CardContent className="p-8 font-times">
       <div style="border: 2px solid black; padding: 10px;">
-        <h1 className="text-4xl font-bold text-[#403E43] mb-2">
+        <h1 className="text-2xl font-bold text-[#403E43] mb-2">
           ve·ten·skaps·sport
         </h1>
         
@@ -87,15 +96,6 @@ Något många inte känner till är att det liksom fotboll finns internationella
 Ung Vetenskapssport har som långsiktigt mål att förbättra svensk skolutbildning genom införandet av mer problemlösning i undervisningen vilket stimulerar både intresset och det logiska tänkandet.
 
 ## Kalender
-
-<style>
-  @media (max-width: 768px) {
-    .calendar-iframe {
-      width: 100%;
-      height: 400px;
-    }
-  }
-</style>
 
 I denna kalender lägger vi in evenemang som vi organiserar, vilka dagar kvaltävlingarna i de olika vetenskapsolympiaderna för gymnasiet är och annat som vi tror kan vara av intresse för er. Om du använder Google kalender själv så går det bra att prenumerera på den!
 
