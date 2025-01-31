@@ -46,7 +46,7 @@ Betydelse: Vetenskaplig problemlösning med eller utan tävlingsmoment
 Exempel: "Läger för vetenskapssport lockar ungdomar från hela landet."-->
 <br>
 
-Ung Vetenskapssport (UVS) är en ideell förening vars syfte är att skapa mötesplatser och träningsmöjligheter för ungdomar intresserade av problemlösning.
+Ung Vetenskapssport (UVS) är ett ideellt förbund vars syfte är att skapa mötesplatser och träningsmöjligheter för ungdomar intresserade av problemlösning.
 
 Ta del av vår verksamhet och stötta oss genom att bli medlem i förbundets [{{ page.antal_medlemsforeningar }} ämnesspecifika medlemsföreningar](./medlem)! Mer om våra evenemang finns [här](/events).
 
