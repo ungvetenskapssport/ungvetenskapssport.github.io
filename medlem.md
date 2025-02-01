@@ -66,6 +66,16 @@ id: medlem
     {% endif %}{% endfor %}
 </div>
 
+<div style="width: 100%; max-width: 800px; margin: 0 auto;">
+    <iframe 
+        src="https://clickable-file-magic.lovable.app/" 
+        width="100%" 
+        height="300px" 
+        style="border: none; overflow: hidden;"
+        title="Olympic Rings Interactive Component"
+    ></iframe>
+</div>
+
 ***Att bli medlem är helt gratis!*** UVS är ett förbund av medlemsföreningar. Som medlem i en medlemsförening blir du automatiskt också medlem i förbundet Ung Vetenskapssport. Förbundets viktigaste beståndsdel är dess medlemmar. Det är medlemmarna som är delaktiga i förbundets verksamhet, och det är för medlemmarna som förbundet finns. Fler medlemmar för föreningen är bara bra: vi får bidrag och fler personer får en möjlighet att ta del av vår verksamhet!
 
 Att bli medlem är helt gratis. Som medlem får du ta del av vår verksamhet, rösta på årsmöten och vi kommer även skicka utskick till dig om våra aktiviteter.

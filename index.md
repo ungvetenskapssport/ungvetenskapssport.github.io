@@ -19,7 +19,7 @@ antal_medlemsforeningar: åtta
     <CardContent className="p-8 font-times">
       <div style="border: 2px solid black; padding: 10px;">
         <h1 className="text-2xl font-bold text-[#403E43] mb-2">
-          ve·ten·skaps·sport
+          vet·en·skap·s·sport
         </h1>
         
         <div className="text-lg text-[#8A898C] mb-4">
