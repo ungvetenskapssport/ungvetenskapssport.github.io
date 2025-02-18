@@ -5,7 +5,7 @@ id: mattelager
 header-img: ../imgs/mattelager/banner_mattelager_2025.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
 permalink: /mattelager/ # link to be used to access page
 # content
-title: UVS Matematikläger # used on image
+title: Matematikläger # used on image
 title-size: 4.8vw,65px # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
 title-color: antiquewhite # color of title, see choice here: https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 subtitle: Ett nationellt helgläger i matematik och problemlösning för intresserade gymnasieungdomar!
@@ -17,7 +17,7 @@ _Här finns lägrets [inbjudan](/assets/event_invites/20241123_inbjudan_mattelag
 
 ## Om lägret
 
-**Våren 2025 bjuder UVS in till två inspirerande matematikläger, där du får chansen att fördjupa dig i matematik samtidigt som du träffar nya vänner! Lägren arrangeras i Uppsala den 13–16 februari och i Lund den 24–27 april. Är du redo att anta utmaningen och utvecklas tillsammans med andra som delar ditt intresse för matematik?**
+**Våren 2025 bjuder UVS matematiker in till två inspirerande matematikläger, där du får chansen att fördjupa dig i matematik samtidigt som du träffar nya vänner! Lägren arrangeras i Uppsala den 13–16 februari och i Lund den 24–27 april. Är du redo att anta utmaningen och utvecklas tillsammans med andra som delar ditt intresse för matematik?**
 
 Matematiklägren är till för dig som har ett stort intresse för matematik och vill utmanas och utvecklas. De riktar sig främst till gymnasieelever, men även högstadieelever som har kommit upp till gymnasienivå är välkomna. Du behöver inte ha tävlat i matematik tidigare – det räcker att du är nyfiken och motiverad!
 
