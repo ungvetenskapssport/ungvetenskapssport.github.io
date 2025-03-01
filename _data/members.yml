@@ -1,11 +1,86 @@
 # Members of the board
 
+# # # # # 2025 # # # # # # #
+
+- name: Klara Bragesjö Björkén
+  role: Ordförande
+  mail: klara.bjorken@ungvetenskapssport.se
+  current: true
+  img: /imgs/styrelsen/2024/klara_open.webp
+  img2: /imgs/styrelsen/2024/klara_closed.webp
+  year: 2025
+
+  name: Fredrik Niemelä
+  role: Vice ordförande
+  mail: fredrik.niemela@ungvetenskapssport.se
+  current: true
+  img: 
+  img2: 
+  year: 2025
+
+- name: Julia Mårtensson
+  role: Ledamot
+  mail: julia.martensson@ungvetenskapssport.se
+  current: true
+  img: /imgs/styrelsen/2024/julia_open.webp
+  img2: /imgs/styrelsen/2024/julia_closed.webp
+  year: 2025
+
+  name: Jiachen Mi
+  role: Kassör
+  mail: jiachen.mi@ungvetenskapssport.se
+  current: true
+  img: /imgs/styrelsen/2024/milly_open.webp
+  img2: /imgs/styrelsen/2024/milly_closed.webp
+  year: 2025
+
+- name: Daniel Nordström
+  role: Ledamot
+  mail: daniel.nordstrom@ungvetenskapssport.se
+  current: true
+  img: /imgs/styrelsen/2024/daniel_open.webp
+  img2: /imgs/styrelsen/2024/daniel_closed.webp
+  year: 2025
+
+- name: Ellinor Åhlander
+  role: Ledamot
+  mail: ellinor.ahlander@ungvetenskapssport.se
+  current: true
+  img: /imgs/styrelsen/2024/ellinor_open.webp
+  img2: /imgs/styrelsen/2024/ellinor_closed.webp
+  year: 2025
+
+- name: Emma Jotun
+  role: Ledamot
+  mail: emma.jotun@ungvetenskapssport.se
+  current: true
+  img: 
+  img2: 
+  year: 2025
+
+  name: Erik Hedin
+  role: Ledamot
+  mail: erik.hedin@ungvetenskapssport.se
+  current: true
+  img: 
+  img2: 
+  year: 2025
+
+  name: Daniel Ljung
+  role: Suppleant
+  mail: daniel.ljung@ungvetenskapssport.se
+  current: true
+  img: 
+  img2: 
+  year: 2025
+
+
 # # # # # 2024 # # # # # # #
 
 - name: Julia Mårtensson
   role: Ordförande
   mail: julia.martensson@ungvetenskapssport.se
-  current: true
+  current: false
   img: /imgs/styrelsen/2024/julia_open.webp
   img2: /imgs/styrelsen/2024/julia_closed.webp
   year: 2024
@@ -13,7 +88,7 @@
 - name: Benjamin Verbeek
   role: Vice ordförande
   mail: benjamin.verbeek@ungvetenskapssport.se
-  current: true
+  current: false
   img: /imgs/styrelsen/2024/benjamin_open.webp
   img2: /imgs/styrelsen/2024/benjamin_closed.webp
   year: 2024
@@ -22,7 +97,7 @@
 - name: Daniel Nordström
   role: Kassör
   mail: daniel.nordstrom@ungvetenskapssport.se
-  current: true
+  current: false
   img: /imgs/styrelsen/2024/daniel_open.webp
   img2: /imgs/styrelsen/2024/daniel_closed.webp
   year: 2024
@@ -30,7 +105,7 @@
 - name: Erik Bryland
   role: Ledamot
   mail: erik.bryland@ungvetenskapssport.se
-  current: true
+  current: false
   img: /imgs/styrelsen/2024/erik_open.webp
   img2: /imgs/styrelsen/2024/erik_closed.webp
   year: 2024
@@ -38,14 +113,14 @@
 - name: Kevin Haagensen Strömberg
   mail: kevin.hs@ungvetenskapssport.se
   role: Ledamot
-  current: true
+  current: false
   img: /imgs/styrelsen/2023/kevin_square.jpg
   year: 2024
 
 - name: Jiachen Mi
   role: Ledamot
   mail: jiachen.mi@ungvetenskapssport.se
-  current: true
+  current: false
   img: /imgs/styrelsen/2024/milly_open.webp
   img2: /imgs/styrelsen/2024/milly_closed.webp
   year: 2024
@@ -53,7 +128,7 @@
 - name: Klara Bragesjö Björkén
   role: Ledamot
   mail: klara.bjorken@ungvetenskapssport.se
-  current: true
+  current: false
   img: /imgs/styrelsen/2024/klara_open.webp
   img2: /imgs/styrelsen/2024/klara_closed.webp
   year: 2024
@@ -61,7 +136,7 @@
 - name: Ellinor Åhlander
   role: Ledamot
   mail: ellinor.ahlander@ungvetenskapssport.se
-  current: true
+  current: false
   img: /imgs/styrelsen/2024/ellinor_open.webp
   img2: /imgs/styrelsen/2024/ellinor_closed.webp
   year: 2024
@@ -69,7 +144,7 @@
 - name: Sebastian Westerlund
   role: Suppleant (I)
   mail: sebastian.westerlund@ungvetenskapssport.se
-  current: true
+  current: false
   img: /imgs/styrelsen/2024/sebastian_open.webp
   img2: /imgs/styrelsen/2024/sebastian_closed.webp
   year: 2024
@@ -77,7 +152,7 @@
 - name: Ruth Risberg
   role: Suppleant (II)
   mail: ruth.risberg@ungvetenskapssport.se
-  current: true
+  current: false
   img: /imgs/styrelsen/2024/ruth_open.webp
   img2: /imgs/styrelsen/2024/ruth_closed.webp
   year: 2024
@@ -85,7 +160,7 @@
 - name: Martin Wennberg
   role: Suppleant (III)
   mail: martin.wennberg@ungvetenskapssport.se
-  current: true
+  current: false
   img: /imgs/styrelsen/2024/martin_open.webp
   img2: /imgs/styrelsen/2024/martin_closed.webp
   year: 2024
