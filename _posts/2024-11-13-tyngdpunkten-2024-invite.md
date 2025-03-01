@@ -1,9 +1,9 @@
 ---
 # meta
 layout: special_event_layout
-id: tyngdpunkten
+id: tyngdpunkten-2024-invite
 header-img: /imgs/tyngdpunkten/tyngdpunkten_logga_2024_3.png # recommended dimensions: 2732x668px but other aspect ratios should also be fine.
-permalink: /tyngdpunkten/    # link to be used to access page
+permalink: /tyngdpunkten-2024-invite/    # link to be used to access page
 # content
 title: Tyngdpunkten 2024   # used on image
 title-size: 4.8vw,65px       # Adjust to make text wrapping ok. Run through min(), e.g.: min(7vw,30px)
