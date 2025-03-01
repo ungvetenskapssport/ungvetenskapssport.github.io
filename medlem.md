@@ -68,7 +68,7 @@ id: medlem
 
 <div style="width: 100%; max-width: 800px; margin: 0 auto;">
     <iframe 
-        src="https://clickable-file-magic.lovable.app/" 
+        src="https://clickable-file-magic-18.lovable.app/" 
         width="100%" 
         height="300px" 
         style="border: none; overflow: hidden;"
