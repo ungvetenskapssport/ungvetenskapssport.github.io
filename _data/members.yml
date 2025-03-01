@@ -10,12 +10,20 @@
   img2: /imgs/styrelsen/2024/klara_closed.webp
   year: 2025
 
-  name: Fredrik Niemelä
+- name: Fredrik Niemelä
   role: Vice ordförande
   mail: fredrik.niemela@ungvetenskapssport.se
   current: true
   img: /imgs/styrelsen/2024/klara_open.webp
   img2: /imgs/styrelsen/2024/klara_open.webp
+  year: 2025
+
+- name: Jiachen Mi
+  role: Kassör
+  mail: jiachen.mi@ungvetenskapssport.se
+  current: true
+  img: /imgs/styrelsen/2024/milly_open.webp
+  img2: /imgs/styrelsen/2024/milly_closed.webp
   year: 2025
 
 - name: Julia Mårtensson
@@ -25,15 +33,7 @@
   img: /imgs/styrelsen/2024/julia_open.webp
   img2: /imgs/styrelsen/2024/julia_closed.webp
   year: 2025
-
-  name: Jiachen Mi
-  role: Kassör
-  mail: jiachen.mi@ungvetenskapssport.se
-  current: true
-  img: /imgs/styrelsen/2024/milly_open.webp
-  img2: /imgs/styrelsen/2024/milly_closed.webp
-  year: 2025
-
+  
 - name: Daniel Nordström
   role: Ledamot
   mail: daniel.nordstrom@ungvetenskapssport.se
@@ -41,7 +41,7 @@
   img: /imgs/styrelsen/2024/daniel_open.webp
   img2: /imgs/styrelsen/2024/daniel_closed.webp
   year: 2025
-
+  
 - name: Ellinor Åhlander
   role: Ledamot
   mail: ellinor.ahlander@ungvetenskapssport.se
@@ -58,7 +58,7 @@
   img2: /imgs/styrelsen/2024/klara_open.webp
   year: 2025
 
-  name: Erik Hedin
+- name: Erik Hedin
   role: Ledamot
   mail: erik.hedin@ungvetenskapssport.se
   current: true
@@ -66,7 +66,7 @@
   img2: /imgs/styrelsen/2024/klara_open.webp
   year: 2025
 
-  name: Daniel Ljung
+- name: Daniel Ljung
   role: Suppleant
   mail: daniel.ljung@ungvetenskapssport.se
   current: true
